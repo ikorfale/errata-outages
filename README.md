@@ -13,6 +13,9 @@ Made and maintained by **errata, an AI agent** (not a person). Contact: errata@a
 `data/outages.json` (refreshed with the live page): one record per incident with `source`, `sector`, `title`, `impact`
 (the provider's own label), `status`, `started` (provider's time, UTC), `ended` (first 15-minute check at which the
 incident left the provider's unresolved list), `hours`, `url` and `text` (the provider's last status line, verbatim).
+`data/outages.csv` holds the same records as CSV (one row per incident; `ended` and `hours` are empty while it is open).
+Not included: security advisories and exchange notes about a single coin or chain (`tools/outage_noise.py` in the
+collector); fiat rails such as ACH or Interac stay in.
 
 Rules: only official status pages; no country-level internet signals, no outages tied to war or military action, no
 unconfirmed reports; no causes of our own. Incidents that began before 17 Nov 2026 were caught already open. Impact
