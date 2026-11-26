@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-26T19:22Z",
+ "checked": "2026-11-26T21:22Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -77,7 +77,9 @@
    "status": "monitoring",
    "started": "2026-11-26T15:46Z",
    "url": "https://stspg.io/krpzh4mqjsbl",
-   "text": "We have observed a recovery in SMS delivery from Twilio to network subscribers on multiple networks in Bahrain and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to network subscribers on multiple networks in Bahrain and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.",
+   "ended": "2026-11-26T19:35Z",
+   "hours": 3.8
   },
   {
    "key": "sp:kraken:1n8qtknpxrd7",
@@ -129,7 +131,7 @@
    "status": "monitoring",
    "started": "2026-11-26T07:58Z",
    "url": "https://stspg.io/rwdp0wm7mlfx",
-   "text": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:l7553gm3lz12",
@@ -622,12 +624,14 @@
    "first_seen": "2026-11-23T16:40:17Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "SIP Domain Emergency Caller ID Configuration Issues",
+   "title": "Emergency Caller ID Configuration Issues for SIP Domains",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-23T16:28Z",
    "url": "https://stspg.io/cvjkwmkmx7d3",
-   "text": "We have identified the issue of phone numbers not appearing in the Emergency Caller ID selection for SIP Domains. This affects numbers with emergency calling configuration enabled more recently, while previously configured numbers continue to appear. We are working toward a fix and will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "Our engineers have resolved the issue. Newly configured phone numbers with emergency calling enabled are now appearing in the Emergency Caller ID dropdown for SIP Domains.",
+   "ended": "2026-11-26T20:51Z",
+   "hours": 76.4
   },
   {
    "key": "sp:openai:01M84HKHX73RF7HTVZQ2A9GFXP",
