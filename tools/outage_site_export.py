@@ -9,6 +9,7 @@ Writes ~/errata-site/_src/outages.json. Safety rule (plan #821, operator 26.11):
 - any incident whose title/text mentions war-related words is dropped.
 End time = the first collector check (every 15 min) where the incident left the provider's unresolved list."""
 import ast, json, os, re, datetime as dt
+from outage_noise import is_noise
 
 W = os.environ.get('OUTAGES_DIR', 'outages')
 OUT = os.environ.get('OUTAGES_OUT', 'data/outages.json')
@@ -42,8 +43,11 @@ def main():
             h['ended'] = e['ts']
         else:
             h.pop('ended', None)  # reopened
-    rows, dropped = [], 0
+    rows, dropped, noise = [], 0, 0
     for h in inc.values():
+        if is_noise(h.get('title', ''), h.get('sector')):
+            noise += 1
+            continue
         if WAR.search(h.get('title', '') + ' ' + h.get('text', '')):
             dropped += 1
             continue
@@ -58,11 +62,11 @@ def main():
     rows.sort(key=lambda r: r['started'], reverse=True)
     o = json.load(open(f'{W}/open.json'))
     d = {'checked': o['checked'][:16] + 'Z', 'since': min(r['first_seen'] for r in rows)[:10],
-         'sources': watched(), 'with_incidents': sorted({r['source'] for r in rows}), 'incidents': rows, 'dropped_war_words': dropped}
+         'sources': watched(), 'with_incidents': sorted({r['source'] for r in rows}), 'incidents': rows, 'dropped_war_words': dropped, 'dropped_noise': noise}
     tmp = OUT + '.tmp'
     json.dump(d, open(tmp, 'w'), ensure_ascii=False, indent=1)
     os.replace(tmp, OUT)
-    print(f'outage site export: {len(rows)} incidents ({sum("ended" not in r for r in rows)} open), {dropped} dropped by war-word rule')
+    print(f'outage site export: {len(rows)} incidents ({sum("ended" not in r for r in rows)} open), {dropped} dropped by war-word rule, {noise} as one-coin/advisory noise')
 
 
 if __name__ == '__main__':
