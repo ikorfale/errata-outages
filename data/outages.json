@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-26T19:05Z",
+ "checked": "2026-11-26T19:22Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -78,6 +78,18 @@
    "started": "2026-11-26T15:46Z",
    "url": "https://stspg.io/krpzh4mqjsbl",
    "text": "We have observed a recovery in SMS delivery from Twilio to network subscribers on multiple networks in Bahrain and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+  },
+  {
+   "key": "sp:kraken:1n8qtknpxrd7",
+   "first_seen": "2026-11-26T19:22:47Z",
+   "source": "Kraken",
+   "sector": "crypto",
+   "title": "Interac e-Transfer (CAD) Withdrawal Delays",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-26T14:39Z",
+   "url": "https://stspg.io/d0lhks0rcppy",
+   "text": "We're investigating an issue with the Interac e-Transfer (CAD) funding gateway. Withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated."
   },
   {
    "key": "sp:cloudflare:filussqshtfq",
@@ -510,20 +522,6 @@
    "hours": 0.7
   },
   {
-   "key": "sp:kraken:k4nsdzmry0q7",
-   "first_seen": "2026-11-24T01:35:20Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "USDC - ETH withdrawing Delays",
-   "impact": "minor",
-   "status": "investigating",
-   "started": "2026-11-24T01:32Z",
-   "url": "https://stspg.io/546r5lldc9xn",
-   "text": "We're investigating an issue with the USDC - ETH funding gateway. Withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated.",
-   "ended": "2026-11-24T02:54Z",
-   "hours": 1.4
-  },
-  {
    "key": "sp:anthropic:3vbyqgnswwxq",
    "first_seen": "2026-11-24T00:20:17Z",
    "source": "Anthropic",
@@ -672,20 +670,6 @@
    "text": "Fixes have been deployed to production and inconsistent reads no longer appear to occurring. Continuing to monitor throughout the remainder of the day.",
    "ended": "2026-11-24T21:45Z",
    "hours": 31.9
-  },
-  {
-   "key": "sp:gemini:gv5cqt9klvy1",
-   "first_seen": "2026-11-23T13:35:17Z",
-   "source": "Gemini (exchange)",
-   "sector": "crypto",
-   "title": "TRON deposits and withdrawals are temporarily unavailable.",
-   "impact": "minor",
-   "status": "investigating",
-   "started": "2026-11-23T13:20Z",
-   "url": "https://stspg.io/57cflvty6831",
-   "text": "TRON deposits and withdrawals are temporarily unavailable.Our team is investigating the issue and working to restore service. We’ll provide an update as soon as service is restored. All customer accounts funds remain secure.",
-   "ended": "2026-11-23T21:30Z",
-   "hours": 8.2
   },
   {
    "key": "sp:kraken:j7sd1r3xvmx2",
@@ -1256,20 +1240,6 @@
    "hours": 0.7
   },
   {
-   "key": "sp:kraken:bccy6g93gmbf",
-   "first_seen": "2026-11-18T17:20:19Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Ink Network Funding Delays",
-   "impact": "minor",
-   "status": "identified",
-   "started": "2026-11-18T17:10Z",
-   "url": "https://stspg.io/2ys0r0wydmtp",
-   "text": "The issue has been identified and a fix is being implemented.",
-   "ended": "2026-11-19T16:35Z",
-   "hours": 23.4
-  },
-  {
    "key": "sp:cashapp:n96tcdx7mn8h",
    "first_seen": "2026-11-18T17:05:18Z",
    "source": "Cash App",
@@ -1562,20 +1532,6 @@
    "hours": 2.6
   },
   {
-   "key": "sp:kraken:qwyyxqhgk3wj",
-   "first_seen": "2026-11-17T21:26:20Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Tether USD (USDT) - Tron Funding Delays",
-   "impact": "minor",
-   "status": "identified",
-   "started": "2026-11-17T21:13Z",
-   "url": "https://stspg.io/yqht12jqry6b",
-   "text": "We have identified the cause of the delays. Processing has resumed and pending transactions are being worked through.",
-   "ended": "2026-11-17T22:43Z",
-   "hours": 1.5
-  },
-  {
    "key": "sp:cloudflare:gcn9xop0f7zm",
    "first_seen": "2026-11-17T20:10:17Z",
    "source": "Cloudflare",
@@ -1716,20 +1672,6 @@
    "hours": 12.5
   },
   {
-   "key": "sp:akamai:jkbdjhj81cx5",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Akamai",
-   "sector": "cloud",
-   "title": "Customer Security Advisory: Remote code execution vulnerability in the Apache HTTP Server's HTTP/2 module",
-   "impact": "minor",
-   "status": "investigating",
-   "started": "2026-11-17T12:46Z",
-   "url": "https://stspg.io/922154lrzy5x",
-   "text": "Akamai continues to investigate the potential impact of this vulnerability across our platform and infrastructure. As of this time, we have no evidence that this vulnerability has been exploited on any Akamai platform/products. Customers and partners with a valid Control Center login can find more details at https://community.akamai.com/customers/s/feed/0D5a700001ewU8ICAU. If you have questions or",
-   "ended": "2026-11-17T17:05Z",
-   "hours": 4.3
-  },
-  {
    "key": "sp:twilio:ykggc4c79v40",
    "first_seen": "2026-11-17T17:05:22Z",
    "source": "Twilio",
@@ -1772,20 +1714,6 @@
    "hours": 59.4
   },
   {
-   "key": "sp:kraken:y5p24gbkbths",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Kava (KAVA) Funding Delays",
-   "impact": "minor",
-   "status": "identified",
-   "started": "2026-11-16T06:57Z",
-   "url": "https://stspg.io/98xctkfmd71x",
-   "text": "We're aware of an issue with the Kava (KAVA) funding gateway. Deposits and withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated.",
-   "ended": "2026-11-17T17:05Z",
-   "hours": 34.1
-  },
-  {
    "key": "sp:gemini:cr6vm27hr05t",
    "first_seen": "2026-11-17T17:05:22Z",
    "source": "Gemini (exchange)",
@@ -1798,20 +1726,6 @@
    "text": "A fix has been implemented for the issue affecting ACH deposits, and ACH deposits can now be initiated again. Deposits that were cancelled did not move any funds, and customers can resubmit them. We are monitoring to confirm that deposits continue to complete successfully.",
    "ended": "2026-11-25T02:55Z",
    "hours": 236.0
-  },
-  {
-   "key": "sp:kraken:yshfxnffsgl2",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Osmosis (OSMO) Funding Delays",
-   "impact": "minor",
-   "status": "investigating",
-   "started": "2026-11-14T11:02Z",
-   "url": "https://stspg.io/m0v330r5jhjb",
-   "text": "We're investigating an issue with the Osmosis (OSMO) funding gateway. Deposits and withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated.",
-   "ended": "2026-11-17T17:05Z",
-   "hours": 78.1
   },
   {
    "key": "sp:twilio:ggl560xm44sh",
@@ -1840,34 +1754,6 @@
    "text": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Mobile Numbers and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.",
    "ended": "2026-11-17T22:28Z",
    "hours": 125.6
-  },
-  {
-   "key": "sp:kraken:dk2sjsgq5tx3",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Flare Funding Delays",
-   "impact": "minor",
-   "status": "investigating",
-   "started": "2026-11-11T15:37Z",
-   "url": "https://stspg.io/lws4xdj6r6np",
-   "text": "We're investigating an issue with the Flare funding gateway. Deposits and withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated.",
-   "ended": "2026-11-17T17:05Z",
-   "hours": 145.5
-  },
-  {
-   "key": "sp:kraken:6yrrplqc5yv0",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Initia (INIT) Funding Delays",
-   "impact": "minor",
-   "status": "identified",
-   "started": "2026-11-10T08:23Z",
-   "url": "https://stspg.io/6m8947xr22xm",
-   "text": "The issue has been identified and a fix is being implemented.",
-   "ended": "2026-11-17T17:05Z",
-   "hours": 176.7
   },
   {
    "key": "sp:cloudflare:0ocqieaifg7h",
@@ -1906,31 +1792,8 @@
    "started": "2026-11-02T05:41Z",
    "url": "https://stspg.io/tbsjgc4grpsw",
    "text": "Twilio customers may be experiencing voice call failures from a subset of Twilio Philippines Phone Numbers to network subscribers on multiple networks in the Philippines. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
-  },
-  {
-   "key": "sp:kraken:373bvd3r2h9c",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Memecore (M) Deposits Disabled",
-   "impact": "minor",
-   "status": "monitoring",
-   "started": "2026-08-19T08:20Z",
-   "url": "https://stspg.io/tjr4tvl88wtp",
-   "text": "Withdrawals for Memecore (M) are available again. As a precautionary measure, deposits have been disabled. Further updates will be communicated separately."
-  },
-  {
-   "key": "sp:kraken:x4z8gsp2y577",
-   "first_seen": "2026-11-17T17:05:22Z",
-   "source": "Kraken",
-   "sector": "crypto",
-   "title": "Stablr USD (USDR) and Stablr Euro (EURR) Funding Methods Halted",
-   "impact": "minor",
-   "status": "identified",
-   "started": "2026-05-24T06:19Z",
-   "url": "https://stspg.io/vxhf1h9y715y",
-   "text": "We are continuing to work on a fix for this issue."
   }
  ],
- "dropped_war_words": 0
+ "dropped_war_words": 0,
+ "dropped_noise": 11
 }
