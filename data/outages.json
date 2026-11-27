@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T09:23Z",
+ "checked": "2026-11-27T12:10Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,6 +54,32 @@
  ],
  "incidents": [
   {
+   "key": "sp:twilio:whgtzwvx619t",
+   "first_seen": "2026-11-27T11:25:18Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Delays from Twilio to Vodafone and Tismi United Kingdom",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-27T11:23Z",
+   "url": "https://stspg.io/9q03b85kpbc1",
+   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to Vodafone and Tismi network subscribers in the United Kingdom. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+  },
+  {
+   "key": "sp:anthropic:0x1yvzkfmmxj",
+   "first_seen": "2026-11-27T10:40:17Z",
+   "source": "Anthropic",
+   "sector": "ai",
+   "title": "Degraded performance for Claude Fable 5.2",
+   "impact": "major",
+   "status": "monitoring",
+   "started": "2026-11-27T10:34Z",
+   "url": "https://stspg.io/n4l14k7m49zw",
+   "text": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+   "ended": "2026-11-27T11:10Z",
+   "hours": 0.6
+  },
+  {
    "key": "sp:akamai:b0yvz1f8lw49",
    "first_seen": "2026-11-27T04:30:23Z",
    "source": "Akamai",
@@ -72,10 +98,10 @@
    "sector": "comms",
    "title": "MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-27T02:20Z",
    "url": "https://stspg.io/7hkn8yf0vc8x",
-   "text": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in MMS delivery from a subset of Twilio Long Codes to GCI network subscribers in the United States and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9f6xy0pvfy9r",
@@ -87,7 +113,9 @@
    "status": "monitoring",
    "started": "2026-11-27T01:15Z",
    "url": "https://stspg.io/bk5cbp5q1s8j",
-   "text": "We have observed a recovery in SMS delivery from Twilio to OneNZ / Vodafone network subscribers in New Zealand and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to OneNZ / Vodafone network subscribers in New Zealand and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-27T11:25Z",
+   "hours": 10.2
   },
   {
    "key": "sp:twilio:ksgz9lqsdqmp",
@@ -1346,12 +1374,12 @@
    "first_seen": "2026-11-18T16:05:17Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "Voice Call Silent and One-Way Audio between Twilio Phone Numbers and Multiple Networks in Colombia",
+   "title": "Voice Call Silent and One-Way Audio Between a Subset of Twilio Phone Numbers and Multiple Networks in Colombia",
    "impact": "minor",
    "status": "monitoring",
    "started": "2026-11-18T15:56Z",
    "url": "https://stspg.io/kckjlns5dw48",
-   "text": "We have observed a recovery in voice calls between Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in voice calls between a subset of Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 16 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9dxlwgdlxlww",
