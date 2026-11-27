@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-26T21:22Z",
+ "checked": "2026-11-27T00:13Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -53,6 +53,18 @@
   "Zoom"
  ],
  "incidents": [
+  {
+   "key": "sp:twilio:ksgz9lqsdqmp",
+   "first_seen": "2026-11-26T22:25:17Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Delays from a Subset of Twilio Alphanumeric and Long Codes to AT&T Mexico",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-26T22:16Z",
+   "url": "https://stspg.io/x6c34mr50tbd",
+   "text": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Alphanumeric and Long Codes to AT&T network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+  },
   {
    "key": "sp:cloudflare:xiqj67vl5pqm",
    "first_seen": "2026-11-26T16:15:21Z",
@@ -131,7 +143,7 @@
    "status": "monitoring",
    "started": "2026-11-26T07:58Z",
    "url": "https://stspg.io/rwdp0wm7mlfx",
-   "text": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:l7553gm3lz12",
@@ -806,10 +818,10 @@
    "sector": "comms",
    "title": "Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-22T03:50Z",
    "url": "https://stspg.io/tsp4vmj649hp",
-   "text": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+   "text": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:cloudflare:d2m4kw94ut4f",
@@ -1290,12 +1302,12 @@
    "first_seen": "2026-11-18T16:05:17Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Phone Numbers",
+   "title": "Voice Call Silent and One-Way Audio Between a Subset of Twilio Phone Numbers and Multiple Networks in Colombia",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-18T15:56Z",
    "url": "https://stspg.io/kckjlns5dw48",
-   "text": "Twilio customers may be experiencing silent and one-way audio for voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in voice calls between a subset of Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9dxlwgdlxlww",
