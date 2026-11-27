@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T00:13Z",
+ "checked": "2026-11-27T03:15Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,16 +54,40 @@
  ],
  "incidents": [
   {
+   "key": "sp:twilio:kv5wqlt4n24z",
+   "first_seen": "2026-11-27T02:30:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-27T02:20Z",
+   "url": "https://stspg.io/7hkn8yf0vc8x",
+   "text": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+  },
+  {
+   "key": "sp:twilio:9f6xy0pvfy9r",
+   "first_seen": "2026-11-27T01:30:17Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T01:15Z",
+   "url": "https://stspg.io/bk5cbp5q1s8j",
+   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to OneNZ / Vodafone network subscribers in New Zealand. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+  },
+  {
    "key": "sp:twilio:ksgz9lqsdqmp",
    "first_seen": "2026-11-26T22:25:17Z",
    "source": "Twilio",
    "sector": "comms",
    "title": "SMS Delivery Delays from a Subset of Twilio Alphanumeric and Long Codes to AT&T Mexico",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-26T22:16Z",
    "url": "https://stspg.io/x6c34mr50tbd",
-   "text": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Alphanumeric and Long Codes to AT&T network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from a subset of Twilio Alphanumeric Sender ID and Long Codes to AT&T network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:cloudflare:xiqj67vl5pqm",
@@ -100,10 +124,10 @@
    "sector": "crypto",
    "title": "Interac e-Transfer (CAD) Withdrawal Delays",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-26T14:39Z",
    "url": "https://stspg.io/d0lhks0rcppy",
-   "text": "We're investigating an issue with the Interac e-Transfer (CAD) funding gateway. Withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated."
+   "text": "A fix has been implemented and we are monitoring the results."
   },
   {
    "key": "sp:cloudflare:filussqshtfq",
@@ -697,7 +721,9 @@
    "status": "identified",
    "started": "2026-11-23T12:52Z",
    "url": "https://stspg.io/1ypvb07wv0gq",
-   "text": "Our payment provider, Apaylo, has confirmed an ongoing technical issue affecting CAD deposit processing. Apaylo is working to restore its services. CAD deposits may continue to experience delays until the issue is resolved. We are monitoring the situation closely and will provide further updates as they become available."
+   "text": "Our payment provider, Apaylo, has confirmed an ongoing technical issue affecting CAD deposit processing. Apaylo is working to restore its services. CAD deposits may continue to experience delays until the issue is resolved. We are monitoring the situation closely and will provide further updates as they become available.",
+   "ended": "2026-11-27T02:15Z",
+   "hours": 85.4
   },
   {
    "key": "sp:wise:h0gkscxtk9sj",
@@ -821,7 +847,7 @@
    "status": "monitoring",
    "started": "2026-11-22T03:50Z",
    "url": "https://stspg.io/tsp4vmj649hp",
-   "text": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:cloudflare:d2m4kw94ut4f",
