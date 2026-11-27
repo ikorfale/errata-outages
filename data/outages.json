@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T03:15Z",
+ "checked": "2026-11-27T06:18Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,6 +54,18 @@
  ],
  "incidents": [
   {
+   "key": "sp:akamai:b0yvz1f8lw49",
+   "first_seen": "2026-11-27T04:30:23Z",
+   "source": "Akamai",
+   "sector": "cloud",
+   "title": "Edge Delivery Issues",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T04:26Z",
+   "url": "https://stspg.io/38hb8kv3kqcy",
+   "text": "We are continuing to investigate this issue. Customers and partners can find more details on the Akamai Community: https://community.akamai.com/customers/s/feed/0D5a700001hiYTECA2. We will provide the next update as we make progress."
+  },
+  {
    "key": "sp:twilio:kv5wqlt4n24z",
    "first_seen": "2026-11-27T02:30:20Z",
    "source": "Twilio",
@@ -63,7 +75,7 @@
    "status": "identified",
    "started": "2026-11-27T02:20Z",
    "url": "https://stspg.io/7hkn8yf0vc8x",
-   "text": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+   "text": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9f6xy0pvfy9r",
@@ -72,10 +84,10 @@
    "sector": "comms",
    "title": "SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand",
    "impact": "minor",
-   "status": "investigating",
+   "status": "monitoring",
    "started": "2026-11-27T01:15Z",
    "url": "https://stspg.io/bk5cbp5q1s8j",
-   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to OneNZ / Vodafone network subscribers in New Zealand. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to OneNZ / Vodafone network subscribers in New Zealand and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:ksgz9lqsdqmp",
@@ -87,7 +99,9 @@
    "status": "monitoring",
    "started": "2026-11-26T22:16Z",
    "url": "https://stspg.io/x6c34mr50tbd",
-   "text": "We have observed a recovery in SMS delivery from a subset of Twilio Alphanumeric Sender ID and Long Codes to AT&T network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from a subset of Twilio Alphanumeric Sender ID and Long Codes to AT&T network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.",
+   "ended": "2026-11-27T03:30Z",
+   "hours": 5.2
   },
   {
    "key": "sp:cloudflare:xiqj67vl5pqm",
@@ -127,7 +141,9 @@
    "status": "monitoring",
    "started": "2026-11-26T14:39Z",
    "url": "https://stspg.io/d0lhks0rcppy",
-   "text": "A fix has been implemented and we are monitoring the results."
+   "text": "A fix has been implemented and we are monitoring the results.",
+   "ended": "2026-11-27T03:45Z",
+   "hours": 13.1
   },
   {
    "key": "sp:cloudflare:filussqshtfq",
@@ -375,7 +391,7 @@
    "status": "identified",
    "started": "2026-11-25T06:31Z",
    "url": "https://stspg.io/72lmzlvqj3bm",
-   "text": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+   "text": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:linode:qmwj3pny6r6t",
@@ -847,7 +863,9 @@
    "status": "monitoring",
    "started": "2026-11-22T03:50Z",
    "url": "https://stspg.io/tsp4vmj649hp",
-   "text": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-27T03:45Z",
+   "hours": 119.9
   },
   {
    "key": "sp:cloudflare:d2m4kw94ut4f",
@@ -1328,12 +1346,12 @@
    "first_seen": "2026-11-18T16:05:17Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "Voice Call Silent and One-Way Audio Between a Subset of Twilio Phone Numbers and Multiple Networks in Colombia",
+   "title": "Voice Call Silent and One-Way Audio between Twilio Phone Numbers and Multiple Networks in Colombia",
    "impact": "minor",
    "status": "monitoring",
    "started": "2026-11-18T15:56Z",
    "url": "https://stspg.io/kckjlns5dw48",
-   "text": "We have observed a recovery in voice calls between a subset of Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in voice calls between Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9dxlwgdlxlww",
