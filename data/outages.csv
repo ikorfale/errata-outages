@@ -1,8 +1,49 @@
 started,ended,hours,source,sector,impact,status,title,url,text,key,first_seen
-2026-11-27T15:04Z,,,Kraken,crypto,minor,identified,Prop order execution issues,https://stspg.io/zr2rv9sqrjx5,The issue has been identified and a fix is being implemented.,sp:kraken:fj8rtq8hh1cz,2026-11-27T15:14:20Z
+2026-11-27T18:05Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/vmh0kp4xg1kq,"Due to sustained high traffic on the US carrier networks, we are currently experiencing SMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  
+
+Please find the current delivery status for the major carriers below:
+
+United States:
+
+AT&T (status - DLR Delayed)
+T-Mobile (status -  Operational)
+Ver",sp:twilio:2yzm68jqtl5q,2026-11-27T18:17:20Z
+2026-11-27T17:40Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Toll-Free to US/CA,https://stspg.io/gyrgw2z3kzpz,"Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:
+
+United States:
+
+AT&T (status - Operational)
+T-Mobile (status - Operational)
+Verizon (status -  Operational)
+Appalachian (status - Delays)
+
+Canada:
+
+Videotron in Canada  - (status - DLR Delays)
+Cogeco - (status - DLR Delays)",sp:twilio:540h10h47l48,2026-11-27T17:15:21Z
+2026-11-27T17:18Z,2026-11-27T18:02Z,0.7,Twilio,comms,minor,investigating,RCS Message Delivery Failures,https://stspg.io/fqzbq2wdh05w,We are investigating an issue with RCS Messaging. Users may experience messages not being timely  delivered and/or marked delivered on AT&T network. We will provide another update in 1 hour or as soon as more information becomes available.,sp:twilio:wr55v3qb6hjp,2026-11-27T17:31:20Z
+2026-11-27T16:57Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Short-Code to US/CA,https://stspg.io/4ytn0nz8xcgp,"Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  
+
+Please find the current delivery status for the major carriers below:
+
+United States:
+
+AT&T (status - Delays)
+T-Mobile (status - Operational)
+Verizon (",sp:twilio:22slxfqncqr7,2026-11-27T17:00:20Z
+2026-11-27T16:53Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Toll-Free to US/CA,https://stspg.io/jbf2vqmwn628,"Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Toll-Free numbers. Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  
+
+Please find the current delivery status for the major carriers below:
+
+United States:
+
+AT&T (status - Delays)
+T-Mobile (status - Operational)
+Veri",sp:twilio:93c38rcb25dz,2026-11-27T17:00:20Z
+2026-11-27T15:04Z,2026-11-27T16:15Z,1.2,Kraken,crypto,minor,monitoring,Prop order execution issues,https://stspg.io/zr2rv9sqrjx5,A fix has been implemented and we are monitoring the results.,sp:kraken:fj8rtq8hh1cz,2026-11-27T15:14:20Z
 2026-11-27T14:49Z,2026-11-27T15:14Z,0.4,Cloudflare,cloud,minor,identified,Cloudflare University website unavailable,https://www.cloudflarestatus.com/incidents/955xa7dtx0ca,The issue has been identified and a fix is being implemented.,sp:cloudflare:955xa7dtx0ca,2026-11-27T14:59:20Z
-2026-11-27T12:10Z,,,Twilio,comms,minor,identified,SMS Delivery Delays from Twilio to Izzi Mexico,https://stspg.io/xkkw0lh2ttmb,"Twilio customers may be experiencing SMS delivery delays from Twilio to Izzi network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available.",sp:twilio:5px4q9my59kq,2026-11-27T12:25:20Z
-2026-11-27T11:23Z,,,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Vodafone and Tismi United Kingdom,https://stspg.io/9q03b85kpbc1,We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:whgtzwvx619t,2026-11-27T11:25:18Z
+2026-11-27T12:10Z,,,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Izzi Mexico,https://stspg.io/xkkw0lh2ttmb,We have observed a recovery in SMS delivery from Twilio to Izzi network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:5px4q9my59kq,2026-11-27T12:25:20Z
+2026-11-27T11:23Z,,,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Vodafone and Tismi United Kingdom,https://stspg.io/9q03b85kpbc1,We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:whgtzwvx619t,2026-11-27T11:25:18Z
 2026-11-27T10:34Z,2026-11-27T11:10Z,0.6,Anthropic,ai,major,monitoring,Degraded performance for Claude Fable 5.2,https://stspg.io/n4l14k7m49zw,A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.,sp:anthropic:0x1yvzkfmmxj,2026-11-27T10:40:17Z
 2026-11-27T04:26Z,,,Akamai,cloud,minor,investigating,Edge Delivery Issues,https://stspg.io/38hb8kv3kqcy,We are continuing to investigate this issue. Customers and partners can find more details on the Akamai Community: https://community.akamai.com/customers/s/feed/0D5a700001hiYTECA2. We will provide the next update as we make progress.,sp:akamai:b0yvz1f8lw49,2026-11-27T04:30:23Z
 2026-11-27T02:20Z,2026-11-27T14:59Z,12.6,Twilio,comms,minor,monitoring,MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States,https://stspg.io/7hkn8yf0vc8x,We have observed a recovery in MMS delivery from a subset of Twilio Long Codes to GCI network subscribers in the United States and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:kv5wqlt4n24z,2026-11-27T02:30:20Z
@@ -13,7 +54,7 @@ started,ended,hours,source,sector,impact,status,title,url,text,key,first_seen
 2026-11-26T14:39Z,2026-11-27T03:45Z,13.1,Kraken,crypto,minor,monitoring,Interac e-Transfer (CAD) Withdrawal Delays,https://stspg.io/d0lhks0rcppy,A fix has been implemented and we are monitoring the results.,sp:kraken:1n8qtknpxrd7,2026-11-26T19:22:47Z
 2026-11-26T14:19Z,2026-11-26T18:18Z,4.0,Cloudflare,cloud,minor,monitoring,AI Gateway – Elevated errors for Gemini 4 models using Unified Billing,https://www.cloudflarestatus.com/incidents/filussqshtfq,A fix has been implemented and we are monitoring the results.,sp:cloudflare:filussqshtfq,2026-11-26T14:30:17Z
 2026-11-26T09:26Z,2026-11-26T10:10Z,0.7,Cloudflare,cloud,minor,identified,RealTimeKit Recording Delays,https://www.cloudflarestatus.com/incidents/mkudgr09g9ax,The issue has been identified and a fix is being implemented.,sp:cloudflare:mkudgr09g9ax,2026-11-26T09:38:20Z
-2026-11-26T07:58Z,,,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Bouygues Telecom France,https://stspg.io/rwdp0wm7mlfx,SMS delivery from Twilio to Bouygues Telecom network subscribers in France remains stable. We are extending our monitoring window by an additional 8 hours to confirm sustained stability before resolving this incident. We will provide another update in 8 hours or as soon as more information becomes available.,sp:twilio:sv0gq9wsgmvl,2026-11-26T08:05:17Z
+2026-11-26T07:58Z,2026-11-27T15:29Z,31.5,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Bouygues Telecom France,https://stspg.io/rwdp0wm7mlfx,SMS delivery from Twilio to Bouygues Telecom network subscribers in France remains stable. We are extending our monitoring window by an additional 8 hours to confirm sustained stability before resolving this incident. We will provide another update in 8 hours or as soon as more information becomes available.,sp:twilio:sv0gq9wsgmvl,2026-11-26T08:05:17Z
 2026-11-26T07:41Z,2026-11-26T18:50Z,11.1,Twilio,comms,minor,monitoring,Voice Call Post Dial Delay and Failures between a Subset of Twilio South Africa Phone Numbers and Network Subscribers in South Africa,https://stspg.io/0h9sgv6c925j,We have observed a recovery in voice calls between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:l7553gm3lz12,2026-11-26T07:50:17Z
 2026-11-26T04:01Z,2026-11-26T06:31Z,2.5,Twilio,comms,minor,monitoring,Delay In Outbound SMS Send,https://stspg.io/61290pdd6tbv,"Our engineers have mitigated the issue and are monitoring system performance. Outbound SMS traffic is returning to normal, and messages that were previously delayed are being processed. We will provide another update in 2 hours or as soon as more information becomes available.",sp:twilio:5rbrrc126nq7,2026-11-26T04:14:20Z
 2026-11-26T00:49Z,2026-11-26T04:30Z,3.7,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Spusu United Kingdom,https://stspg.io/ymdrx1zttc6m,We have observed a recovery in SMS delivery from Twilio to Spusu network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:j5pydzd50fhm,2026-11-26T00:55:17Z
@@ -31,7 +72,7 @@ We’ll share an update as we learn more.",sp:cloudflare:vk87u9j2g6if,2026-11-25
 
 Our team will continue to monitor the situation closely and keep you informed of any further developments.",sp:zoom:wltt2z6h9m71,2026-11-25T07:45:17Z
 2026-11-25T07:24Z,2026-11-25T09:15Z,1.8,Cloudflare,cloud,minor,monitoring,Firewall Configuration Delay,https://www.cloudflarestatus.com/incidents/xufkpdtfdglk,A fix has been implemented and we are monitoring the results.,sp:cloudflare:xufkpdtfdglk,2026-11-25T07:30:17Z
-2026-11-25T06:31Z,,,Twilio,comms,minor,identified,SMS Delivery Failures from Twilio to Econet Telecom Lesotho,https://stspg.io/72lmzlvqj3bm,"Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available.",sp:twilio:gjc25j51yq37,2026-11-25T06:43:21Z
+2026-11-25T06:31Z,2026-11-27T15:44Z,57.2,Twilio,comms,minor,monitoring,SMS Delivery Failures from Twilio to Econet Telecom Lesotho,https://stspg.io/72lmzlvqj3bm,We have observed a recovery in SMS delivery from Twilio to Econet Telecom network subscribers in Lesotho and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:gjc25j51yq37,2026-11-25T06:43:21Z
 2026-11-25T03:40Z,2026-11-25T19:00Z,15.3,Akamai Linode,cloud,minor,investigating,Connectivity Issue - US-East (Newark),https://stspg.io/spwyr1807mtt,"Our investigation has identified that the intermittent connectivity issues in the Newark data center are caused by recurring, high-volume traffic surges targeting specific workloads hosted in this data center. Our network operations team is actively applying mitigations to reduce impact and closely monitoring network stability as we work toward a full resolution. If you are experiencing issues and",sp:linode:qmwj3pny6r6t,2026-11-25T03:55:20Z
 2026-11-25T00:08Z,2026-11-25T01:22Z,1.2,GitHub,dev,critical,investigating,Disruption with Code Completions and Next Edit Suggestions,https://stspg.io/bk5200jsb13k,We've applied a mitigation to fix the issues with Code Completion and Next Edit Suggestions. We are seeing improvements in telemetry and are monitoring for full recovery.,sp:github:m0wx9qml7yjh,2026-11-25T00:20:20Z
 2026-11-24T22:16Z,2026-11-25T01:38Z,3.4,Cash App,payments,minor,identified,Connection issues,https://stspg.io/0mpsyhld7zyj,"We've identified the issue affecting Afterpay in Cash App. Some customers may be unable to open Afterpay, shop Afterpay Outlet, or set up a payment plan on a past purchase. Our teams are actively working on a fix, thank you for your patience in the meantime.",sp:cashapp:ccgjkfn218cc,2026-11-24T22:31:20Z
@@ -89,7 +130,11 @@ Our team will continue to monitor the situation closely and keep you informed of
 We will continue to monitor to ensure that the impact has been fully mitigated.",sp:akamai:bjf3f254x3rd,2026-11-20T03:32:17Z
 2026-11-20T02:52Z,2026-11-20T04:49Z,1.9,Cloudflare,cloud,minor,monitoring, R2 and Durable Objects availability issues,https://www.cloudflarestatus.com/incidents/pfwuex7qix27,A fix has been implemented and we are monitoring the results.,sp:cloudflare:pfwuex7qix27,2026-11-20T03:01:20Z
 2026-11-19T20:06Z,2026-11-20T14:15Z,18.1,Kraken,crypto,minor,identified,Futures cancel-after-timeout requests rejected,https://stspg.io/nc1s89bnyqmk,We are continuing to work on a fix for this issue.,sp:kraken:m44tdl2fvbf2,2026-11-19T20:10:17Z
-2026-11-19T18:07Z,,,Wise,payments,major,identified,Delayed transfers to COP,https://stspg.io/2k7qjwf7gp7t,"Some payments to COP are still delayed due to an ongoing issue. Payments up to 9,500,000 COP made to personal recipients with a Bancocolombia account are working as normal. Our team is working to resolve the issue and we’ll update this page as soon as transfers are back to normal.",sp:wise:66557h3p9g8z,2026-11-19T18:20:20Z
+2026-11-19T18:07Z,,,Wise,payments,major,identified,Delayed transfers to COP,https://stspg.io/2k7qjwf7gp7t,"Some payments to COP are still delayed due to an ongoing technical issue with one of our banking partners. We’re working closely with our partner to resolve this.
+
+Payments up to 9,500,000 COP made to personal recipients with a Bancolombia account continue to work as normal.
+
+We’re sorry for the disruption and will share further updates as we have them.",sp:wise:66557h3p9g8z,2026-11-19T18:20:20Z
 2026-11-19T17:06Z,2026-11-19T18:20Z,1.2,GitHub,dev,minor,monitoring,Disruption with some GitHub services,https://stspg.io/pvjz2g01trc7,"Starting around 18:02 UTC on November 5, GitHub web sessions stopped being renewed based on recent activity, so users were signed out when their sessions expired due to inactivity. These sign-outs were caused by a bug in session renewal, not due to a security incident.<br /><br />We believe we fixed the bug at 05:23 UTC on November 19, and sessions created since then should renew as usual. We’re c",sp:github:m310qbkfm3ww,2026-11-19T17:20:19Z
 2026-11-19T16:30Z,2026-11-19T21:56Z,5.4,Cloudflare,cloud,minor,monitoring,Observability ingestion delay and query failures,https://www.cloudflarestatus.com/incidents/ljrvdciu7syf,A fix has been implemented and we are monitoring the results.,sp:cloudflare:ljrvdciu7syf,2026-11-19T16:35:17Z
 2026-11-19T16:01Z,2026-11-19T17:05Z,1.1,OpenAI,ai,major,monitoring,Elevated error rates for gpt-6 Luna API requests,https://status.openai.com,We’ve applied a mitigation and are monitoring the affected services to confirm recovery.,sp:openai:01M7T8MRF9SDBDNQ62Z6V156ZZ,2026-11-19T16:05:17Z

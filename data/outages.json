@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T15:14Z",
+ "checked": "2026-11-27T18:17Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,16 +54,80 @@
  ],
  "incidents": [
   {
+   "key": "sp:twilio:2yzm68jqtl5q",
+   "first_seen": "2026-11-27T18:17:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Status From Twilio Short-Code to US/CA Carriers",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T18:05Z",
+   "url": "https://stspg.io/vmh0kp4xg1kq",
+   "text": "Due to sustained high traffic on the US carrier networks, we are currently experiencing SMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - DLR Delayed)\nT-Mobile (status -  Operational)\nVer"
+  },
+  {
+   "key": "sp:twilio:540h10h47l48",
+   "first_seen": "2026-11-27T17:15:21Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Status From Twilio Toll-Free to US/CA",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T17:40Z",
+   "url": "https://stspg.io/gyrgw2z3kzpz",
+   "text": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Delays)\n\nCanada:\n\nVideotron in Canada  - (status - DLR Delays)\nCogeco - (status - DLR Delays)"
+  },
+  {
+   "key": "sp:twilio:wr55v3qb6hjp",
+   "first_seen": "2026-11-27T17:31:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "RCS Message Delivery Failures",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T17:18Z",
+   "url": "https://stspg.io/fqzbq2wdh05w",
+   "text": "We are investigating an issue with RCS Messaging. Users may experience messages not being timely  delivered and/or marked delivered on AT&T network. We will provide another update in 1 hour or as soon as more information becomes available.",
+   "ended": "2026-11-27T18:02Z",
+   "hours": 0.7
+  },
+  {
+   "key": "sp:twilio:22slxfqncqr7",
+   "first_seen": "2026-11-27T17:00:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "MMS Delivery Status From Twilio Short-Code to US/CA",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T16:57Z",
+   "url": "https://stspg.io/4ytn0nz8xcgp",
+   "text": "Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Delays)\nT-Mobile (status - Operational)\nVerizon ("
+  },
+  {
+   "key": "sp:twilio:93c38rcb25dz",
+   "first_seen": "2026-11-27T17:00:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "MMS Delivery Status From Twilio Toll-Free to US/CA",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-27T16:53Z",
+   "url": "https://stspg.io/jbf2vqmwn628",
+   "text": "Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Toll-Free numbers. Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Delays)\nT-Mobile (status - Operational)\nVeri"
+  },
+  {
    "key": "sp:kraken:fj8rtq8hh1cz",
    "first_seen": "2026-11-27T15:14:20Z",
    "source": "Kraken",
    "sector": "crypto",
    "title": "Prop order execution issues",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-27T15:04Z",
    "url": "https://stspg.io/zr2rv9sqrjx5",
-   "text": "The issue has been identified and a fix is being implemented."
+   "text": "A fix has been implemented and we are monitoring the results.",
+   "ended": "2026-11-27T16:15Z",
+   "hours": 1.2
   },
   {
    "key": "sp:cloudflare:955xa7dtx0ca",
@@ -86,10 +150,10 @@
    "sector": "comms",
    "title": "SMS Delivery Delays from Twilio to Izzi Mexico",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-27T12:10Z",
    "url": "https://stspg.io/xkkw0lh2ttmb",
-   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to Izzi network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to Izzi network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:whgtzwvx619t",
@@ -101,7 +165,7 @@
    "status": "monitoring",
    "started": "2026-11-27T11:23Z",
    "url": "https://stspg.io/9q03b85kpbc1",
-   "text": "We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:anthropic:0x1yvzkfmmxj",
@@ -251,7 +315,9 @@
    "status": "monitoring",
    "started": "2026-11-26T07:58Z",
    "url": "https://stspg.io/rwdp0wm7mlfx",
-   "text": "SMS delivery from Twilio to Bouygues Telecom network subscribers in France remains stable. We are extending our monitoring window by an additional 8 hours to confirm sustained stability before resolving this incident. We will provide another update in 8 hours or as soon as more information becomes available."
+   "text": "SMS delivery from Twilio to Bouygues Telecom network subscribers in France remains stable. We are extending our monitoring window by an additional 8 hours to confirm sustained stability before resolving this incident. We will provide another update in 8 hours or as soon as more information becomes available.",
+   "ended": "2026-11-27T15:29Z",
+   "hours": 31.5
   },
   {
    "key": "sp:twilio:l7553gm3lz12",
@@ -456,10 +522,12 @@
    "sector": "comms",
    "title": "SMS Delivery Failures from Twilio to Econet Telecom Lesotho",
    "impact": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started": "2026-11-25T06:31Z",
    "url": "https://stspg.io/72lmzlvqj3bm",
-   "text": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to Econet Telecom network subscribers in Lesotho and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.",
+   "ended": "2026-11-27T15:44Z",
+   "hours": 57.2
   },
   {
    "key": "sp:linode:qmwj3pny6r6t",
@@ -1183,7 +1251,7 @@
    "status": "identified",
    "started": "2026-11-19T18:07Z",
    "url": "https://stspg.io/2k7qjwf7gp7t",
-   "text": "Some payments to COP are still delayed due to an ongoing issue. Payments up to 9,500,000 COP made to personal recipients with a Bancocolombia account are working as normal. Our team is working to resolve the issue and we’ll update this page as soon as transfers are back to normal."
+   "text": "Some payments to COP are still delayed due to an ongoing technical issue with one of our banking partners. We’re working closely with our partner to resolve this.\n\nPayments up to 9,500,000 COP made to personal recipients with a Bancolombia account continue to work as normal.\n\nWe’re sorry for the disruption and will share further updates as we have them."
   },
   {
    "key": "sp:github:m310qbkfm3ww",
