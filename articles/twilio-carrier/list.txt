@@ -1,0 +1,46 @@
+11-17 01:12 R SMS 19.8 SMS Delivery Delays from a Subset of Twilio Short Codes to Liberty Mobile Puerto Rico
+11-17 09:32 R SMS 5.0 SMS Delivery Delays from Twilio to Sky United Kingdom
+11-17 11:41 R Voice 28.1 Voice Call Audio Quality Degradation Between Twilio and Multiple Networks in United Kingdom
+11-17 14:32 P Other 0.1 Customers Unable to View Balance in Console
+11-17 15:55 R SMS 5.6 SMS Delivery Failures Between a Subset of Twilio Short Codes and Claro in Brazil
+11-17 16:06 R Voice 48.8 Voice Call Audio Quality Degradation and Silent and One-Way Audio between Twilio and Multiple N
+11-17 19:47 R SMS 3.0 SMS Delivery Delays and Failures from a Subset of Twilio Short Codes to AT&T Mexico
+11-17 22:03 P Voice 0.2 Voice Call Signing Issues
+11-17 23:52 P Other 0.9 Programmable Messaging API Errors
+11-18 08:07 P Other 2.8 Speech Recognition and Real-Time Transcription Failures in US1
+11-18 10:35 R SMS 4.3 SMS Delivery Delays and Failures from a Subset of Twilio Short Codes to Bell and Bell Aliant Ca
+11-18 11:44 R Voice 0.8 Voice Call Failures from a Subset of Twilio phone numbers in Brasil
+11-18 14:05 P Other 1.0 Transactional Email Delays in AP
+11-18 15:56 R Voice open Voice Call Silent and One-Way Audio between Twilio Phone Numbers and Multiple Networks in Colom
+11-18 16:17 P Other 4.6 Text to Speech Timeouts
+11-18 16:18 R SMS 8.1 SMS Delivery Failures from a Subset of Twilio Phone Numbers to Zong Pakistan
+11-19 03:46 R SMS 9.6 SMS Delivery Delays from Twilio to ISP Telecom United States
+11-19 15:15 R Voice 7.6 Voice Call Failures from a Subset of Twilio Phone Numbers to Argentina
+11-19 18:30 P Other 0.3 Automated Alert: No Customer Impact
+11-20 12:51 R SMS 7.0 SMS Delivery Delays from Twilio to Proximus Belgium
+11-20 17:06 P Other 0.8 Subset of API Requests Blocked with 403 Response
+11-20 19:53 R SMS 5.2 SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to CTBC Brazil
+11-20 22:23 P Other 1.5 Twilio Help Center Chat Creation and Retrieval Failures
+11-22 03:50 R Lookup 119.8 Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada
+11-22 15:55 R SMS 6.3 SMS Delivery Delays and Failures from Twilio to Telekom Germany
+11-22 22:10 R SMS 4.3 SMS Delivery Delays from Twilio to Telekom Srbija Serbia
+11-23 07:04 R SMS 7.4 SMS Delivery Delays from a Subset of Twilio Long Codes to Cell C South Africa
+11-23 16:28 P Other 76.1 Emergency Calling Configuration Issues for SIP Domains
+11-23 17:37 R SMS 21.0 SMS Delivery Delays from a Subset of Twilio Long Codes to Vodacom South Africa
+11-23 18:16 P Other 2.5 Email Authentication Errors Affecting Mail Send
+11-23 22:17 P Other 2.1 Intermittent 403 Errors at the Email and Programmable Messaging APIs
+11-23 23:12 R SMS 4.2 SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to Telstra Australia
+11-24 10:24 R SMS 4.8 SMS Delivery Delays and Failures from Twilio to Telekom Germany
+11-24 18:41 R Voice 9.4 Voice Call Failures from Twilio Phone Numbers to Ireland
+11-24 21:03 P Other 2.8 KYC Onboarding Issues Affecting Voice Call Branding and Spam Labeling
+11-25 06:31 R SMS open SMS Delivery Failures from Twilio to Econet Telecom Lesotho
+11-25 10:13 R SMS 12.8 SMS Delivery Delays from Twilio to Bouygues Telecom France
+11-25 14:49 R SMS 6.7 SMS Delivery Delays from Twilio to Multiple Networks in Italy
+11-26 00:49 R SMS 3.4 SMS Delivery Delays from Twilio to Spusu United Kingdom
+11-26 04:01 P Other 2.3 Delay in Outbound SMS Send
+11-26 07:41 R Voice 10.9 Voice Call Post Dial Delay and Failures Between a Subset of Twilio South Africa Phone Numbers a
+11-26 07:58 R SMS open SMS Delivery Delays from Twilio to Bouygues Telecom France
+11-26 15:46 R SMS 3.7 SMS Delivery Delays from Twilio to Multiple Networks in Bahrain
+11-26 22:16 R SMS 5.1 SMS Delivery Delays from a Subset of Twilio Alphanumeric Sender IDs and Long Codes to AT&T Mexi
+11-27 01:15 R SMS open SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand
+11-27 02:20 R MMS open MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States

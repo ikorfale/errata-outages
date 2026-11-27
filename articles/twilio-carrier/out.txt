@@ -1,0 +1,20 @@
+older incidents still in the API list (started before 17 Nov): 5 ['Voice Call Failures from a Subset of Twilio Philippines Phon', 'SMS Delivery Receipt Delays from a Subset of Twilio Long Cod', 'Voice Call Silent and One-Way Audio from Colombia to a Subse', 'SMS Delivery Receipt Failures from Twilio to Claro Costa Ric', 'SMS Delivery Delays from Twilio to Brisanet Servicos De Tele']
+incidents: 46 api: 46 outage-watch only: 0
+window: 2026-11-17 01:12 -> 2026-11-27 02:20 UTC
+days: 10.0  per day: 4.58
+route-specific: 32 platform/other: 14
+channel (route): [('SMS', 23), ('Voice', 7), ('Lookup', 1), ('MMS', 1)]
+channel (platform): [('Other', 13), ('Voice', 1)]
+hours route (n, median, max): (27, 6.7, 119.8)
+hours platform (n, median, max): (14, 1.8, 76.1)
+open (no resolved time): ['Voice Call Silent and One-Way Audio between Twilio Phone Numbers and M', 'SMS Delivery Failures from Twilio to Econet Telecom Lesotho', 'SMS Delivery Delays from Twilio to Bouygues Telecom France', 'SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand', 'MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United S']
+countries (route): [('Brazil', 4), ('United Kingdom', 3), ('South Africa', 3), ('Mexico', 2), ('Canada', 2), ('United States', 2), ('Germany', 2), ('France', 2), ('Puerto Rico', 1), ('Colombia', 1), ('Pakistan', 1), ('Argentina', 1), ('Belgium', 1), ('Serbia', 1), ('Australia', 1), ('Ireland', 1), ('Lesotho', 1), ('Italy', 1), ('Bahrain', 1), ('New Zealand', 1)]
+carriers with >=2 incidents: [('AT&T Mexico', 2), ('Telekom Germany', 2), ('Bouygues Telecom France', 2)]
+by day: [('11-17', 9), ('11-18', 7), ('11-19', 3), ('11-20', 4), ('11-22', 3), ('11-23', 6), ('11-24', 3), ('11-25', 3), ('11-26', 6), ('11-27', 2)]
+210.7 Voice Call Silent and One-Way Audio between Twilio Phone Numbers and Multiple Networks in Colombia
+52.1 SMS Delivery Failures from Twilio to Econet Telecom Lesotho
+26.7 SMS Delivery Delays from Twilio to Bouygues Telecom France
+9.4 SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand
+8.3 MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States
+route >24h: 3 of 27
+platform >24h: 1 [0.1, 0.2, 0.3, 0.8, 0.9, 1.0, 1.5, 2.1, 2.3, 2.5, 2.8, 2.8, 4.6, 76.1]

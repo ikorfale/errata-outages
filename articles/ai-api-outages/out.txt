@@ -1,0 +1,51 @@
+== Anthropic: 16 incidents started 1-26 Nov; impact {'none': 2, 'major': 11, 'minor': 3}
+   backfilled (resolved <5 min after posting): 2; unresolved: 1
+   live incidents with duration: n=13 median=1.48 h  max=60.7 h  >4h: 3
+   backfilled ones: start-to-resolve median 0.00 h
+   posted after its own start time, live ones: median 0 min, max 0 min, n=14
+   title mentions: {'errors': 11, 'Fable': 4, 'claude.ai / ChatGPT app': 4, 'login/auth': 2, 'Claude Code': 2, 'Haiku': 1, 'Sonnet': 1, 'API': 1}
+   11-08 08:28          minor       0.4h Degraded performance for Claude Fable 5.1
+   11-10 21:47 BACKFILL none        0.0h Elevated errors on Fable 52 and Mythos 52
+   11-12 17:52          major      27.9h Elevated errors affecting the Microsoft 365 connector
+   11-13 09:58          major       2.0h Elevated errors on claude.ai, Claude Code, and platform.claude.com
+   11-13 13:09          major       2.5h Elevated errors on claude.ai, the Claude API, and Claude Code
+   11-14 02:54          major       1.5h Elevated purchasing errors on claude.ai
+   11-14 07:11          major      60.7h Some users unable to sign up with Apple on the Claude iOS app
+   11-16 07:49          major       1.2h Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2
+   11-16 15:10          minor      59.1h Claude Meetings auto-join limited on the Team plan
+   11-17 18:55          major       2.9h Some users unable to sign in with Apple on claude.ai and the Claude iOS app
+   11-18 01:13          minor       0.5h Elevated errors affecting the Google Docs connector
+   11-19 09:10          major       0.4h Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2
+   11-23 09:49          major       1.3h Elevated errors for multiple models
+   11-24 00:10          major       open Claude for Microsoft 365 add-in missing for some users
+   11-24 17:19          major       0.5h Elevated errors for Claude Haiku 5.5
+   11-25 05:32 BACKFILL none        0.0h Elevated errors for multiple models
+== OpenAI: 21 incidents started 1-26 Nov; impact {'minor': 16, 'major': 1, 'none': 3, 'critical': 1}
+   backfilled (resolved <5 min after posting): 0; unresolved: 0
+   live incidents with duration: n=21 median=1.98 h  max=93.5 h  >4h: 9
+   posted after its own start time, live ones: median 0 min, max 0 min, n=21
+   title mentions: {'errors': 16, 'claude.ai / ChatGPT app': 8, 'API': 5, 'Codex': 2, 'Sora/image': 2, 'login/auth': 1}
+   11-03 00:46          minor       4.9h File upload errors in ChatGPT
+   11-04 22:38          minor       1.9h Elevated error rates across paid ChatGPT plans
+   11-05 15:25          minor      13.1h ChatGPT Work and Dots Errors
+   11-06 18:38          none       93.5h Elevated error rates with some U.S. business Mastercards
+   11-08 15:11          minor       1.8h Elevated errors with image generation
+   11-09 18:16          minor       0.9h Elevated ChatGPT Conversation Errors
+   11-09 23:08          minor       0.7h Elevated Errors On API
+   11-10 04:42          none        2.3h Incorrect cost data in Costs API exports
+   11-11 20:43          minor       0.1h Elevated errors affecting logins, sign-ups, and ChatGPT features
+   11-11 22:50          critical    9.7h Unable to start new Workspace Agent runs
+   11-12 08:52          minor       0.5h GPT-image-2.5 and 2.6 Sunburst & Flare High error rate
+   11-12 18:29          minor      29.8h Elevated errors affecting the Microsoft 365 connector
+   11-13 03:59          minor       1.9h Sites: Publishing failing
+   11-13 16:10          minor      56.1h Delayed Costs Data in the Compliance API
+   11-14 04:11          none        1.3h Elevated errors with ChatGPT billing and Ads billing
+   11-17 17:46          minor      23.5h Costs API data is delayed
+   11-18 12:15          minor       2.0h Elevated conversation errors for Free and Go users
+   11-19 16:01          major       0.9h Elevated error rates for gpt-6 Luna API requests
+   11-23 15:50          minor       0.8h Elevated errors with GPT-6 conversations on paid ChatGPT plans
+   11-25 11:48          minor       4.4h ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation er
+   11-25 16:27          minor      21.7h Elevated errors with Codex GitHub reviews and pull request merges
+start hour UTC buckets 0-5,6-11,12-17,18-23: [8, 8, 12, 9]
+coverage Anthropic: status-page incidents since 2026-11-17: 7; in my live log: 6; missed: ['Elevated errors for multiple models [backfilled]']
+coverage OpenAI: status-page incidents since 2026-11-17: 6; in my live log: 6; missed: []

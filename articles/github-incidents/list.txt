@@ -1,0 +1,50 @@
+10-06 19:57 critical  3.72h named@0 Several services are degraded | Pull Requests,Webhooks
+10-07 15:14 critical  1.17h named@0 Incident with Git Operations, Pull Requests and Actions | Actions,Git Operations,Issues,Pull Requests,Webhooks
+10-07 17:17 critical  0.80h named@0 Incident with Git Operations, Issues, Actions and Pull Requests | Actions,Git Operations,Issues,Pull Requests
+10-12 12:21 minor     7.91h named@0 Incident with Actions, Pull Requests and Issues | Actions,Issues,Pull Requests
+10-13 20:30 minor     0.00h named@223 [Retroactive] Actions workflow run logs delayed | Actions
+10-15 18:31 minor     0.40h named@None CCA Automations are delayed when starting an Automation | 
+10-19 15:49 critical  1.13h named@0 Degraded availability for GitHub Actions, GitHub Pages and Webhooks | Actions,Pages,Webhooks
+10-21 14:52 critical  4.50h named@0 Delays for Pull Requests and Webhook deliveries | Actions,Pull Requests,Webhooks
+10-22 14:18 minor     1.01h named@0 Incident with Actions | Actions
+10-22 15:28 minor    11.04h named@0 Project updates delayed | API Requests,Actions,Issues,Packages,Pull Requests
+10-23 07:29 minor     0.61h named@0 Delayed Actions status check results | Actions
+10-23 14:58 minor     3.88h named@1 Disruption with Dependabot Alerts | Dependabot
+10-23 23:41 minor     0.69h named@0 Grok 4.6 and Grok 4.7 Service Issues | Copilot
+10-26 18:48 minor     0.15h named@0 Incident with Actions, Issues, API Requests and Pull Requests | API Requests,Actions,Issues,Pull Requests
+10-27 08:00 none      0.00h named@742 Elevated 404s for GitHub App s2s tokens in git/API | 
+10-28 14:12 critical  1.26h named@3 Disruption with some Copilot services | Copilot
+10-29 10:19 minor     2.50h named@2 Disruption with Copilot Cloud services | Copilot
+10-30 14:31 critical  0.53h named@5 Disruption with GitHub services | Issues,Pages
+10-30 17:50 major     1.55h named@0 Incident with Actions, Pages, and Webhooks | Actions,Pages,Webhooks
+10-30 20:59 minor     2.50h named@1 Incident with Dependabot | Dependabot
+11-02 17:46 minor     0.63h named@0 Elevated errors on GPT-5.4 Nano | Copilot
+11-03 13:25 minor     0.52h named@0 Incident with API, Git, and Copilot requests | API Requests,Copilot,Issues
+11-03 20:57 minor     1.73h named@0 Incident with Git Operations | Git Operations
+11-04 08:45 minor     1.28h named@2 Increased task-related errors for Copilot Mission Control | Copilot
+11-04 09:49 major     2.00h named@0 Incident with Pull Requests, Git Operations and Issues | API Requests,Actions,Git Operations,Issues,Pull Requests
+11-04 16:05 major     0.93h named@0 Incident with Actions and Pages | Actions,Pages,Webhooks
+11-04 17:40 major     0.59h named@0 Incident with Actions | Actions
+11-05 16:50 minor     0.87h named@0 Incident with Actions | Actions
+11-05 23:36 minor     0.75h named@0 Degraded performance for multiple GitHub services | Actions,Git Operations,Issues,Pages
+11-08 10:36 minor     1.94h named@45 Increase in timeouts for some unauthenticated users | API Requests
+11-09 05:59 minor     3.18h named@191 Increased timeouts due to surge in anonymous users | 
+11-09 10:00 major     1.83h named@0 Incident with Webhooks and Actions | Actions,Webhooks
+11-09 18:12 critical  0.78h named@0 Incident with Actions and Checks API | Actions,Pages,Webhooks
+11-09 23:16 major     0.82h named@0 Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot | Copilot
+11-10 16:10 critical  1.74h named@0 Incident with Git Operations and Pull Requests | Actions,Git Operations,Pull Requests
+11-11 20:22 minor     0.07h named@0 Incident with Webhooks | Webhooks
+11-11 20:48 critical  0.56h named@0 Impact across multiple GitHub products including Actions, Pages, and C | Actions,Copilot,Pages,Webhooks
+11-12 18:43 minor     0.84h named@0 Incident with Webhooks API | Webhooks
+11-12 19:36 minor     2.12h named@35 Disruption with Email Delivery | 
+11-13 15:47 major     2.71h named@0 Incident with Pull Requests | Pull Requests
+11-13 20:13 minor     1.24h named@0 Copilot experiencing degraded model availability for some GPT models | Copilot
+11-16 11:59 minor     4.45h named@0 Incident with Pull Requests | Actions,Pull Requests
+11-18 09:00 minor     0.57h named@0 Degraded Availability for MAI Code 2 Flash in Copilot | Copilot
+11-19 15:56 minor     0.68h named@0 Degraded availability for GPT-6 Luna in Copilot | Copilot
+11-19 17:06 minor     1.19h named@71 Disruption with some GitHub services | 
+11-24 13:44 minor     0.50h named@0 Degraded Availability for MAI Code 2 in Copilot | Copilot
+11-25 00:08 critical  1.12h named@33 Disruption with Code Completions and Next Edit Suggestions | Copilot
+11-25 11:58 minor     0.09h named@0 MAI Code 2 Degredation | Copilot
+11-25 15:55 critical  0.95h named@0 Investigating degraded experiences across GitHub products | API Requests,Actions,Git Operations,Issues,Packages,Pages,Pull Requests,Webhooks
+11-25 23:06 minor     1.60h named@4 LFS degradation for some customers | LFS

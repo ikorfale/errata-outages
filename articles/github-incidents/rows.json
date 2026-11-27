@@ -1,0 +1,920 @@
+[
+ {
+  "id": "cjwszcf57bff",
+  "title": "Several services are degraded",
+  "impact": "critical",
+  "start": "2026-10-06T19:57:35.445000+00:00",
+  "end": "2026-10-06T23:40:44.165000+00:00",
+  "hours": 3.719088888888889,
+  "comps": [
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "svc": [
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0022500000000000003,
+  "nupd": 9
+ },
+ {
+  "id": "djlmxz2zd0j7",
+  "title": "Incident with Git Operations, Pull Requests and Actions",
+  "impact": "critical",
+  "start": "2026-10-07T15:14:45.614000+00:00",
+  "end": "2026-10-07T16:25:14+00:00",
+  "hours": 1.1745516666666669,
+  "comps": [
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0024666666666666665,
+  "nupd": 20
+ },
+ {
+  "id": "qpfv5p86dmrl",
+  "title": "Incident with Git Operations, Issues, Actions and Pull Requests",
+  "impact": "critical",
+  "start": "2026-10-07T17:17:05.776000+00:00",
+  "end": "2026-10-07T18:04:49.441000+00:00",
+  "hours": 0.7954625,
+  "comps": [
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pull Requests"
+  ],
+  "svc": [
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0035833333333333333,
+  "nupd": 5
+ },
+ {
+  "id": "93njd414rpbx",
+  "title": "Incident with Actions, Pull Requests and Issues",
+  "impact": "minor",
+  "start": "2026-10-12T12:21:47.972000+00:00",
+  "end": "2026-10-12T20:16:07.447000+00:00",
+  "hours": 7.905409722222222,
+  "comps": [
+   "Actions",
+   "Issues",
+   "Pull Requests"
+  ],
+  "svc": [
+   "Actions",
+   "Issues",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0023833333333333332,
+  "nupd": 13
+ },
+ {
+  "id": "6yk962mhlr3h",
+  "title": "[Retroactive] Actions workflow run logs delayed",
+  "impact": "minor",
+  "start": "2026-10-13T20:30:00+00:00",
+  "end": "2026-10-13T20:30:00+00:00",
+  "hours": 0.0,
+  "comps": [],
+  "svc": [
+   "Actions"
+  ],
+  "first_generic": false,
+  "named_min": 222.74265,
+  "nupd": 1
+ },
+ {
+  "id": "vlxrztp88101",
+  "title": "CCA Automations are delayed when starting an Automation",
+  "impact": "minor",
+  "start": "2026-10-15T18:31:49.838000+00:00",
+  "end": "2026-10-15T18:56:04.250000+00:00",
+  "hours": 0.4040033333333333,
+  "comps": [],
+  "svc": [],
+  "first_generic": true,
+  "named_min": null,
+  "nupd": 4
+ },
+ {
+  "id": "8tzbpcnl75jp",
+  "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+  "impact": "critical",
+  "start": "2026-10-19T15:49:25.828000+00:00",
+  "end": "2026-10-19T16:56:58.390000+00:00",
+  "hours": 1.1257116666666667,
+  "comps": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0019666666666666665,
+  "nupd": 6
+ },
+ {
+  "id": "nms1dpzmh9d9",
+  "title": "Delays for Pull Requests and Webhook deliveries",
+  "impact": "critical",
+  "start": "2026-10-21T14:52:49.979000+00:00",
+  "end": "2026-10-21T19:22:52.633000+00:00",
+  "hours": 4.500737222222222,
+  "comps": [
+   "Actions",
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0023833333333333332,
+  "nupd": 15
+ },
+ {
+  "id": "q29p76qtnkyk",
+  "title": "Incident with Actions",
+  "impact": "minor",
+  "start": "2026-10-22T14:18:15.723000+00:00",
+  "end": "2026-10-22T15:18:46.284000+00:00",
+  "hours": 1.0084891666666667,
+  "comps": [
+   "Actions"
+  ],
+  "svc": [
+   "Actions"
+  ],
+  "first_generic": true,
+  "named_min": 0.0015333333333333334,
+  "nupd": 7
+ },
+ {
+  "id": "wq8305lppdc2",
+  "title": "Project updates delayed",
+  "impact": "minor",
+  "start": "2026-10-22T15:28:03.986000+00:00",
+  "end": "2026-10-23T02:30:25.221000+00:00",
+  "hours": 11.039231944444445,
+  "comps": [
+   "API Requests",
+   "Actions",
+   "Issues",
+   "Packages",
+   "Pull Requests"
+  ],
+  "svc": [
+   "API Requests",
+   "Actions",
+   "Issues",
+   "Packages",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.004533333333333334,
+  "nupd": 18
+ },
+ {
+  "id": "ntrfd2jqldn6",
+  "title": "Delayed Actions status check results",
+  "impact": "minor",
+  "start": "2026-10-23T07:29:03.081000+00:00",
+  "end": "2026-10-23T08:05:27.354000+00:00",
+  "hours": 0.6067425000000001,
+  "comps": [
+   "Actions"
+  ],
+  "svc": [
+   "Actions"
+  ],
+  "first_generic": true,
+  "named_min": 0.0039833333333333335,
+  "nupd": 5
+ },
+ {
+  "id": "71y513kjvbzh",
+  "title": "Disruption with Dependabot Alerts",
+  "impact": "minor",
+  "start": "2026-10-23T14:58:48.748000+00:00",
+  "end": "2026-10-23T18:51:24.490000+00:00",
+  "hours": 3.876595,
+  "comps": [],
+  "svc": [
+   "Dependabot"
+  ],
+  "first_generic": true,
+  "named_min": 1.2166333333333335,
+  "nupd": 8
+ },
+ {
+  "id": "khv5nj9qy2kk",
+  "title": "Grok 4.6 and Grok 4.7 Service Issues",
+  "impact": "minor",
+  "start": "2026-10-23T23:41:54.223000+00:00",
+  "end": "2026-10-24T00:23:32.689000+00:00",
+  "hours": 0.6940183333333333,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0019166666666666668,
+  "nupd": 4
+ },
+ {
+  "id": "f1vvv30224wd",
+  "title": "Incident with Actions, Issues, API Requests and Pull Requests",
+  "impact": "minor",
+  "start": "2026-10-26T18:48:26.235000+00:00",
+  "end": "2026-10-26T18:57:22.958000+00:00",
+  "hours": 0.14908972222222222,
+  "comps": [
+   "API Requests",
+   "Actions",
+   "Issues",
+   "Pull Requests"
+  ],
+  "svc": [
+   "API Requests",
+   "Actions",
+   "Issues",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0013,
+  "nupd": 4
+ },
+ {
+  "id": "dnslv7xdl4fj",
+  "title": "Elevated 404s for GitHub App s2s tokens in git/API",
+  "impact": "none",
+  "start": "2026-10-27T08:00:00+00:00",
+  "end": "2026-10-27T08:00:00+00:00",
+  "hours": 0.0,
+  "comps": [],
+  "svc": [],
+  "first_generic": false,
+  "named_min": 741.8978666666667,
+  "nupd": 1
+ },
+ {
+  "id": "l7ycmglmykgg",
+  "title": "Disruption with some Copilot services",
+  "impact": "critical",
+  "start": "2026-10-28T14:12:53.821000+00:00",
+  "end": "2026-10-28T15:28:19.237000+00:00",
+  "hours": 1.25706,
+  "comps": [
+   "Copilot"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 2.8792166666666663,
+  "nupd": 8
+ },
+ {
+  "id": "rn76zdy367m2",
+  "title": "Disruption with Copilot Cloud services",
+  "impact": "minor",
+  "start": "2026-10-29T10:19:55.318000+00:00",
+  "end": "2026-10-29T12:49:52.145000+00:00",
+  "hours": 2.4991186111111108,
+  "comps": [],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 2.3815666666666666,
+  "nupd": 6
+ },
+ {
+  "id": "nxy2l0ssxm10",
+  "title": "Disruption with GitHub services",
+  "impact": "critical",
+  "start": "2026-10-30T14:31:16.537000+00:00",
+  "end": "2026-10-30T15:02:51.002000+00:00",
+  "hours": 0.5262402777777777,
+  "comps": [
+   "Issues",
+   "Pages"
+  ],
+  "svc": [
+   "Issues",
+   "Pages"
+  ],
+  "first_generic": true,
+  "named_min": 4.733766666666667,
+  "nupd": 8
+ },
+ {
+  "id": "pwxsjgnvrk6b",
+  "title": "Incident with Actions, Pages, and Webhooks",
+  "impact": "major",
+  "start": "2026-10-30T17:50:54.677000+00:00",
+  "end": "2026-10-30T19:23:40.177000+00:00",
+  "hours": 1.5459722222222223,
+  "comps": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0018,
+  "nupd": 6
+ },
+ {
+  "id": "lyyfm7j4pkgl",
+  "title": "Incident with Dependabot",
+  "impact": "minor",
+  "start": "2026-10-30T20:59:14.225000+00:00",
+  "end": "2026-10-30T23:29:06.291000+00:00",
+  "hours": 2.497796111111111,
+  "comps": [],
+  "svc": [
+   "Dependabot"
+  ],
+  "first_generic": true,
+  "named_min": 1.0682833333333333,
+  "nupd": 6
+ },
+ {
+  "id": "db4x8hh362t8",
+  "title": "Elevated errors on GPT-5.4 Nano",
+  "impact": "minor",
+  "start": "2026-11-02T17:46:23.166000+00:00",
+  "end": "2026-11-02T18:24:23.169000+00:00",
+  "hours": 0.6333341666666668,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0030166666666666666,
+  "nupd": 5
+ },
+ {
+  "id": "rxlj89wpk7px",
+  "title": "Incident with API, Git, and Copilot requests",
+  "impact": "minor",
+  "start": "2026-11-03T13:25:19.620000+00:00",
+  "end": "2026-11-03T13:56:18.729000+00:00",
+  "hours": 0.5164191666666667,
+  "comps": [
+   "API Requests",
+   "Copilot",
+   "Issues"
+  ],
+  "svc": [
+   "API Requests",
+   "Copilot",
+   "Issues"
+  ],
+  "first_generic": true,
+  "named_min": 0.00165,
+  "nupd": 7
+ },
+ {
+  "id": "13b6lyl8d7bz",
+  "title": "Incident with Git Operations",
+  "impact": "minor",
+  "start": "2026-11-03T20:57:14.438000+00:00",
+  "end": "2026-11-03T22:41:03.289000+00:00",
+  "hours": 1.7302363888888888,
+  "comps": [
+   "Git Operations"
+  ],
+  "svc": [
+   "Git Operations"
+  ],
+  "first_generic": true,
+  "named_min": 0.0014166666666666668,
+  "nupd": 6
+ },
+ {
+  "id": "tc28c0wzrnpz",
+  "title": "Increased task-related errors for Copilot Mission Control",
+  "impact": "minor",
+  "start": "2026-11-04T08:45:00.281000+00:00",
+  "end": "2026-11-04T10:01:44.560000+00:00",
+  "hours": 1.278966388888889,
+  "comps": [],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 2.2342999999999997,
+  "nupd": 6
+ },
+ {
+  "id": "smtdswd1h2w4",
+  "title": "Incident with Pull Requests, Git Operations and Issues",
+  "impact": "major",
+  "start": "2026-11-04T09:49:55.685000+00:00",
+  "end": "2026-11-04T11:50:06.424000+00:00",
+  "hours": 2.0029830555555552,
+  "comps": [
+   "API Requests",
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pull Requests"
+  ],
+  "svc": [
+   "API Requests",
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0029666666666666665,
+  "nupd": 9
+ },
+ {
+  "id": "xr3myzj7ms51",
+  "title": "Incident with Actions and Pages",
+  "impact": "major",
+  "start": "2026-11-04T16:05:31.580000+00:00",
+  "end": "2026-11-04T17:01:11.503000+00:00",
+  "hours": 0.9277563888888888,
+  "comps": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0019333333333333333,
+  "nupd": 9
+ },
+ {
+  "id": "h02n9572mx9y",
+  "title": "Incident with Actions",
+  "impact": "major",
+  "start": "2026-11-04T17:40:33.675000+00:00",
+  "end": "2026-11-04T18:16:08.361000+00:00",
+  "hours": 0.5929683333333333,
+  "comps": [
+   "Actions"
+  ],
+  "svc": [
+   "Actions"
+  ],
+  "first_generic": true,
+  "named_min": 0.003533333333333333,
+  "nupd": 4
+ },
+ {
+  "id": "t89g2q1800fr",
+  "title": "Incident with Actions",
+  "impact": "minor",
+  "start": "2026-11-05T16:50:11.086000+00:00",
+  "end": "2026-11-05T17:42:35.425000+00:00",
+  "hours": 0.8734275,
+  "comps": [
+   "Actions"
+  ],
+  "svc": [
+   "Actions"
+  ],
+  "first_generic": true,
+  "named_min": 0.0017166666666666665,
+  "nupd": 4
+ },
+ {
+  "id": "pfbmpxxfq1cy",
+  "title": "Degraded performance for multiple GitHub services",
+  "impact": "minor",
+  "start": "2026-11-05T23:36:06.204000+00:00",
+  "end": "2026-11-06T00:20:49.344000+00:00",
+  "hours": 0.7453166666666666,
+  "comps": [
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pages"
+  ],
+  "svc": [
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Pages"
+  ],
+  "first_generic": true,
+  "named_min": 0.00215,
+  "nupd": 8
+ },
+ {
+  "id": "pyynvrm1vskw",
+  "title": "Increase in timeouts for some unauthenticated users",
+  "impact": "minor",
+  "start": "2026-11-08T10:36:05.481000+00:00",
+  "end": "2026-11-08T12:32:35.611000+00:00",
+  "hours": 1.9417027777777778,
+  "comps": [
+   "API Requests"
+  ],
+  "svc": [
+   "API Requests"
+  ],
+  "first_generic": true,
+  "named_min": 44.86995,
+  "nupd": 7
+ },
+ {
+  "id": "c9px7cw2ghrs",
+  "title": "Increased timeouts due to surge in anonymous users",
+  "impact": "minor",
+  "start": "2026-11-09T05:59:07.851000+00:00",
+  "end": "2026-11-09T09:09:56.174000+00:00",
+  "hours": 3.180089722222222,
+  "comps": [],
+  "svc": [],
+  "first_generic": true,
+  "named_min": 190.80538333333334,
+  "nupd": 10
+ },
+ {
+  "id": "xxb3l2bm76dr",
+  "title": "Incident with Webhooks and Actions",
+  "impact": "major",
+  "start": "2026-11-09T10:00:35.232000+00:00",
+  "end": "2026-11-09T11:50:35.774000+00:00",
+  "hours": 1.833483888888889,
+  "comps": [
+   "Actions",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.006933333333333333,
+  "nupd": 8
+ },
+ {
+  "id": "tp8cghg7tlc4",
+  "title": "Incident with Actions and Checks API",
+  "impact": "critical",
+  "start": "2026-11-09T18:12:37.242000+00:00",
+  "end": "2026-11-09T18:59:32.565000+00:00",
+  "hours": 0.7820341666666666,
+  "comps": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Pages",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0014833333333333332,
+  "nupd": 7
+ },
+ {
+  "id": "6jm5k16vyhfg",
+  "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+  "impact": "major",
+  "start": "2026-11-09T23:16:32.233000+00:00",
+  "end": "2026-11-10T00:05:52.345000+00:00",
+  "hours": 0.8222533333333334,
+  "comps": [
+   "Copilot",
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0015333333333333334,
+  "nupd": 7
+ },
+ {
+  "id": "hnf21m9jkl3c",
+  "title": "Incident with Git Operations and Pull Requests",
+  "impact": "critical",
+  "start": "2026-11-10T16:10:52.174000+00:00",
+  "end": "2026-11-10T17:55:03.552000+00:00",
+  "hours": 1.7364938888888888,
+  "comps": [
+   "Actions",
+   "Pull Requests"
+  ],
+  "svc": [
+   "Actions",
+   "Git Operations",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0019666666666666665,
+  "nupd": 9
+ },
+ {
+  "id": "1h2wbly1y72t",
+  "title": "Incident with Webhooks",
+  "impact": "minor",
+  "start": "2026-11-11T20:22:20.729000+00:00",
+  "end": "2026-11-11T20:26:23.897000+00:00",
+  "hours": 0.06754666666666667,
+  "comps": [
+   "Webhooks"
+  ],
+  "svc": [
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0022,
+  "nupd": 3
+ },
+ {
+  "id": "dvy0t3mvh1lg",
+  "title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
+  "impact": "critical",
+  "start": "2026-11-11T20:48:12.265000+00:00",
+  "end": "2026-11-11T21:21:39.473000+00:00",
+  "hours": 0.5575577777777778,
+  "comps": [
+   "Actions",
+   "Copilot",
+   "Pages",
+   "Webhooks"
+  ],
+  "svc": [
+   "Actions",
+   "Copilot",
+   "Pages",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0014,
+  "nupd": 10
+ },
+ {
+  "id": "gl7yhd7jx00v",
+  "title": "Incident with Webhooks API",
+  "impact": "minor",
+  "start": "2026-11-12T18:43:13.817000+00:00",
+  "end": "2026-11-12T19:33:54.248000+00:00",
+  "hours": 0.8445641666666667,
+  "comps": [
+   "Webhooks"
+  ],
+  "svc": [
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0015166666666666666,
+  "nupd": 5
+ },
+ {
+  "id": "nwbjzl7nfrc2",
+  "title": "Disruption with Email Delivery",
+  "impact": "minor",
+  "start": "2026-11-12T19:36:45.563000+00:00",
+  "end": "2026-11-12T21:43:56.551000+00:00",
+  "hours": 2.119718888888889,
+  "comps": [],
+  "svc": [],
+  "first_generic": true,
+  "named_min": 35.331199999999995,
+  "nupd": 8
+ },
+ {
+  "id": "1xzmt89vv61l",
+  "title": "Incident with Pull Requests",
+  "impact": "major",
+  "start": "2026-11-13T15:47:12.290000+00:00",
+  "end": "2026-11-13T18:29:31.624000+00:00",
+  "hours": 2.7053705555555556,
+  "comps": [
+   "Pull Requests"
+  ],
+  "svc": [
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0016833333333333333,
+  "nupd": 8
+ },
+ {
+  "id": "51drrqvsv66g",
+  "title": "Copilot experiencing degraded model availability for some GPT models",
+  "impact": "minor",
+  "start": "2026-11-13T20:13:51.325000+00:00",
+  "end": "2026-11-13T21:27:59.028000+00:00",
+  "hours": 1.2354730555555558,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0017666666666666666,
+  "nupd": 5
+ },
+ {
+  "id": "2zfqmghmg3s3",
+  "title": "Incident with Pull Requests",
+  "impact": "minor",
+  "start": "2026-11-16T11:59:40.900000+00:00",
+  "end": "2026-11-16T16:26:26.775000+00:00",
+  "hours": 4.446076388888889,
+  "comps": [
+   "Actions",
+   "Pull Requests"
+  ],
+  "svc": [
+   "Actions",
+   "Pull Requests"
+  ],
+  "first_generic": true,
+  "named_min": 0.0023499999999999997,
+  "nupd": 12
+ },
+ {
+  "id": "891rm8181xdf",
+  "title": "Degraded Availability for MAI Code 2 Flash in Copilot",
+  "impact": "minor",
+  "start": "2026-11-18T09:00:12.808000+00:00",
+  "end": "2026-11-18T09:34:15.883000+00:00",
+  "hours": 0.5675208333333334,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0033833333333333337,
+  "nupd": 6
+ },
+ {
+  "id": "gp7nhc88bwv9",
+  "title": "Degraded availability for GPT-6 Luna in Copilot",
+  "impact": "minor",
+  "start": "2026-11-19T15:56:02.730000+00:00",
+  "end": "2026-11-19T16:37:00.866000+00:00",
+  "hours": 0.6828155555555555,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0030666666666666668,
+  "nupd": 4
+ },
+ {
+  "id": "m310qbkfm3ww",
+  "title": "Disruption with some GitHub services",
+  "impact": "minor",
+  "start": "2026-11-19T17:06:26.807000+00:00",
+  "end": "2026-11-19T18:17:42.581000+00:00",
+  "hours": 1.187715,
+  "comps": [],
+  "svc": [],
+  "first_generic": true,
+  "named_min": 71.2629,
+  "nupd": 4
+ },
+ {
+  "id": "d56dzxzzlw0b",
+  "title": "Degraded Availability for MAI Code 2 in Copilot",
+  "impact": "minor",
+  "start": "2026-11-24T13:44:07.213000+00:00",
+  "end": "2026-11-24T14:14:05.736000+00:00",
+  "hours": 0.4995897222222222,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0017833333333333334,
+  "nupd": 6
+ },
+ {
+  "id": "m0wx9qml7yjh",
+  "title": "Disruption with Code Completions and Next Edit Suggestions",
+  "impact": "critical",
+  "start": "2026-11-25T00:08:17.974000+00:00",
+  "end": "2026-11-25T01:15:18.733000+00:00",
+  "hours": 1.1168775,
+  "comps": [],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 32.85953333333333,
+  "nupd": 4
+ },
+ {
+  "id": "189rrqcfhc75",
+  "title": "MAI Code 2 Degredation",
+  "impact": "minor",
+  "start": "2026-11-25T11:58:36.151000+00:00",
+  "end": "2026-11-25T12:03:55.253000+00:00",
+  "hours": 0.08863944444444444,
+  "comps": [
+   "Copilot AI Model Providers"
+  ],
+  "svc": [
+   "Copilot"
+  ],
+  "first_generic": true,
+  "named_min": 0.0018833333333333334,
+  "nupd": 3
+ },
+ {
+  "id": "qn8mfv6q5hlx",
+  "title": "Investigating degraded experiences across GitHub products",
+  "impact": "critical",
+  "start": "2026-11-25T15:55:19.609000+00:00",
+  "end": "2026-11-25T16:52:16.287000+00:00",
+  "hours": 0.9490772222222222,
+  "comps": [
+   "API Requests",
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Packages",
+   "Pages",
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "svc": [
+   "API Requests",
+   "Actions",
+   "Git Operations",
+   "Issues",
+   "Packages",
+   "Pages",
+   "Pull Requests",
+   "Webhooks"
+  ],
+  "first_generic": true,
+  "named_min": 0.0024333333333333334,
+  "nupd": 28
+ },
+ {
+  "id": "m0wvf9pt3l0l",
+  "title": "LFS degradation for some customers",
+  "impact": "minor",
+  "start": "2026-11-25T23:06:54.830000+00:00",
+  "end": "2026-11-26T00:43:01.069000+00:00",
+  "hours": 1.6017330555555553,
+  "comps": [],
+  "svc": [
+   "LFS"
+  ],
+  "first_generic": true,
+  "named_min": 3.7359333333333336,
+  "nupd": 6
+ }
+]

@@ -1,0 +1,376 @@
+{
+ "Anthropic": [
+  {
+   "name": "Elevated errors for multiple models",
+   "impact": "none",
+   "start": "2026-11-25 05:32:26.188000+00:00",
+   "created": "2026-11-25 05:32:26.193000+00:00",
+   "resolved": "2026-11-25 05:32:26.264000+00:00",
+   "hours": 2.111111111111111e-05,
+   "backfill": true,
+   "post_delay_min": 8.333333333333333e-05
+  },
+  {
+   "name": "Elevated errors for Claude Haiku 5.5",
+   "impact": "major",
+   "start": "2026-11-24 17:19:31.942000+00:00",
+   "created": "2026-11-24 17:19:31.951000+00:00",
+   "resolved": "2026-11-24 17:50:42.776000+00:00",
+   "hours": 0.5196761111111111,
+   "backfill": false,
+   "post_delay_min": 0.00015
+  },
+  {
+   "name": "Claude for Microsoft 365 add-in missing for some users",
+   "impact": "major",
+   "start": "2026-11-24 00:10:40.012000+00:00",
+   "created": "2026-11-24 00:10:40.018000+00:00",
+   "resolved": "None",
+   "hours": null,
+   "backfill": false,
+   "post_delay_min": 0.0001
+  },
+  {
+   "name": "Elevated errors for multiple models",
+   "impact": "major",
+   "start": "2026-11-23 09:49:22.296000+00:00",
+   "created": "2026-11-23 09:49:22.304000+00:00",
+   "resolved": "2026-11-23 11:07:41.048000+00:00",
+   "hours": 1.305208888888889,
+   "backfill": false,
+   "post_delay_min": 0.00013333333333333334
+  },
+  {
+   "name": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2",
+   "impact": "major",
+   "start": "2026-11-19 09:10:24.807000+00:00",
+   "created": "2026-11-19 09:10:24.815000+00:00",
+   "resolved": "2026-11-19 09:33:18.884000+00:00",
+   "hours": 0.38168805555555557,
+   "backfill": false,
+   "post_delay_min": 0.00013333333333333334
+  },
+  {
+   "name": "Claude Meetings auto-join limited on the Team plan",
+   "impact": "minor",
+   "start": "2026-11-16 15:10:15.160000+00:00",
+   "created": "2026-11-16 15:10:15.167000+00:00",
+   "resolved": "2026-11-19 02:15:05.834000+00:00",
+   "hours": 59.08074277777778,
+   "backfill": false,
+   "post_delay_min": 0.00011666666666666667
+  },
+  {
+   "name": "Elevated errors affecting the Google Docs connector",
+   "impact": "minor",
+   "start": "2026-11-18 01:13:15.164000+00:00",
+   "created": "2026-11-18 01:13:15.170000+00:00",
+   "resolved": "2026-11-18 01:44:40.779000+00:00",
+   "hours": 0.5237819444444445,
+   "backfill": false,
+   "post_delay_min": 0.0001
+  },
+  {
+   "name": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+   "impact": "major",
+   "start": "2026-11-17 18:55:53.493000+00:00",
+   "created": "2026-11-17 18:55:53.499000+00:00",
+   "resolved": "2026-11-17 21:51:09.266000+00:00",
+   "hours": 2.921048055555555,
+   "backfill": false,
+   "post_delay_min": 0.0001
+  },
+  {
+   "name": "Some users unable to sign up with Apple on the Claude iOS app",
+   "impact": "major",
+   "start": "2026-11-14 07:11:36.111000+00:00",
+   "created": "2026-11-14 07:11:36.117000+00:00",
+   "resolved": "2026-11-16 19:52:36.590000+00:00",
+   "hours": 60.68346638888889,
+   "backfill": false,
+   "post_delay_min": 0.0001
+  },
+  {
+   "name": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+   "impact": "major",
+   "start": "2026-11-16 07:49:55.052000+00:00",
+   "created": "2026-11-16 07:49:55.066000+00:00",
+   "resolved": "2026-11-16 09:04:39.778000+00:00",
+   "hours": 1.2457572222222222,
+   "backfill": false,
+   "post_delay_min": 0.00023333333333333333
+  },
+  {
+   "name": "Elevated purchasing errors on claude.ai",
+   "impact": "major",
+   "start": "2026-11-14 02:54:33.303000+00:00",
+   "created": "2026-11-14 02:54:33.309000+00:00",
+   "resolved": "2026-11-14 04:23:05.193000+00:00",
+   "hours": 1.4755250000000002,
+   "backfill": false,
+   "post_delay_min": 0.0001
+  },
+  {
+   "name": "Elevated errors affecting the Microsoft 365 connector",
+   "impact": "major",
+   "start": "2026-11-12 17:52:44.926000+00:00",
+   "created": "2026-11-12 17:52:44.934000+00:00",
+   "resolved": "2026-11-13 21:49:44.029000+00:00",
+   "hours": 27.949750833333333,
+   "backfill": false,
+   "post_delay_min": 0.00013333333333333334
+  },
+  {
+   "name": "Elevated errors on claude.ai, the Claude API, and Claude Code",
+   "impact": "major",
+   "start": "2026-11-13 13:09:50.189000+00:00",
+   "created": "2026-11-13 13:09:50.199000+00:00",
+   "resolved": "2026-11-13 15:38:49.356000+00:00",
+   "hours": 2.4831019444444444,
+   "backfill": false,
+   "post_delay_min": 0.00016666666666666666
+  },
+  {
+   "name": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "impact": "major",
+   "start": "2026-11-13 09:58:58.049000+00:00",
+   "created": "2026-11-13 09:58:58.057000+00:00",
+   "resolved": "2026-11-13 11:58:45.647000+00:00",
+   "hours": 1.996555,
+   "backfill": false,
+   "post_delay_min": 0.00013333333333333334
+  },
+  {
+   "name": "Elevated errors on Fable 52 and Mythos 52",
+   "impact": "none",
+   "start": "2026-11-10 21:47:48.739000+00:00",
+   "created": "2026-11-10 21:47:48.748000+00:00",
+   "resolved": "2026-11-10 21:47:48.885000+00:00",
+   "hours": 4.055555555555555e-05,
+   "backfill": true,
+   "post_delay_min": 0.00015
+  },
+  {
+   "name": "Degraded performance for Claude Fable 5.1",
+   "impact": "minor",
+   "start": "2026-11-08 08:28:32.806000+00:00",
+   "created": "2026-11-08 08:28:32.818000+00:00",
+   "resolved": "2026-11-08 08:54:43.667000+00:00",
+   "hours": 0.4363502777777778,
+   "backfill": false,
+   "post_delay_min": 0.0002
+  }
+ ],
+ "OpenAI": [
+  {
+   "name": "Elevated errors with Codex GitHub reviews and pull request merges",
+   "impact": "minor",
+   "start": "2026-11-25 16:27:02+00:00",
+   "created": "2026-11-25 16:27:02+00:00",
+   "resolved": "2026-11-26 14:07:54+00:00",
+   "hours": 21.68111111111111,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+   "impact": "minor",
+   "start": "2026-11-25 11:48:13+00:00",
+   "created": "2026-11-25 11:48:13+00:00",
+   "resolved": "2026-11-25 16:12:21+00:00",
+   "hours": 4.402222222222222,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated errors with GPT-6 conversations on paid ChatGPT plans",
+   "impact": "minor",
+   "start": "2026-11-23 15:50:14+00:00",
+   "created": "2026-11-23 15:50:14+00:00",
+   "resolved": "2026-11-23 16:38:46+00:00",
+   "hours": 0.8088888888888889,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated error rates for gpt-6 Luna API requests",
+   "impact": "major",
+   "start": "2026-11-19 16:01:12+00:00",
+   "created": "2026-11-19 16:01:12+00:00",
+   "resolved": "2026-11-19 16:58:04+00:00",
+   "hours": 0.9477777777777778,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Costs API data is delayed",
+   "impact": "minor",
+   "start": "2026-11-17 17:46:15+00:00",
+   "created": "2026-11-17 17:46:15+00:00",
+   "resolved": "2026-11-18 17:15:46+00:00",
+   "hours": 23.491944444444446,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated conversation errors for Free and Go users",
+   "impact": "minor",
+   "start": "2026-11-18 12:15:02+00:00",
+   "created": "2026-11-18 12:15:02+00:00",
+   "resolved": "2026-11-18 14:13:46+00:00",
+   "hours": 1.978888888888889,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Delayed Costs Data in the Compliance API",
+   "impact": "minor",
+   "start": "2026-11-13 16:10:07+00:00",
+   "created": "2026-11-13 16:10:07+00:00",
+   "resolved": "2026-11-16 00:17:25+00:00",
+   "hours": 56.12166666666667,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated errors with ChatGPT billing and Ads billing",
+   "impact": "none",
+   "start": "2026-11-14 04:11:04+00:00",
+   "created": "2026-11-14 04:11:04+00:00",
+   "resolved": "2026-11-14 05:27:53+00:00",
+   "hours": 1.2802777777777778,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated errors affecting the Microsoft 365 connector",
+   "impact": "minor",
+   "start": "2026-11-12 18:29:14+00:00",
+   "created": "2026-11-12 18:29:14+00:00",
+   "resolved": "2026-11-14 00:18:13+00:00",
+   "hours": 29.816388888888888,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Sites: Publishing failing",
+   "impact": "minor",
+   "start": "2026-11-13 03:59:08+00:00",
+   "created": "2026-11-13 03:59:08+00:00",
+   "resolved": "2026-11-13 05:55:44+00:00",
+   "hours": 1.9433333333333334,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
+   "impact": "minor",
+   "start": "2026-11-12 08:52:35+00:00",
+   "created": "2026-11-12 08:52:35+00:00",
+   "resolved": "2026-11-12 09:25:12+00:00",
+   "hours": 0.5436111111111112,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Unable to start new Workspace Agent runs",
+   "impact": "critical",
+   "start": "2026-11-11 22:50:17+00:00",
+   "created": "2026-11-11 22:50:17+00:00",
+   "resolved": "2026-11-12 08:32:37+00:00",
+   "hours": 9.705555555555556,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated errors affecting logins, sign-ups, and ChatGPT features",
+   "impact": "minor",
+   "start": "2026-11-11 20:43:51+00:00",
+   "created": "2026-11-11 20:43:51+00:00",
+   "resolved": "2026-11-11 20:52:40+00:00",
+   "hours": 0.14694444444444443,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated error rates with some U.S. business Mastercards",
+   "impact": "none",
+   "start": "2026-11-06 18:38:43+00:00",
+   "created": "2026-11-06 18:38:43+00:00",
+   "resolved": "2026-11-10 16:06:18+00:00",
+   "hours": 93.45972222222223,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Incorrect cost data in Costs API exports",
+   "impact": "none",
+   "start": "2026-11-10 04:42:21+00:00",
+   "created": "2026-11-10 04:42:21+00:00",
+   "resolved": "2026-11-10 07:02:33+00:00",
+   "hours": 2.3366666666666664,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated Errors On API",
+   "impact": "minor",
+   "start": "2026-11-09 23:08:12+00:00",
+   "created": "2026-11-09 23:08:12+00:00",
+   "resolved": "2026-11-09 23:50:46+00:00",
+   "hours": 0.7094444444444444,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated ChatGPT Conversation Errors",
+   "impact": "minor",
+   "start": "2026-11-09 18:16:30+00:00",
+   "created": "2026-11-09 18:16:30+00:00",
+   "resolved": "2026-11-09 19:08:31+00:00",
+   "hours": 0.8669444444444444,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated errors with image generation",
+   "impact": "minor",
+   "start": "2026-11-08 15:11:15+00:00",
+   "created": "2026-11-08 15:11:15+00:00",
+   "resolved": "2026-11-08 17:00:42+00:00",
+   "hours": 1.8241666666666667,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "ChatGPT Work and Dots Errors",
+   "impact": "minor",
+   "start": "2026-11-05 15:25:03+00:00",
+   "created": "2026-11-05 15:25:03+00:00",
+   "resolved": "2026-11-06 04:31:37+00:00",
+   "hours": 13.109444444444444,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "Elevated error rates across paid ChatGPT plans",
+   "impact": "minor",
+   "start": "2026-11-04 22:38:12+00:00",
+   "created": "2026-11-04 22:38:12+00:00",
+   "resolved": "2026-11-05 00:32:37+00:00",
+   "hours": 1.9069444444444446,
+   "backfill": false,
+   "post_delay_min": 0.0
+  },
+  {
+   "name": "File upload errors in ChatGPT",
+   "impact": "minor",
+   "start": "2026-11-03 00:46:58+00:00",
+   "created": "2026-11-03 00:46:58+00:00",
+   "resolved": "2026-11-03 05:39:36+00:00",
+   "hours": 4.877222222222223,
+   "backfill": false,
+   "post_delay_min": 0.0
+  }
+ ]
+}

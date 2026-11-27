@@ -1,0 +1,65 @@
+checked 2026-11-27T03:15Z since 2026-11-17 incidents 129 closed 117 open 12
+longest gaps between collector events (h): [(3.1, '2026-11-21 14:50'), (4.3, '2026-11-21 17:54'), (6.7, '2026-11-21 07:55')]
+closed incidents that started >2h before first seen: 8
+all closed: n=117 median=2.9 p25=1.1 p75=9.5 p90=51.0 max=313.3
+  share <= 1h: 25/117
+  share <= 4h: 67/117
+  share <= 24h: 102/117
+  share <= 72h: 107/117
+by provider (closed, n>=3):
+  Twilio: n=39 median=5.4 max=313.3
+  Cloudflare: n=32 median=2.1500000000000004 max=31.9
+  GitHub: n=7 median=1.1 max=1.8
+  OpenAI: n=6 median=3.35 max=23.6
+  Anthropic: n=6 median=1.0 max=59.4
+  Kraken: n=6 median=10.05 max=85.4
+  Akamai Linode: n=3 median=15.3 max=77.4
+  Akamai: n=3 median=78.6 max=78.9
+by impact (closed):
+  critical: n=5 median=1.1 max=1.2
+  major: n=11 median=1.1 max=21.0
+  minor: n=101 median=3.8 max=313.3
+by sector (closed):
+  ai: n=12 median=1.7
+  cloud: n=42 median=2.4
+  comms: n=41 median=5.0
+  consumer: n=1 median=0.7
+  crypto: n=9 median=6.2
+  dev: n=7 median=1.1
+  payments: n=5 median=1.1
+longest 6 closed:
+  313.3h Twilio minor 2026-11-06T21:21Z | SMS Delivery Receipt Delays from a Subset of Twilio Long Codes to Multiple Networks in Chi
+  236.0h Gemini (exchange) minor 2026-11-15T06:54Z | ACH Deposits Cancelled
+  125.6h Twilio minor 2026-11-12T16:53Z | Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Mobile Numbers
+  93.3h Twilio minor 2026-11-13T22:36Z | SMS Delivery Delays from Twilio to Brisanet Servicos De Telecomunicacoes SA Brazil
+  85.4h Kraken minor 2026-11-23T12:52Z | CAD Deposit Delays via Apaylo
+  78.9h Akamai minor 2026-11-20T03:20Z | Reporting Issues
+open now, age h:
+  597.6h Twilio minor | Voice Call Failures from a Subset of Twilio Philippines Phone Numbers to Multipl
+  409.4h Cloudflare minor | Changes to Cloudflare Workers are not producing Event Subscription events
+  203.3h Twilio minor | Voice Call Silent and One-Way Audio Between a Subset of Twilio Phone Numbers and
+  177.1h Wise major | Delayed transfers to COP
+  119.4h Twilio minor | Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada
+  75.1h Anthropic major | Claude for Microsoft 365 add-in missing for some users
+  44.7h Twilio minor | SMS Delivery Failures from Twilio to Econet Telecom Lesotho
+  19.3h Twilio minor | SMS Delivery Delays from Twilio to Bouygues Telecom France
+  12.6h Kraken minor | Interac e-Transfer (CAD) Withdrawal Delays
+  5.0h Twilio minor | SMS Delivery Delays from a Subset of Twilio Alphanumeric and Long Codes to AT&T 
+  2.0h Twilio minor | SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand
+  0.9h Twilio minor | MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States
+closed incidents ending right after a >1h collector gap: 6 [2.5, 15.3, 2.7, 1.4, 5.4, 236.0]
+Kaplan-Meier median (open counted as censored): 3.4h; P(still open at 24h)=0.18
+Twilio closed: 39 carrier/route-specific titles: 24
+Twilio route-specific (SMS/MMS/voice to a named carrier or country): n=27 median=7.5; platform/other: n=12 median=2.4
+   platform: 2.5 Delay In Outbound SMS Send
+   platform: 2.8 Some calls not branded or receive spam likely label
+   platform: 2.3 Intermittent 403 Errors at the Email and Programmable Messaging APIs
+   platform: 2.7 Email Authentication Errors
+   platform: 76.4 Emergency Caller ID Configuration Issues for SIP Domains
+   platform: 1.6 Twilio Help Center Chat Creation and Retrieval Failures
+   platform: 1.0 Subset of API Requests Blocked with 403 Response
+   platform: 4.6 Text to Speech Timeouts
+   platform: 1.2 Transactional Email Delays in AP
+   platform: 2.9 Speech Recognition Failures in US1
+   platform: 0.9 Programmable Messaging API Errors
+   platform: 0.4 Voice Call Signing Issues

@@ -1,0 +1,23 @@
+incidents: 50  window 2026-10-06 19:57 -> 2026-11-25 23:06 UTC  days 50.1  per week 7.0
+impact: [('minor', 30), ('critical', 12), ('major', 7), ('none', 1)]
+service mentioned (title or affected components): [('Actions', 22), ('Copilot', 14), ('Pull Requests', 12), ('Webhooks', 12), ('Issues', 10), ('Pages', 8), ('Git Operations', 7), ('API Requests', 6), ('Packages', 2), ('Dependabot', 2), ('LFS', 1)]
+no service named anywhere: 5
+duration hours: n=50 median=1.06 p75=1.94 max=11.04
+  Actions: n=22 median=0.98 h
+  Copilot: n=14 median=0.69 h
+  Pull Requests: n=12 median=2.35 h
+  Issues: n=10 median=0.87 h
+  Git Operations: n=7 median=1.17 h
+  impact none: n=1 median=0.00 h
+  impact minor: n=30 median=0.94 h
+  impact major: n=7 median=1.55 h
+  impact critical: n=12 median=1.12 h
+first update generic ("some GitHub services"/"investigating reports"): 48 of 50
+minutes until an update names a component: n=49 median=0.0 p75=1.2 max=741.9; never named in updates: 1
+named within 0 min (first post): 35; within 30 min: 42
+weekday (UTC start): [('Wed', 15), ('Thu', 10), ('Mon', 9), ('Fri', 8), ('Tue', 7), ('Sun', 1)]
+hour UTC buckets 0-6/6-12/12-18/18-24: [2, 10, 22, 16]
+Copilot share: 14 of 50 ; model-specific (title names a model): 8
+started Mon-Fri 13-24 UTC: 37 (13-24 UTC = 8-19 New York, EST); weekend: 1
+updates per incident median: 6.0
+critical on Wednesday: 7 of which 14-18 UTC: 5

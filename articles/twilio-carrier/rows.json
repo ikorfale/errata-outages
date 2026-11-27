@@ -1,0 +1,673 @@
+[
+ {
+  "id": "qfc5kd8grldv",
+  "title": "SMS Delivery Delays from a Subset of Twilio Short Codes to Liberty Mobile Puerto Rico",
+  "start": "2026-11-17T01:12:49.409000+00:00",
+  "end": "2026-11-17T21:00:18.433000+00:00",
+  "comps": [
+   "SMS, Latin America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 19.791395555555557,
+  "country": "Puerto Rico",
+  "carrier": "Liberty Mobile Puerto Rico"
+ },
+ {
+  "id": "byh957kdhsqf",
+  "title": "SMS Delivery Delays from Twilio to Sky United Kingdom",
+  "start": "2026-11-17T09:32:25.925000+00:00",
+  "end": "2026-11-17T14:30:55.989000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 4.9750177777777775,
+  "country": "United Kingdom",
+  "carrier": "Sky United Kingdom"
+ },
+ {
+  "id": "ykggc4c79v40",
+  "title": "Voice Call Audio Quality Degradation Between Twilio and Multiple Networks in United Kingdom",
+  "start": "2026-11-17T11:41:52.692000+00:00",
+  "end": "2026-11-18T15:46:04.597000+00:00",
+  "comps": [
+   "Voice, Europe"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": 28.06997361111111,
+  "country": "United Kingdom",
+  "carrier": "Multiple"
+ },
+ {
+  "id": "z3n8ltwf1bn1",
+  "title": "Customers Unable to View Balance in Console",
+  "start": "2026-11-17T14:32:03.826000+00:00",
+  "end": "2026-11-17T14:37:57.765000+00:00",
+  "comps": [
+   "Billing"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 0.0983163888888889
+ },
+ {
+  "id": "x8vqwln59jhc",
+  "title": "SMS Delivery Failures Between a Subset of Twilio Short Codes and Claro in Brazil",
+  "start": "2026-11-17T15:55:15.847000+00:00",
+  "end": "2026-11-17T21:28:58.472000+00:00",
+  "comps": [
+   "SMS, Latin America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 5.561840277777778,
+  "country": "Brazil",
+  "carrier": "Claro"
+ },
+ {
+  "id": "0my8fgf507q8",
+  "title": "Voice Call Audio Quality Degradation and Silent and One-Way Audio between Twilio and Multiple Networks in Brazil",
+  "start": "2026-11-17T16:06:00.100000+00:00",
+  "end": "2026-11-19T16:54:08.767000+00:00",
+  "comps": [
+   "Voice, Latin America"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": 48.802407499999994,
+  "country": "Brazil",
+  "carrier": "Silent and One-Way Audio between Twilio and Multiple"
+ },
+ {
+  "id": "dcqfdc3rnpmp",
+  "title": "SMS Delivery Delays and Failures from a Subset of Twilio Short Codes to AT&T Mexico",
+  "start": "2026-11-17T19:47:04.182000+00:00",
+  "end": "2026-11-17T22:48:21.779000+00:00",
+  "comps": [
+   "SMS, Latin America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 3.021554722222222,
+  "country": "Mexico",
+  "carrier": "AT&T Mexico"
+ },
+ {
+  "id": "gnqdpdbs9v4y",
+  "title": "Voice Call Signing Issues",
+  "start": "2026-11-17T22:03:20.112000+00:00",
+  "end": "2026-11-17T22:17:13+00:00",
+  "comps": [
+   "PSTN US1"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": false,
+  "hours": 0.23135777777777777
+ },
+ {
+  "id": "269ytwp2jgqq",
+  "title": "Programmable Messaging API Errors",
+  "start": "2026-11-17T23:52:38.530000+00:00",
+  "end": "2026-11-18T00:44:18.957000+00:00",
+  "comps": [
+   "MMS",
+   "SMS",
+   "RCS Messaging",
+   "Programmable Messaging API"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 0.8612297222222223
+ },
+ {
+  "id": "br82nbf55nll",
+  "title": "Speech Recognition and Real-Time Transcription Failures in US1",
+  "start": "2026-11-18T08:07:51.963000+00:00",
+  "end": "2026-11-18T10:55:26.354000+00:00",
+  "comps": [
+   "Realtime Transcriptions",
+   "Recording Transcriptions US1",
+   "Speech Recognition (Gather Speech) US1",
+   "Realtime Transcriptions US1"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 2.792886388888889
+ },
+ {
+  "id": "1vzhngqd51qb",
+  "title": "SMS Delivery Delays and Failures from a Subset of Twilio Short Codes to Bell and Bell Aliant Canada",
+  "start": "2026-11-18T10:35:58.904000+00:00",
+  "end": "2026-11-18T14:51:00.900000+00:00",
+  "comps": [
+   "SMS Short Code, North America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 4.250554444444444,
+  "country": "Canada",
+  "carrier": "Bell Aliant Canada"
+ },
+ {
+  "id": "4xw666kwsl32",
+  "title": "Voice Call Failures from a Subset of Twilio phone numbers in Brasil",
+  "start": "2026-11-18T11:44:38.596000+00:00",
+  "end": "2026-11-18T12:31:42.188000+00:00",
+  "comps": [
+   "SIP Interface US1"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": 0.7843311111111111,
+  "country": "Brazil",
+  "carrier": "Voice Call Failures from a Subset of Twilio phone numbers in Brasil"
+ },
+ {
+  "id": "9dxlwgdlxlww",
+  "title": "Transactional Email Delays in AP",
+  "start": "2026-11-18T14:05:04.507000+00:00",
+  "end": "2026-11-18T15:02:26.897000+00:00",
+  "comps": [
+   "API v3"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 0.9562194444444444
+ },
+ {
+  "id": "5zr9yh0c6f8g",
+  "title": "Voice Call Silent and One-Way Audio between Twilio Phone Numbers and Multiple Networks in Colombia",
+  "start": "2026-11-18T15:56:21.187000+00:00",
+  "end": null,
+  "comps": [
+   "Voice, Latin America"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": null,
+  "country": "Colombia",
+  "carrier": "One-Way Audio between Twilio Phone Numbers and Multiple"
+ },
+ {
+  "id": "y8nr8pclt7p5",
+  "title": "Text to Speech Timeouts",
+  "start": "2026-11-18T16:17:26+00:00",
+  "end": "2026-11-18T20:51:29.381000+00:00",
+  "comps": [
+   "Speech Recognition (Gather Speech) US1"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 4.567605833333333
+ },
+ {
+  "id": "jb19ltd7fmz9",
+  "title": "SMS Delivery Failures from a Subset of Twilio Phone Numbers to Zong Pakistan",
+  "start": "2026-11-18T16:18:34.979000+00:00",
+  "end": "2026-11-19T00:22:03.955000+00:00",
+  "comps": [
+   "SMS, APAC"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 8.058048888888889,
+  "country": "Pakistan",
+  "carrier": "Zong Pakistan"
+ },
+ {
+  "id": "6whmdws61rgb",
+  "title": "SMS Delivery Delays from Twilio to ISP Telecom United States",
+  "start": "2026-11-19T03:46:53.246000+00:00",
+  "end": "2026-11-19T13:23:46.780000+00:00",
+  "comps": [
+   "SMS Long Code, North America",
+   "SMS Short Code, North America",
+   "SMS Toll-Free, North America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 9.614870555555555,
+  "country": "United States",
+  "carrier": "ISP Telecom United States"
+ },
+ {
+  "id": "q8sh3cw55b17",
+  "title": "Voice Call Failures from a Subset of Twilio Phone Numbers to Argentina",
+  "start": "2026-11-19T15:15:43.303000+00:00",
+  "end": "2026-11-19T22:53:53.532000+00:00",
+  "comps": [
+   "Voice, Latin America"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": 7.636174722222222,
+  "country": "Argentina",
+  "carrier": "Argentina"
+ },
+ {
+  "id": "4rknsqgf86ss",
+  "title": "Automated Alert: No Customer Impact",
+  "start": "2026-11-19T18:30:30.887000+00:00",
+  "end": "2026-11-19T18:48:15.294000+00:00",
+  "comps": [],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 0.2956686111111111
+ },
+ {
+  "id": "sjjy31999wh3",
+  "title": "SMS Delivery Delays from Twilio to Proximus Belgium",
+  "start": "2026-11-20T12:51:03.679000+00:00",
+  "end": "2026-11-20T19:50:49.090000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 6.9959475,
+  "country": "Belgium",
+  "carrier": "Proximus Belgium"
+ },
+ {
+  "id": "gvcb0dssh6mg",
+  "title": "Subset of API Requests Blocked with 403 Response",
+  "start": "2026-11-20T17:06:44.124000+00:00",
+  "end": "2026-11-20T17:56:38+00:00",
+  "comps": [
+   "REST API"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 0.8316322222222223
+ },
+ {
+  "id": "fdjn1ghpx43y",
+  "title": "SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to CTBC Brazil",
+  "start": "2026-11-20T19:53:26.257000+00:00",
+  "end": "2026-11-21T01:07:04.585000+00:00",
+  "comps": [
+   "SMS, Latin America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 5.227313333333334,
+  "country": "Brazil",
+  "carrier": "CTBC Brazil"
+ },
+ {
+  "id": "dmqm37tmnv87",
+  "title": "Twilio Help Center Chat Creation and Retrieval Failures",
+  "start": "2026-11-20T22:23:54.455000+00:00",
+  "end": "2026-11-20T23:56:28.630000+00:00",
+  "comps": [
+   "Customer Support Center"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 1.542826388888889
+ },
+ {
+  "id": "ytyy9mbkhchr",
+  "title": "Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada",
+  "start": "2026-11-22T03:50:54.606000+00:00",
+  "end": "2026-11-27T03:40:49.602000+00:00",
+  "comps": [
+   "Lookup Line Type Intelligence [Legacy API]"
+  ],
+  "src": "api",
+  "ch": "Lookup",
+  "route": true,
+  "hours": 119.83194333333333,
+  "country": "Canada",
+  "carrier": "Bell Mobility"
+ },
+ {
+  "id": "w9sbvqq9sdw0",
+  "title": "SMS Delivery Delays and Failures from Twilio to Telekom Germany",
+  "start": "2026-11-22T15:55:48.937000+00:00",
+  "end": "2026-11-22T22:16:16.586000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 6.341013611111111,
+  "country": "Germany",
+  "carrier": "Telekom Germany"
+ },
+ {
+  "id": "wp5h8ggpfh2k",
+  "title": "SMS Delivery Delays from Twilio to Telekom Srbija Serbia",
+  "start": "2026-11-22T22:10:38.711000+00:00",
+  "end": "2026-11-23T02:30:20.925000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 4.328392777777778,
+  "country": "Serbia",
+  "carrier": "Telekom Srbija Serbia"
+ },
+ {
+  "id": "bmn4zx64y60q",
+  "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Cell C South Africa",
+  "start": "2026-11-23T07:04:31.149000+00:00",
+  "end": "2026-11-23T14:29:32.618000+00:00",
+  "comps": [
+   "SMS, Middle East & Africa"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 7.417074722222223,
+  "country": "South Africa",
+  "carrier": "Cell C South Africa"
+ },
+ {
+  "id": "llqf69fxcqvm",
+  "title": "Emergency Calling Configuration Issues for SIP Domains",
+  "start": "2026-11-23T16:28:12.726000+00:00",
+  "end": "2026-11-26T20:35:02.321000+00:00",
+  "comps": [
+   "Console"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 76.11377638888888
+ },
+ {
+  "id": "40yqdkh8kxj6",
+  "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Vodacom South Africa",
+  "start": "2026-11-23T17:37:31.830000+00:00",
+  "end": "2026-11-24T14:35:19.076000+00:00",
+  "comps": [
+   "SMS, Middle East & Africa"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 20.963123888888887,
+  "country": "South Africa",
+  "carrier": "Vodacom South Africa"
+ },
+ {
+  "id": "ss96fj960ls6",
+  "title": "Email Authentication Errors Affecting Mail Send",
+  "start": "2026-11-23T18:16:45+00:00",
+  "end": "2026-11-23T20:47:22.517000+00:00",
+  "comps": [
+   "API v3"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 2.5104213888888887
+ },
+ {
+  "id": "13bsyxhr1v1l",
+  "title": "Intermittent 403 Errors at the Email and Programmable Messaging APIs",
+  "start": "2026-11-23T22:17:34.910000+00:00",
+  "end": "2026-11-24T00:22:45.635000+00:00",
+  "comps": [
+   "API v3",
+   "Programmable Messaging API",
+   "SendGrid API"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 2.0863125
+ },
+ {
+  "id": "zv1172k6tkkq",
+  "title": "SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to Telstra Australia",
+  "start": "2026-11-23T23:12:33.757000+00:00",
+  "end": "2026-11-24T03:26:34.876000+00:00",
+  "comps": [
+   "SMS, APAC"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 4.233644166666667,
+  "country": "Australia",
+  "carrier": "Telstra Australia"
+ },
+ {
+  "id": "drcczltslqdc",
+  "title": "SMS Delivery Delays and Failures from Twilio to Telekom Germany",
+  "start": "2026-11-24T10:24:03.091000+00:00",
+  "end": "2026-11-24T15:13:50.400000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 4.829808055555556,
+  "country": "Germany",
+  "carrier": "Telekom Germany"
+ },
+ {
+  "id": "cblwj02x20d6",
+  "title": "Voice Call Failures from Twilio Phone Numbers to Ireland",
+  "start": "2026-11-24T18:41:18.421000+00:00",
+  "end": "2026-11-25T04:06:21.937000+00:00",
+  "comps": [
+   "Voice, Europe"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": 9.417643333333334,
+  "country": "Ireland",
+  "carrier": "Ireland"
+ },
+ {
+  "id": "bt3k6hkjlh01",
+  "title": "KYC Onboarding Issues Affecting Voice Call Branding and Spam Labeling",
+  "start": "2026-11-24T21:03:06.218000+00:00",
+  "end": "2026-11-24T23:48:27.500000+00:00",
+  "comps": [
+   "PHONE NUMBERS"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 2.7559116666666665
+ },
+ {
+  "id": "gjc25j51yq37",
+  "title": "SMS Delivery Failures from Twilio to Econet Telecom Lesotho",
+  "start": "2026-11-25T06:31:58.774000+00:00",
+  "end": null,
+  "comps": [
+   "SMS, Middle East & Africa"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": null,
+  "country": "Lesotho",
+  "carrier": "Econet Telecom Lesotho"
+ },
+ {
+  "id": "kmqsql9zjkm3",
+  "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
+  "start": "2026-11-25T10:13:57.463000+00:00",
+  "end": "2026-11-25T23:00:12.441000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 12.770827222222223,
+  "country": "France",
+  "carrier": "Bouygues Telecom France"
+ },
+ {
+  "id": "4vs0xrtv0qs4",
+  "title": "SMS Delivery Delays from Twilio to Multiple Networks in Italy",
+  "start": "2026-11-25T14:49:12.539000+00:00",
+  "end": "2026-11-25T21:34:00.057000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 6.7465327777777775,
+  "country": "Italy",
+  "carrier": "Multiple Networks in Italy"
+ },
+ {
+  "id": "j5pydzd50fhm",
+  "title": "SMS Delivery Delays from Twilio to Spusu United Kingdom",
+  "start": "2026-11-26T00:49:43.425000+00:00",
+  "end": "2026-11-26T04:15:08.672000+00:00",
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 3.423679722222222,
+  "country": "United Kingdom",
+  "carrier": "Spusu United Kingdom"
+ },
+ {
+  "id": "5rbrrc126nq7",
+  "title": "Delay in Outbound SMS Send",
+  "start": "2026-11-26T04:01:45+00:00",
+  "end": "2026-11-26T06:17:52.479000+00:00",
+  "comps": [
+   "SMS"
+  ],
+  "src": "api",
+  "ch": "Other",
+  "route": false,
+  "hours": 2.2687441666666666
+ },
+ {
+  "id": "l7553gm3lz12",
+  "title": "Voice Call Post Dial Delay and Failures Between a Subset of Twilio South Africa Phone Numbers and Network Subscribers",
+  "start": "2026-11-26T07:41:32.158000+00:00",
+  "end": "2026-11-26T18:38:01.586000+00:00",
+  "comps": [
+   "Voice, Middle East & Africa"
+  ],
+  "src": "api",
+  "ch": "Voice",
+  "route": true,
+  "hours": 10.941507777777778,
+  "country": "South Africa",
+  "carrier": "Failures Between a Subset of Twilio South Africa Phone Numbers and Network Subscribers"
+ },
+ {
+  "id": "sv0gq9wsgmvl",
+  "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
+  "start": "2026-11-26T07:58:11.604000+00:00",
+  "end": null,
+  "comps": [
+   "SMS, Europe"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": null,
+  "country": "France",
+  "carrier": "Bouygues Telecom France"
+ },
+ {
+  "id": "jlx1q8b88c0c",
+  "title": "SMS Delivery Delays from Twilio to Multiple Networks in Bahrain",
+  "start": "2026-11-26T15:46:20.346000+00:00",
+  "end": "2026-11-26T19:31:14.721000+00:00",
+  "comps": [
+   "SMS, Middle East & Africa"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 3.7484375,
+  "country": "Bahrain",
+  "carrier": "Multiple Networks in Bahrain"
+ },
+ {
+  "id": "ksgz9lqsdqmp",
+  "title": "SMS Delivery Delays from a Subset of Twilio Alphanumeric Sender IDs and Long Codes to AT&T Mexico",
+  "start": "2026-11-26T22:16:45.838000+00:00",
+  "end": "2026-11-27T03:23:09.624000+00:00",
+  "comps": [
+   "SMS, Latin America"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": 5.106607222222222,
+  "country": "Mexico",
+  "carrier": "AT&T Mexico"
+ },
+ {
+  "id": "9f6xy0pvfy9r",
+  "title": "SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand",
+  "start": "2026-11-27T01:15:26.329000+00:00",
+  "end": null,
+  "comps": [
+   "SMS, APAC"
+  ],
+  "src": "api",
+  "ch": "SMS",
+  "route": true,
+  "hours": null,
+  "country": "New Zealand",
+  "carrier": "OneNZ / Vodafone New Zealand"
+ },
+ {
+  "id": "kv5wqlt4n24z",
+  "title": "MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States",
+  "start": "2026-11-27T02:20:41.299000+00:00",
+  "end": null,
+  "comps": [
+   "MMS Long Code, North America",
+   "MMS Long Code, North America"
+  ],
+  "src": "api",
+  "ch": "MMS",
+  "route": true,
+  "hours": null,
+  "country": "United States",
+  "carrier": "GCI United States"
+ }
+]
