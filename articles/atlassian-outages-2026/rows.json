@@ -1,0 +1,1038 @@
+[
+ {
+  "p": "Jira",
+  "t": "Disrupted Automation for Jira triggers not running for some customers",
+  "imp": "major",
+  "s": "2026-01-06T05:18:20.464000+00:00",
+  "h": 30.23363777777778
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Disrupted Automation for Jira triggers not running for some customers",
+  "imp": "major",
+  "s": "2026-01-06T05:18:20.492000+00:00",
+  "h": 30.233361388888888
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Bitbucket workspace invitations failing for all users",
+  "imp": "minor",
+  "s": "2026-01-07T06:05:13.882000+00:00",
+  "h": 0.5883069444444445
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Unable to reach bitbucket site",
+  "imp": "critical",
+  "s": "2026-01-07T16:23:29.492000+00:00",
+  "h": 2.4983736111111114
+ },
+ {
+  "p": "Confluence",
+  "t": "Confluence site unreachable for some users",
+  "imp": "major",
+  "s": "2026-01-08T15:27:17.401000+00:00",
+  "h": 3.7069575
+ },
+ {
+  "p": "Jira",
+  "t": "Disrupted create and view issue for some customers",
+  "imp": "major",
+  "s": "2026-01-12T18:23:28.312000+00:00",
+  "h": 5.3619513888888894
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Issue affecting Assets",
+  "imp": "minor",
+  "s": "2026-01-20T19:10:42.336000+00:00",
+  "h": 3.982416666666667
+ },
+ {
+  "p": "Jira",
+  "t": "Issue affecting Assets",
+  "imp": "minor",
+  "s": "2026-01-20T19:10:42.347000+00:00",
+  "h": 3.9824158333333335
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "JSM Asset not loading",
+  "imp": "major",
+  "s": "2026-01-22T14:44:52.376000+00:00",
+  "h": 2.0377166666666664
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Assets intermittently unavailable",
+  "imp": "major",
+  "s": "2026-01-27T11:07:43.490000+00:00",
+  "h": 0.7034086111111112
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Disrupted Bitbucket availability in eu-west-1",
+  "imp": "minor",
+  "s": "2026-01-28T16:49:04+00:00",
+  "h": 3.183682222222222
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of Jira, JPD, and JSM in eu-west-1",
+  "imp": "minor",
+  "s": "2026-01-28T18:12:17.420000+00:00",
+  "h": 1.504518611111111
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of Jira, JPD, and JSM in eu-west-1",
+  "imp": "minor",
+  "s": "2026-01-28T18:12:17.423000+00:00",
+  "h": 1.5045216666666668
+ },
+ {
+  "p": "Confluence",
+  "t": "Confluence, Jira Mobile and Forge users may experience authentication issues",
+  "imp": "minor",
+  "s": "2026-02-03T10:19:54.340000+00:00",
+  "h": 0.5114608333333334
+ },
+ {
+  "p": "Jira",
+  "t": "Confluence, Jira Mobile and Forge users may experience authentication issues",
+  "imp": "minor",
+  "s": "2026-02-03T10:19:54.812000+00:00",
+  "h": 0.5113338888888889
+ },
+ {
+  "p": "Jira",
+  "t": "Some users in us-east-1 region unable to access Jira and JSM.",
+  "imp": "critical",
+  "s": "2026-02-05T14:13:18.981000+00:00",
+  "h": 7.4220733333333335
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Some users in us-east-1 region unable to access Jira and JSM.",
+  "imp": "major",
+  "s": "2026-02-05T14:13:19.244000+00:00",
+  "h": 7.422136666666667
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Users incorrectly moved from Free to Standard Service Collection Trial account",
+  "imp": "minor",
+  "s": "2026-02-06T01:47:12.947000+00:00",
+  "h": 18.239830277777777
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Disrupted JIRA and JSM availability",
+  "imp": "critical",
+  "s": "2026-02-06T20:24:43.020000+00:00",
+  "h": 9.222021111111111
+ },
+ {
+  "p": "Jira",
+  "t": "Disrupted JIRA and JSM availability",
+  "imp": "critical",
+  "s": "2026-02-06T20:24:43.031000+00:00",
+  "h": 9.222151944444445
+ },
+ {
+  "p": "Trello",
+  "t": "Trello performance is degraded",
+  "imp": "none",
+  "s": "2026-02-09T03:20:54.177000-05:00",
+  "h": 0.26184111111111114
+ },
+ {
+  "p": "Jira",
+  "t": "Increased error rates on Jira and Jira Service Management Ecosystem Apps",
+  "imp": "major",
+  "s": "2026-02-12T10:44:05.361000+00:00",
+  "h": 165.34780083333334
+ },
+ {
+  "p": "Confluence",
+  "t": "Groups are not clickable from Groups Page in Atlassian Administration",
+  "imp": "major",
+  "s": "2026-02-18T10:57:38.385000+00:00",
+  "h": 0.5475425
+ },
+ {
+  "p": "Jira",
+  "t": "Groups are not clickable from Groups Page in Atlassian Administration",
+  "imp": "minor",
+  "s": "2026-02-18T10:57:38.385000+00:00",
+  "h": 0.5474030555555556
+ },
+ {
+  "p": "Trello",
+  "t": "Degraded performance of Trello",
+  "imp": "minor",
+  "s": "2026-02-19T10:06:25.168000-05:00",
+  "h": 0.2637158333333333
+ },
+ {
+  "p": "Confluence",
+  "t": "Disrupted availability of Confluence Cloud in several regions",
+  "imp": "major",
+  "s": "2026-02-19T15:44:25.955000+00:00",
+  "h": 2.04316
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of Cloud Products when selecting users or teams",
+  "imp": "minor",
+  "s": "2026-02-19T16:44:49.272000+00:00",
+  "h": 19.68857638888889
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of Cloud Products when selecting users or teams",
+  "imp": "minor",
+  "s": "2026-02-20T02:52:52+00:00",
+  "h": 9.554626111111112
+ },
+ {
+  "p": "Confluence",
+  "t": "Degraded performance of Cloud Products when selecting users or teams",
+  "imp": "minor",
+  "s": "2026-02-20T04:14:19.453000+00:00",
+  "h": 8.196893055555556
+ },
+ {
+  "p": "Trello",
+  "t": "Trello Slow or down for users",
+  "imp": "major",
+  "s": "2026-02-21T10:32:17.836000-05:00",
+  "h": 0.0004138888888888889
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Atlassian Assist in Jira Service Management is currently unavailable.",
+  "imp": "critical",
+  "s": "2026-02-26T13:22:27.919000+00:00",
+  "h": 5.55176361111111
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Disrupted Bitbucket availability",
+  "imp": "critical",
+  "s": "2026-03-06T02:44:40.605000+00:00",
+  "h": 2.4500666666666664
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Automation events delayed for some customers in the APAC region",
+  "imp": "major",
+  "s": "2026-03-10T00:06:29+00:00",
+  "h": 0.8760027777777778
+ },
+ {
+  "p": "Jira",
+  "t": "Automation events delayed for some customers in the APAC region",
+  "imp": "major",
+  "s": "2026-03-10T00:06:29+00:00",
+  "h": 0.8761327777777778
+ },
+ {
+  "p": "Confluence",
+  "t": "Automation events delayed for some customers in the APAC region",
+  "imp": "major",
+  "s": "2026-03-10T00:15:49.969000+00:00",
+  "h": 0.7203425
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Degraded performance of Bitbucket cloud",
+  "imp": "minor",
+  "s": "2026-03-12T08:48:06.230000+00:00",
+  "h": 3.7593158333333334
+ },
+ {
+  "p": "Confluence",
+  "t": "Static macro rendering is failing in Confluence Cloud",
+  "imp": "major",
+  "s": "2026-03-12T11:42:39.659000+00:00",
+  "h": 12.723593611111111
+ },
+ {
+  "p": "Jira",
+  "t": "Automations aren't triggering on work item creation, field updates, or comment additions",
+  "imp": "critical",
+  "s": "2026-03-18T11:29:14.252000+00:00",
+  "h": 16.648371944444445
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Automations aren't triggering on work item creation, field updates, or comment additions",
+  "imp": "critical",
+  "s": "2026-03-18T11:32:44.090000+00:00",
+  "h": 16.589955555555555
+ },
+ {
+  "p": "Confluence",
+  "t": "Multiple products impacted by search failures",
+  "imp": "critical",
+  "s": "2026-04-08T05:41:18.009000+00:00",
+  "h": 6.0365883333333334
+ },
+ {
+  "p": "Jira",
+  "t": "Multiple products impacted by search failures",
+  "imp": "critical",
+  "s": "2026-04-08T05:41:18.107000+00:00",
+  "h": 6.036565277777777
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Multiple products impacted by search failures",
+  "imp": "major",
+  "s": "2026-04-08T06:24:47.129000+00:00",
+  "h": 5.311685
+ },
+ {
+  "p": "Jira",
+  "t": "Users experiencing issues with login across Atlassian products",
+  "imp": "minor",
+  "s": "2026-04-13T07:29:45.417000+00:00",
+  "h": 2.7931419444444443
+ },
+ {
+  "p": "Confluence",
+  "t": "Users experiencing issues with login across Atlassian products",
+  "imp": "minor",
+  "s": "2026-04-13T07:29:45.536000+00:00",
+  "h": 2.7931244444444445
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Users experiencing issues with login across Atlassian products",
+  "imp": "minor",
+  "s": "2026-04-13T07:29:45.552000+00:00",
+  "h": 2.7933499999999998
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Users experiencing issues with login across Atlassian products",
+  "imp": "minor",
+  "s": "2026-04-13T07:29:45.600000+00:00",
+  "h": 2.7930916666666663
+ },
+ {
+  "p": "Jira",
+  "t": "Disrupted Rovo availability for Automation rules",
+  "imp": "critical",
+  "s": "2026-04-14T12:12:58.153000+00:00",
+  "h": 3.9758705555555554
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Disrupted Rovo availability for Automation rules",
+  "imp": "critical",
+  "s": "2026-04-14T12:12:58.154000+00:00",
+  "h": 3.9758283333333333
+ },
+ {
+  "p": "Confluence",
+  "t": "Disrupted Rovo availability for Automation rules",
+  "imp": "critical",
+  "s": "2026-04-14T12:25:17.081000+00:00",
+  "h": 3.770697777777778
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Bitbucket Pipelines degraded performance",
+  "imp": "minor",
+  "s": "2026-04-16T20:23:10.857000+00:00",
+  "h": 0.35845305555555557
+ },
+ {
+  "p": "Jira",
+  "t": "Delays in Jira webhook delivery",
+  "imp": "minor",
+  "s": "2026-04-30T08:59:03.731000+00:00",
+  "h": 5.965268888888889
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "The Work Item view experience of Jira is restored",
+  "imp": "critical",
+  "s": "2026-05-02T00:55:47.627000+00:00",
+  "h": 1.8709797222222222
+ },
+ {
+  "p": "Jira",
+  "t": "The Work Item view experience of Jira is restored",
+  "imp": "critical",
+  "s": "2026-05-02T00:55:47.631000+00:00",
+  "h": 1.870961388888889
+ },
+ {
+  "p": "Jira",
+  "t": "Jira users unable to log time while on business board",
+  "imp": "major",
+  "s": "2026-05-06T03:18:26.385000+00:00",
+  "h": 3.3503155555555555
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Lookup Objects in Automation for Jira Service Management are not functioning",
+  "imp": "major",
+  "s": "2026-05-06T09:35:20.062000+00:00",
+  "h": 1.697969722222222
+ },
+ {
+  "p": "Jira",
+  "t": "Multiple Atlassian services are experiencing issues",
+  "imp": "minor",
+  "s": "2026-05-08T01:31:38.232000+00:00",
+  "h": 18.2317
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Multiple Atlassian services are experiencing issues",
+  "imp": "minor",
+  "s": "2026-05-08T01:31:38.240000+00:00",
+  "h": 18.231437500000002
+ },
+ {
+  "p": "Confluence",
+  "t": "Multiple Atlassian services are experiencing issues",
+  "imp": "minor",
+  "s": "2026-05-08T01:31:38.293000+00:00",
+  "h": 18.231421666666666
+ },
+ {
+  "p": "Trello",
+  "t": "Multiple Atlassian services are experiencing issues",
+  "imp": "minor",
+  "s": "2026-05-07T21:31:38.302000-04:00",
+  "h": 8.920137222222221
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Multiple Atlassian services are experiencing issues",
+  "imp": "minor",
+  "s": "2026-05-08T01:31:38.339000+00:00",
+  "h": 18.231401944444446
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Automations within Jira, Jira Service Management and JSM Assist experiencing delays for some users",
+  "imp": "major",
+  "s": "2026-05-13T01:37:34.583000+00:00",
+  "h": 8.358463333333333
+ },
+ {
+  "p": "Jira",
+  "t": "Automations within Jira, Jira Service Management and JSM Assist experiencing delays for some users",
+  "imp": "major",
+  "s": "2026-05-13T01:37:35.031000+00:00",
+  "h": 8.358590277777777
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Excessive notifications being received by some Jira Service Management users",
+  "imp": "minor",
+  "s": "2026-05-14T01:15:35.189000+00:00",
+  "h": 8.439985555555555
+ },
+ {
+  "p": "Jira",
+  "t": "Users experiencing issues accessing multiple Atlassian products",
+  "imp": "critical",
+  "s": "2026-05-14T04:54:57.981000+00:00",
+  "h": 1.8916058333333332
+ },
+ {
+  "p": "Confluence",
+  "t": "Users experiencing issues accessing multiple Atlassian products",
+  "imp": "critical",
+  "s": "2026-05-14T04:54:57.984000+00:00",
+  "h": 1.8916591666666667
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Users experiencing issues accessing multiple Atlassian products",
+  "imp": "critical",
+  "s": "2026-05-14T05:03:32.407000+00:00",
+  "h": 1.7487019444444445
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Users experiencing issues accessing multiple Atlassian products",
+  "imp": "critical",
+  "s": "2026-05-14T05:03:33.069000+00:00",
+  "h": 1.7480680555555557
+ },
+ {
+  "p": "Trello",
+  "t": "Users experiencing issues accessing multiple Atlassian products",
+  "imp": "critical",
+  "s": "2026-05-14T01:24:54.943000-04:00",
+  "h": 1.3924391666666667
+ },
+ {
+  "p": "Trello",
+  "t": "Trello - degraded performance (resolved)",
+  "imp": "minor",
+  "s": "2026-05-15T11:14:21.764000-04:00",
+  "h": 2.842438888888889
+ },
+ {
+  "p": "Trello",
+  "t": "Trello - degraded performance",
+  "imp": "minor",
+  "s": "2026-05-17T10:11:02.701000-04:00",
+  "h": 223.0230675
+ },
+ {
+  "p": "Jira",
+  "t": "Forge custom fields are not getting created",
+  "imp": "minor",
+  "s": "2026-05-20T09:17:17.560000+00:00",
+  "h": 4.9547875
+ },
+ {
+  "p": "Confluence",
+  "t": "Some macros failing to load in the Confluence Cloud editor",
+  "imp": "minor",
+  "s": "2026-05-26T10:40:00.024000+00:00",
+  "h": 3.2645391666666668
+ },
+ {
+  "p": "Confluence",
+  "t": "Users facing errors when attempting to view Calendars in Confluence",
+  "imp": "major",
+  "s": "2026-05-27T06:03:31.792000+00:00",
+  "h": 1.7548558333333333
+ },
+ {
+  "p": "Jira",
+  "t": "For Jira-software viewIssues and viewBoard are degraded",
+  "imp": "major",
+  "s": "2026-06-01T07:40:53.142000+00:00",
+  "h": 5.714008888888889
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "For Jira-software viewIssues and viewBoard are degraded",
+  "imp": "major",
+  "s": "2026-06-01T08:06:30.496000+00:00",
+  "h": 5.286963055555555
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of Jira and JSM automations in US East",
+  "imp": "minor",
+  "s": "2026-06-02T15:32:55.551000+00:00",
+  "h": 1.3092913888888889
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of Jira and JSM automations in US East",
+  "imp": "minor",
+  "s": "2026-06-02T15:32:56.010000+00:00",
+  "h": 1.3091638888888888
+ },
+ {
+  "p": "Jira",
+  "t": "Users experiencing issues loading work items in Atlassian products",
+  "imp": "major",
+  "s": "2026-06-06T23:21:41.314000+00:00",
+  "h": 0.8582180555555555
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Users experiencing issues loading work items in Jira and JSM",
+  "imp": "minor",
+  "s": "2026-06-08T01:53:57.093000+00:00",
+  "h": 1.043106111111111
+ },
+ {
+  "p": "Jira",
+  "t": "Users experiencing issues loading work items in Jira and JSM",
+  "imp": "minor",
+  "s": "2026-06-08T01:53:57.162000+00:00",
+  "h": 1.0434822222222222
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Some users experiencing issues viewing boards and work items",
+  "imp": "major",
+  "s": "2026-06-09T05:29:37.539000+00:00",
+  "h": 12.9713225
+ },
+ {
+  "p": "Jira",
+  "t": "Some users experiencing issues viewing boards and work items",
+  "imp": "major",
+  "s": "2026-06-09T05:29:37.613000+00:00",
+  "h": 12.976631666666668
+ },
+ {
+  "p": "Jira",
+  "t": "Delays in processing incoming Emails, Work Item notifications, and Scheduled Triggers in Marketplace Apps",
+  "imp": "minor",
+  "s": "2026-06-10T04:55:12.859000+00:00",
+  "h": 1.597993611111111
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Delays in processing incoming Emails, Work Item notifications, and Scheduled Triggers in Marketplace Apps",
+  "imp": "minor",
+  "s": "2026-06-10T04:55:13.724000+00:00",
+  "h": 1.5976094444444444
+ },
+ {
+  "p": "Confluence",
+  "t": "Delays in processing incoming Emails, Work Item notifications, and Scheduled Triggers in Marketplace Apps",
+  "imp": "minor",
+  "s": "2026-06-10T06:14:02.096000+00:00",
+  "h": 0.28411777777777775
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Unable to load Assets page",
+  "imp": "minor",
+  "s": "2026-06-10T09:42:42.542000+00:00",
+  "h": 0.29630500000000004
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Degraded performance of Bitbucket",
+  "imp": "minor",
+  "s": "2026-06-11T22:48:40.863000+00:00",
+  "h": 1.4351841666666665
+ },
+ {
+  "p": "Confluence",
+  "t": "Degraded performance with Confluence Cloud",
+  "imp": "minor",
+  "s": "2026-06-12T07:39:11.109000+00:00",
+  "h": 3.5994141666666666
+ },
+ {
+  "p": "Confluence",
+  "t": "Confluence Cloud experiencing degraded viewing experience",
+  "imp": "minor",
+  "s": "2026-06-16T13:46:41.998000+00:00",
+  "h": 2.1662819444444446
+ },
+ {
+  "p": "Jira",
+  "t": "Jira : Incoming emails partial outage",
+  "imp": "major",
+  "s": "2026-06-19T22:46:56.475000+00:00",
+  "h": 150.4347625
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Jira : Incoming emails partial outage",
+  "imp": "major",
+  "s": "2026-06-19T22:46:56.478000+00:00",
+  "h": 150.43472305555557
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Reliability issues with Jira and Confluence",
+  "imp": "major",
+  "s": "2026-07-06T09:23:39.292000+00:00",
+  "h": 3.6729652777777777
+ },
+ {
+  "p": "Confluence",
+  "t": "Reliability issues with Jira and Confluence",
+  "imp": "critical",
+  "s": "2026-07-06T09:23:39.471000+00:00",
+  "h": 3.672931388888889
+ },
+ {
+  "p": "Jira",
+  "t": "Reliability issues with Jira and Confluence",
+  "imp": "major",
+  "s": "2026-07-06T09:23:39.728000+00:00",
+  "h": 3.672863611111111
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of JIRA Automation",
+  "imp": "minor",
+  "s": "2026-07-06T16:11:16.707000+00:00",
+  "h": 2.682003611111111
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of Jira Automation rules",
+  "imp": "minor",
+  "s": "2026-07-20T16:03:35.363000+00:00",
+  "h": 1.3261591666666666
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of Jira Automation rules",
+  "imp": "minor",
+  "s": "2026-07-20T16:03:35.374000+00:00",
+  "h": 1.3261963888888888
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of Jira Automation rules",
+  "imp": "minor",
+  "s": "2026-07-20T20:18:31.402000+00:00",
+  "h": 28.625520833333333
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of Jira Automation rules",
+  "imp": "minor",
+  "s": "2026-07-20T20:18:31.877000+00:00",
+  "h": 28.625248888888887
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Voice call failures for some India based numbers",
+  "imp": "minor",
+  "s": "2026-07-21T09:48:22.457000+00:00",
+  "h": 75.31412972222223
+ },
+ {
+  "p": "Bitbucket",
+  "t": "BitBucket Site fails to Load",
+  "imp": "none",
+  "s": "2026-07-31T13:09:55.121000+00:00",
+  "h": 2.476103333333333
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of JIRA",
+  "imp": "minor",
+  "s": "2026-08-07T01:24:52.118000+00:00",
+  "h": 0.3654413888888889
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of JIRA",
+  "imp": "minor",
+  "s": "2026-08-07T01:33:21.116000+00:00",
+  "h": 0.22403694444444444
+ },
+ {
+  "p": "Jira",
+  "t": "Performance and access related issues with Jira",
+  "imp": "critical",
+  "s": "2026-08-07T11:30:55.200000+00:00",
+  "h": 1.3577191666666666
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Performance and access related issues with Jira",
+  "imp": "critical",
+  "s": "2026-08-07T11:30:55.293000+00:00",
+  "h": 1.3577050000000002
+ },
+ {
+  "p": "Confluence",
+  "t": "Confluence intermittent errors",
+  "imp": "minor",
+  "s": "2026-08-12T20:11:34+00:00",
+  "h": 2.031738888888889
+ },
+ {
+  "p": "Confluence",
+  "t": "Marketplace App Macros Not Rendering in Confluence",
+  "imp": "minor",
+  "s": "2026-08-21T07:16:32.123000+00:00",
+  "h": 2.899568888888889
+ },
+ {
+  "p": "Confluence",
+  "t": "Degraded performance of Notifications",
+  "imp": "minor",
+  "s": "2026-08-24T19:22:47.308000+00:00",
+  "h": 3.8758916666666665
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance of Notifications",
+  "imp": "minor",
+  "s": "2026-08-24T19:22:47.461000+00:00",
+  "h": 3.875915555555556
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of Notifications",
+  "imp": "minor",
+  "s": "2026-08-24T19:22:47.581000+00:00",
+  "h": 3.8758127777777776
+ },
+ {
+  "p": "Jira",
+  "t": "Notifications are delayed",
+  "imp": "major",
+  "s": "2026-08-25T08:42:48.022000+00:00",
+  "h": 5.852547777777778
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Notifications are delayed",
+  "imp": "minor",
+  "s": "2026-08-25T08:42:48.027000+00:00",
+  "h": 5.852550555555556
+ },
+ {
+  "p": "Confluence",
+  "t": "Notifications are delayed",
+  "imp": "major",
+  "s": "2026-08-25T08:42:48.035000+00:00",
+  "h": 5.852537222222222
+ },
+ {
+  "p": "Jira",
+  "t": "Issues accessing multiple Atlassian products in some regions",
+  "imp": "critical",
+  "s": "2026-08-27T04:22:09.107000+00:00",
+  "h": 0.8995158333333334
+ },
+ {
+  "p": "Confluence",
+  "t": "Issues accessing multiple Atlassian products in some regions",
+  "imp": "critical",
+  "s": "2026-08-27T04:22:09.127000+00:00",
+  "h": 0.8995408333333333
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Issues accessing multiple Atlassian products in some regions",
+  "imp": "critical",
+  "s": "2026-08-27T04:22:09.128000+00:00",
+  "h": 0.8995352777777779
+ },
+ {
+  "p": "Jira",
+  "t": "Fetching mails from Microsoft accounts producing errors and preventing email based creation of Jira work items",
+  "imp": "major",
+  "s": "2026-08-31T18:28:21.774000+00:00",
+  "h": 10.827653333333334
+ },
+ {
+  "p": "Jira",
+  "t": "Jira - Work Item transition failures",
+  "imp": "minor",
+  "s": "2026-09-01T09:12:37.221000+00:00",
+  "h": 2.5242905555555555
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Jira - Work Item transition failures",
+  "imp": "none",
+  "s": "2026-09-01T10:11:45.330000+00:00",
+  "h": 1.538708888888889
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance of JIRA",
+  "imp": "minor",
+  "s": "2026-09-01T17:09:05.519000+00:00",
+  "h": 4.434468055555556
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Jira Service Management - Degradation with Affected Services Field",
+  "imp": "minor",
+  "s": "2026-09-03T14:20:25.580000+00:00",
+  "h": 2.721572777777778
+ },
+ {
+  "p": "Jira",
+  "t": "Disrupted JIRA availability in US East",
+  "imp": "critical",
+  "s": "2026-09-03T15:57:31.708000+00:00",
+  "h": 1.0753219444444444
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Intermittent reliability issue with Bitbucket Cloud",
+  "imp": "minor",
+  "s": "2026-09-11T06:31:57.012000+00:00",
+  "h": 1.4691152777777776
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance affecting Jira Software and Jira Service Management",
+  "imp": "minor",
+  "s": "2026-09-11T07:46:31.085000+00:00",
+  "h": 0.8543586111111111
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance affecting Jira Software and Jira Service Management",
+  "imp": "minor",
+  "s": "2026-09-11T07:46:31.093000+00:00",
+  "h": 0.8543813888888889
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Disrupted Opsgenie/JSM availability",
+  "imp": "critical",
+  "s": "2026-09-14T16:46:06.318000+00:00",
+  "h": 0.9567644444444444
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Delays with Bitbucket Pipelines Execution",
+  "imp": "minor",
+  "s": "2026-09-16T09:32:05.447000+00:00",
+  "h": 0.7303461111111111
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded Performance Accessing Jira",
+  "imp": "none",
+  "s": "2026-09-24T08:52:22.114000+00:00",
+  "h": 2.8978822222222225
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded Performance Viewing Issues and Boards",
+  "imp": "minor",
+  "s": "2026-09-24T13:54:20.402000+00:00",
+  "h": 1.9788122222222222
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded Performance Viewing Issues and Boards",
+  "imp": "minor",
+  "s": "2026-09-24T13:54:20.405000+00:00",
+  "h": 1.9784769444444443
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Job processing and scheduling is degraded affecting multiple Atlassian products",
+  "imp": "major",
+  "s": "2026-10-01T02:55:55.498000+00:00",
+  "h": 4.92642
+ },
+ {
+  "p": "Jira",
+  "t": "Job processing and scheduling is degraded affecting multiple Atlassian products",
+  "imp": "major",
+  "s": "2026-10-01T02:55:55.505000+00:00",
+  "h": 4.926353333333333
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Job processing and scheduling is degraded affecting multiple Atlassian products",
+  "imp": "major",
+  "s": "2026-10-01T02:55:55.719000+00:00",
+  "h": 4.926299444444444
+ },
+ {
+  "p": "Confluence",
+  "t": "Job processing and scheduling is degraded affecting multiple Atlassian products",
+  "imp": "major",
+  "s": "2026-10-01T02:55:55.926000+00:00",
+  "h": 4.926233611111111
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Bitbucket Cloud - Service Disruption",
+  "imp": "critical",
+  "s": "2026-10-15T10:07:21.477000+00:00",
+  "h": 2.01527
+ },
+ {
+  "p": "Jira",
+  "t": "Jira - Project Sidebar Loading Degradation",
+  "imp": "minor",
+  "s": "2026-10-21T14:28:49.567000+00:00",
+  "h": 1.272191111111111
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Jira - Project Sidebar Loading Degradation",
+  "imp": "minor",
+  "s": "2026-10-21T14:28:49.570000+00:00",
+  "h": 1.2722355555555556
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Disrupted Bitbucket availability",
+  "imp": "critical",
+  "s": "2026-10-21T17:22:02.059000+00:00",
+  "h": 0.6628736111111111
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Fields missing across Jira Work Items for some users",
+  "imp": "major",
+  "s": "2026-11-02T00:10:48.612000+00:00",
+  "h": 0.4672702777777778
+ },
+ {
+  "p": "Jira",
+  "t": "Fields missing across Jira Work Items for some users",
+  "imp": "major",
+  "s": "2026-11-02T00:10:48.689000+00:00",
+  "h": 0.46729916666666665
+ },
+ {
+  "p": "Jira",
+  "t": "Degraded performance with Microsoft incoming emails",
+  "imp": "minor",
+  "s": "2026-11-13T06:01:27.861000+00:00",
+  "h": 24.10059611111111
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Degraded performance with Microsoft incoming emails",
+  "imp": "minor",
+  "s": "2026-11-13T06:01:27.992000+00:00",
+  "h": 24.100574722222223
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Bitbucket Cloud website and API slowness and intermittent errors",
+  "imp": "minor",
+  "s": "2026-11-16T11:07:13.970000+00:00",
+  "h": 1.7685813888888888
+ },
+ {
+  "p": "Jira",
+  "t": "Authentication service degraded.",
+  "imp": "none",
+  "s": "2026-11-23T15:19:36.772000+00:00",
+  "h": 5.328275277777778
+ },
+ {
+  "p": "Bitbucket",
+  "t": "Authentication service degraded.",
+  "imp": "none",
+  "s": "2026-11-23T15:19:37.126000+00:00",
+  "h": 5.4075975
+ },
+ {
+  "p": "Confluence",
+  "t": "Authentication service degraded.",
+  "imp": "major",
+  "s": "2026-11-23T15:19:45+00:00",
+  "h": 5.442590277777778
+ },
+ {
+  "p": "Jira Service Management",
+  "t": "Authentication service degraded.",
+  "imp": "none",
+  "s": "2026-11-23T16:08:23.388000+00:00",
+  "h": 4.543286388888889
+ },
+ {
+  "p": "Trello",
+  "t": "Authentication service degraded.",
+  "imp": "none",
+  "s": "2026-11-23T11:08:23.403000-05:00",
+  "h": 4.659556111111111
+ }
+]

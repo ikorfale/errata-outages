@@ -1,0 +1,24 @@
+window 2026-01-06 -> 2026-11-27 (46.5 weeks); incidents in window: 148
+  Jira                     n=50  per week 1.08  median 3.77 h  p75 7.42 h  major/critical 25  >8h 12
+  Confluence               n=25  per week 0.54  median 3.26 h  p75 4.93 h  major/critical 14  >8h 3
+  Bitbucket                n=18  per week 0.39  median 2.23 h  p75 3.18 h  major/critical 6  >8h 1
+  Jira Service Management  n=47  per week 1.01  median 3.67 h  p75 8.44 h  major/critical 23  >8h 13
+  Trello                   n= 8  per week 0.17  median 2.12 h  p75 8.92 h  major/critical 2  >8h 2
+events (incidents merged across pages within 30 min): 93  by number of products: [(1, 55), (2, 27), (3, 7), (4, 2), (5, 2)]
+Jira events: 50  also on Confluence: 14  on 3+ products: 11
+    2026-03-10 00:06 3 | Automation events delayed for some customers in the APAC region
+    2026-04-13 07:29 4 | Users experiencing issues with login across Atlassian products
+    2026-04-14 12:12 3 | Disrupted Rovo availability for Automation rules
+    2026-05-08 01:31 5 | Multiple Atlassian services are experiencing issues
+    2026-05-14 04:54 5 | Users experiencing issues accessing multiple Atlassian products
+    2026-07-06 09:23 3 | Reliability issues with Jira and Confluence
+    2026-08-24 19:22 3 | Degraded performance of Notifications
+    2026-08-25 08:42 3 | Notifications are delayed
+    2026-08-27 04:22 3 | Issues accessing multiple Atlassian products in some regions
+    2026-10-01 02:55 4 | Job processing and scheduling is degraded affecting multiple Atlassian products
+    2026-11-23 15:19 3 | Authentication service degraded.
+weekday UTC (events): [('Thu', 22), ('Wed', 20), ('Mon', 16), ('Fri', 16), ('Tue', 15), ('Sat', 3), ('Sun', 1)]
+hour UTC buckets 0-6/6-12/12-18/18-24 (events): [21, 37, 23, 12]
+Jira events also on Jira Service Management: 33
+events 00-12 UTC (= 11:00-23:00 Sydney, AEDT): 58 of 93
+weekend events: 4
