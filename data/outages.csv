@@ -1,49 +1,73 @@
 started,ended,hours,source,sector,impact,status,title,url,text,key,first_seen
-2026-11-27T18:05Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/vmh0kp4xg1kq,"Due to sustained high traffic on the US carrier networks, we are currently experiencing SMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  
+2026-11-27T21:11Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Long Code to US/CA Carriers,https://stspg.io/z6kc8xc5l037,"Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Long Code to to US/CA Carriers.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US/CA carriers.  
 
 Please find the current delivery status for the major carriers below:
 
 United States:
 
-AT&T (status - DLR Delayed)
+AT&T (status - Operational)
+
+
+Canada:
+
+Rog",sp:twilio:hh13jhqgnmzh,2026-11-27T21:20:19Z
+2026-11-27T19:11Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/vmh0kp4xg1kq,"Please find the current SMS delivery status from Twilio Short-Codes for the major carriers below:
+
+United States:
+
+AT&T (status - Monitoring)
 T-Mobile (status -  Operational)
-Ver",sp:twilio:2yzm68jqtl5q,2026-11-27T18:17:20Z
-2026-11-27T17:40Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Toll-Free to US/CA,https://stspg.io/gyrgw2z3kzpz,"Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:
+Verizon (status -  Monitoring)
+Altice (status - Monitoring)
+Appalachian status - DLR Delayed)
+
+Puerto Rico:
+Liberty Mobile (status - Monitoring)  
+
+We will provide another update in 2 hours or as soon as we have any new infor",sp:twilio:2yzm68jqtl5q,2026-11-27T18:17:20Z
+2026-11-27T18:30Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Long-Codes to US/CA Carriers,https://stspg.io/3wycnywz5m3h,"Please find the current delivery status for the major carriers below:
 
 United States:
 
 AT&T (status - Operational)
 T-Mobile (status - Operational)
-Verizon (status -  Operational)
+Verizon (status - Operational)           
+Appalachian  (status - DLR Delays)   
+
+We are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share.",sp:twilio:8s075bl36dqp,2026-11-27T18:32:21Z
+2026-11-27T18:23Z,2026-11-27T21:20Z,2.9,Twilio,comms,minor,monitoring,Issue Affecting Bulk Messaging and Twilio Email,https://stspg.io/q3vwm7gqy658,"We are observing recovery in the issue with a subset of endpoints impacting Bulk Messaging and Twilio Email functions. 
+
+We will provide another update in 30 minutes or as soon as additional information is available.",sp:twilio:17kswrnt7km6,2026-11-27T19:34:20Z
+2026-11-27T17:40Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Toll-Free to US/CA Carriers,https://stspg.io/gyrgw2z3kzpz,"Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:
+
+United States:
+
+AT&T (status - Operational)
+T-Mobile (status - Operational)
+Verizon (status -  Delays)
 Appalachian (status - Delays)
 
 Canada:
 
-Videotron in Canada  - (status - DLR Delays)
-Cogeco - (status - DLR Delays)",sp:twilio:540h10h47l48,2026-11-27T17:15:21Z
+Videotron in Canada  - (status - Monitoring)
+Cogeco - (status - Monitoring)
+
+We are actively working with our carrier partners to resolve the issue, and we will",sp:twilio:540h10h47l48,2026-11-27T17:15:21Z
 2026-11-27T17:18Z,2026-11-27T18:02Z,0.7,Twilio,comms,minor,investigating,RCS Message Delivery Failures,https://stspg.io/fqzbq2wdh05w,We are investigating an issue with RCS Messaging. Users may experience messages not being timely  delivered and/or marked delivered on AT&T network. We will provide another update in 1 hour or as soon as more information becomes available.,sp:twilio:wr55v3qb6hjp,2026-11-27T17:31:20Z
-2026-11-27T16:57Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Short-Code to US/CA,https://stspg.io/4ytn0nz8xcgp,"Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  
-
-Please find the current delivery status for the major carriers below:
+2026-11-27T16:57Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/4ytn0nz8xcgp,"Please find the current delivery status for the major carriers below:
 
 United States:
 
-AT&T (status - Delays)
+AT&T (status - Monitoring)
 T-Mobile (status - Operational)
-Verizon (",sp:twilio:22slxfqncqr7,2026-11-27T17:00:20Z
-2026-11-27T16:53Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Toll-Free to US/CA,https://stspg.io/jbf2vqmwn628,"Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Toll-Free numbers. Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  
+Verizon (status -  DLR Delays)            
 
-Please find the current delivery status for the major carriers below:
-
-United States:
-
-AT&T (status - Delays)
-T-Mobile (status - Operational)
-Veri",sp:twilio:93c38rcb25dz,2026-11-27T17:00:20Z
+We are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share.",sp:twilio:22slxfqncqr7,2026-11-27T17:00:20Z
+2026-11-27T16:53Z,,,Twilio,comms,minor,monitoring,MMS Delivery Status From Twilio Toll-Free to US/CA Carriers,https://stspg.io/jbf2vqmwn628,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:93c38rcb25dz,2026-11-27T17:00:20Z
 2026-11-27T15:04Z,2026-11-27T16:15Z,1.2,Kraken,crypto,minor,monitoring,Prop order execution issues,https://stspg.io/zr2rv9sqrjx5,A fix has been implemented and we are monitoring the results.,sp:kraken:fj8rtq8hh1cz,2026-11-27T15:14:20Z
 2026-11-27T14:49Z,2026-11-27T15:14Z,0.4,Cloudflare,cloud,minor,identified,Cloudflare University website unavailable,https://www.cloudflarestatus.com/incidents/955xa7dtx0ca,The issue has been identified and a fix is being implemented.,sp:cloudflare:955xa7dtx0ca,2026-11-27T14:59:20Z
-2026-11-27T12:10Z,,,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Izzi Mexico,https://stspg.io/xkkw0lh2ttmb,We have observed a recovery in SMS delivery from Twilio to Izzi network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:5px4q9my59kq,2026-11-27T12:25:20Z
-2026-11-27T11:23Z,,,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Vodafone and Tismi United Kingdom,https://stspg.io/9q03b85kpbc1,We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:whgtzwvx619t,2026-11-27T11:25:18Z
+2026-11-27T12:10Z,2026-11-27T19:34Z,7.4,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Izzi Mexico,https://stspg.io/xkkw0lh2ttmb,We have observed a recovery in SMS delivery from Twilio to Izzi network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:5px4q9my59kq,2026-11-27T12:25:20Z
+2026-11-27T11:23Z,2026-11-27T18:47Z,7.4,Twilio,comms,minor,monitoring,SMS Delivery Delays from Twilio to Vodafone and Tismi United Kingdom,https://stspg.io/9q03b85kpbc1,We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:whgtzwvx619t,2026-11-27T11:25:18Z
 2026-11-27T10:34Z,2026-11-27T11:10Z,0.6,Anthropic,ai,major,monitoring,Degraded performance for Claude Fable 5.2,https://stspg.io/n4l14k7m49zw,A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.,sp:anthropic:0x1yvzkfmmxj,2026-11-27T10:40:17Z
 2026-11-27T04:26Z,,,Akamai,cloud,minor,investigating,Edge Delivery Issues,https://stspg.io/38hb8kv3kqcy,We are continuing to investigate this issue. Customers and partners can find more details on the Akamai Community: https://community.akamai.com/customers/s/feed/0D5a700001hiYTECA2. We will provide the next update as we make progress.,sp:akamai:b0yvz1f8lw49,2026-11-27T04:30:23Z
 2026-11-27T02:20Z,2026-11-27T14:59Z,12.6,Twilio,comms,minor,monitoring,MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States,https://stspg.io/7hkn8yf0vc8x,We have observed a recovery in MMS delivery from a subset of Twilio Long Codes to GCI network subscribers in the United States and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:kv5wqlt4n24z,2026-11-27T02:30:20Z
@@ -86,7 +110,7 @@ Our team will continue to monitor the situation closely and keep you informed of
 2026-11-24T10:24Z,2026-11-24T15:25Z,5.0,Twilio,comms,minor,monitoring,SMS Delivery Delays and Failures from Twilio to Telekom Germany,https://stspg.io/038c3lcnyw43,We have observed a recovery in SMS delivery from Twilio to Telekom network subscribers in Germany and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.,sp:twilio:drcczltslqdc,2026-11-24T10:33:20Z
 2026-11-24T07:25Z,2026-11-24T08:30Z,1.1,Cloudflare,cloud,minor,monitoring,Increased Errors for Durable Objects in Seattle,https://www.cloudflarestatus.com/incidents/idlaxmxz4unz,A fix has been implemented and we are monitoring the results.,sp:cloudflare:idlaxmxz4unz,2026-11-24T07:30:17Z
 2026-11-24T06:50Z,2026-11-24T07:30Z,0.7,Kraken,crypto,minor,identified,Transaction Processing Disruption,https://stspg.io/p0djhkg33zt3,"We have identified the issue affecting quote requests and transaction processing on Kraken, including Buy and Convert transactions and Krak Card conversions when spending. Some clients may experience errors or be unable to complete certain transactions. Our team is working to implement a fix and restore normal functionality. We will provide updates as more information becomes available.",sp:kraken:n6qwq0c2ht7d,2026-11-24T06:59:20Z
-2026-11-24T00:10Z,,,Anthropic,ai,major,identified,Claude for Microsoft 365 add-in missing for some users,https://stspg.io/ffdq2qfv8frk,"We have identified an issue with an upstream provider that is causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. We are in contact with them. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. We will p",sp:anthropic:3vbyqgnswwxq,2026-11-24T00:20:17Z
+2026-11-24T00:10Z,,,Anthropic,ai,major,monitoring,Claude for Microsoft 365 add-in missing for some users,https://stspg.io/ffdq2qfv8frk,"Our upstream provider has applied a mitigation for the issue that caused the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account, and we are monitoring for recovery. If Claude is still missing, try adding it again from Microsoft Marketplace, or use the web versions of Excel, Word, and PowerPoint at office.com,",sp:anthropic:3vbyqgnswwxq,2026-11-24T00:20:17Z
 2026-11-23T23:12Z,2026-11-24T03:40Z,4.5,Twilio,comms,minor,monitoring,SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to Telstra Australia,https://stspg.io/3b33tn8vdlk0,We have observed a recovery in SMS delivery receipts from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available.,sp:twilio:zv1172k6tkkq,2026-11-23T23:18:20Z
 2026-11-23T22:17Z,2026-11-24T00:35Z,2.3,Twilio,comms,minor,investigating,Intermittent 403 Errors at the Email and Programmable Messaging APIs,https://stspg.io/zmn4n7p9kjtg,"After a rollback of recent changes, the Messaging and Email blocking issues have been mitigated. Users should no longer experience failed API requests or 403 errors impacting the Messaging API and Mail Send API. We are now monitoring the system to ensure stability and will provide another update in 2 hours or as soon as more information becomes available.",sp:twilio:13bsyxhr1v1l,2026-11-23T22:31:20Z
 2026-11-23T18:16Z,2026-11-23T21:00Z,2.7,Twilio,comms,minor,monitoring,Email Authentication Errors,https://stspg.io/m0r4pj2z77m1,We have continue to see recovery in all systems. Engineers are monitoring the fixes. This does impact mail send. We will provide another update in an hour or as soon as more information becomes available.,sp:twilio:ss96fj960ls6,2026-11-23T18:27:17Z
