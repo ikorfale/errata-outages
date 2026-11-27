@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T06:18Z",
+ "checked": "2026-11-27T09:23Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -75,7 +75,7 @@
    "status": "identified",
    "started": "2026-11-27T02:20Z",
    "url": "https://stspg.io/7hkn8yf0vc8x",
-   "text": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9f6xy0pvfy9r",
@@ -87,7 +87,7 @@
    "status": "monitoring",
    "started": "2026-11-27T01:15Z",
    "url": "https://stspg.io/bk5cbp5q1s8j",
-   "text": "We have observed a recovery in SMS delivery from Twilio to OneNZ / Vodafone network subscribers in New Zealand and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to OneNZ / Vodafone network subscribers in New Zealand and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:ksgz9lqsdqmp",
@@ -183,7 +183,7 @@
    "status": "monitoring",
    "started": "2026-11-26T07:58Z",
    "url": "https://stspg.io/rwdp0wm7mlfx",
-   "text": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
+   "text": "SMS delivery from Twilio to Bouygues Telecom network subscribers in France remains stable. We are extending our monitoring window by an additional 8 hours to confirm sustained stability before resolving this incident. We will provide another update in 8 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:l7553gm3lz12",
