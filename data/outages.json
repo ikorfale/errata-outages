@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T14:25Z",
+ "checked": "2026-11-28T15:10Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,6 +54,44 @@
   "Zoom"
  ],
  "incidents": [
+  {
+   "key": "sp:twilio:r6rwrspv15yg",
+   "first_seen": "2026-11-28T15:10:17Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Receipt Delays from Twilio to Safaricom Kenya",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-28T15:08Z",
+   "url": "https://stspg.io/c31gg6w2lqzz",
+   "text": "Twilio customers may be experiencing SMS delivery receipt delays from Twilio to Safaricom network subscribers in Kenya. Our team is actively investigating this issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+  },
+  {
+   "key": "sp:twilio:6gdf6jpstjp8",
+   "first_seen": "2026-11-28T14:54:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Delays from Twilio to ETH-MTN Ethiopia",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-28T14:40Z",
+   "url": "https://stspg.io/ynhyryz1z671",
+   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to ETH-MTN network subscribers in Ethiopia. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+  },
+  {
+   "key": "sp:cloudflare:gi1o8ptw764t",
+   "first_seen": "2026-11-28T14:38:20Z",
+   "source": "Cloudflare",
+   "sector": "cloud",
+   "title": "Increased HTTP 5xx Errors in Bangkok, Thailand region",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-28T14:33Z",
+   "url": "https://www.cloudflarestatus.com/incidents/gi1o8ptw764t",
+   "text": "Cloudflare is investigating an increased level of HTTP 5xx errors in Bangkok, Thailand region (BKK). We are working to analyse and mitigate this problem. More updates to follow shortly.",
+   "ended": "2026-11-28T15:10Z",
+   "hours": 0.6
+  },
   {
    "key": "sp:cloudflare:27xnfvjy0n6j",
    "first_seen": "2026-11-28T07:30:20Z",
@@ -2203,7 +2241,7 @@
    "first_seen": "2026-11-17T17:05:22Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "Voice Call Failures from a Subset of Twilio Philippines Phone Numbers to Multiple Networks in Philippines",
+   "title": "Voice Call Failures From a Subset of Twilio Philippines Phone Numbers to Multiple Networks in Philippines",
    "impact": "minor",
    "status": "identified",
    "started": "2026-11-02T05:41Z",
