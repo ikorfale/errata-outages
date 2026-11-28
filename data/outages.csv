@@ -1,68 +1,13 @@
 started,ended,hours,source,sector,impact,status,title,url,text,key,first_seen
-2026-11-27T21:11Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Long Code to US/CA Carriers,https://stspg.io/z6kc8xc5l037,"Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Long Code to to US/CA Carriers.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US/CA carriers.  
-
-Please find the current delivery status for the major carriers below:
-
-United States:
-
-AT&T (status - Operational)
-
-
-Canada:
-
-Rog",sp:twilio:hh13jhqgnmzh,2026-11-27T21:20:19Z
-2026-11-27T19:11Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/vmh0kp4xg1kq,"Please find the current SMS delivery status from Twilio Short-Codes for the major carriers below:
-
-United States:
-
-AT&T (status - Monitoring)
-T-Mobile (status -  Operational)
-Verizon (status -  Monitoring)
-Altice (status - Monitoring)
-Appalachian status - DLR Delayed)
-
-Puerto Rico:
-Liberty Mobile (status - Monitoring)  
-
-We will provide another update in 2 hours or as soon as we have any new infor",sp:twilio:2yzm68jqtl5q,2026-11-27T18:17:20Z
-2026-11-27T18:30Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Long-Codes to US/CA Carriers,https://stspg.io/3wycnywz5m3h,"Please find the current delivery status for the major carriers below:
-
-United States:
-
-AT&T (status - Operational)
-T-Mobile (status - Operational)
-Verizon (status - Operational)           
-Appalachian  (status - DLR Delays)   
-
-We are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share.",sp:twilio:8s075bl36dqp,2026-11-27T18:32:21Z
+2026-11-27T21:11Z,,,Twilio,comms,minor,monitoring,MMS Delivery Status From Twilio Long Code to US/CA Carriers,https://stspg.io/z6kc8xc5l037,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Long-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:hh13jhqgnmzh,2026-11-27T21:20:19Z
+2026-11-27T19:11Z,,,Twilio,comms,minor,monitoring,SMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/vmh0kp4xg1kq,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Sort-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:2yzm68jqtl5q,2026-11-27T18:17:20Z
+2026-11-27T18:30Z,,,Twilio,comms,minor,monitoring,SMS Delivery Status From Twilio Long-Codes to US/CA Carriers,https://stspg.io/3wycnywz5m3h,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Long-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:8s075bl36dqp,2026-11-27T18:32:21Z
 2026-11-27T18:23Z,2026-11-27T21:20Z,2.9,Twilio,comms,minor,monitoring,Issue Affecting Bulk Messaging and Twilio Email,https://stspg.io/q3vwm7gqy658,"We are observing recovery in the issue with a subset of endpoints impacting Bulk Messaging and Twilio Email functions. 
 
 We will provide another update in 30 minutes or as soon as additional information is available.",sp:twilio:17kswrnt7km6,2026-11-27T19:34:20Z
-2026-11-27T17:40Z,,,Twilio,comms,minor,investigating,SMS Delivery Status From Twilio Toll-Free to US/CA Carriers,https://stspg.io/gyrgw2z3kzpz,"Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:
-
-United States:
-
-AT&T (status - Operational)
-T-Mobile (status - Operational)
-Verizon (status -  Delays)
-Appalachian (status - Delays)
-
-Canada:
-
-Videotron in Canada  - (status - Monitoring)
-Cogeco - (status - Monitoring)
-
-We are actively working with our carrier partners to resolve the issue, and we will",sp:twilio:540h10h47l48,2026-11-27T17:15:21Z
+2026-11-27T17:40Z,,,Twilio,comms,minor,monitoring,SMS Delivery Status From Twilio Toll-Free to US/CA Carriers,https://stspg.io/gyrgw2z3kzpz,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:540h10h47l48,2026-11-27T17:15:21Z
 2026-11-27T17:18Z,2026-11-27T18:02Z,0.7,Twilio,comms,minor,investigating,RCS Message Delivery Failures,https://stspg.io/fqzbq2wdh05w,We are investigating an issue with RCS Messaging. Users may experience messages not being timely  delivered and/or marked delivered on AT&T network. We will provide another update in 1 hour or as soon as more information becomes available.,sp:twilio:wr55v3qb6hjp,2026-11-27T17:31:20Z
-2026-11-27T16:57Z,,,Twilio,comms,minor,investigating,MMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/4ytn0nz8xcgp,"Please find the current delivery status for the major carriers below:
-
-United States:
-
-AT&T (status - Monitoring)
-T-Mobile (status - Operational)
-Verizon (status -  DLR Delays)            
-
-We are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share.",sp:twilio:22slxfqncqr7,2026-11-27T17:00:20Z
+2026-11-27T16:57Z,,,Twilio,comms,minor,monitoring,MMS Delivery Status From Twilio Short-Code to US/CA Carriers,https://stspg.io/4ytn0nz8xcgp,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Short-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:22slxfqncqr7,2026-11-27T17:00:20Z
 2026-11-27T16:53Z,,,Twilio,comms,minor,monitoring,MMS Delivery Status From Twilio Toll-Free to US/CA Carriers,https://stspg.io/jbf2vqmwn628,"Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",sp:twilio:93c38rcb25dz,2026-11-27T17:00:20Z
 2026-11-27T15:04Z,2026-11-27T16:15Z,1.2,Kraken,crypto,minor,monitoring,Prop order execution issues,https://stspg.io/zr2rv9sqrjx5,A fix has been implemented and we are monitoring the results.,sp:kraken:fj8rtq8hh1cz,2026-11-27T15:14:20Z
 2026-11-27T14:49Z,2026-11-27T15:14Z,0.4,Cloudflare,cloud,minor,identified,Cloudflare University website unavailable,https://www.cloudflarestatus.com/incidents/955xa7dtx0ca,The issue has been identified and a fix is being implemented.,sp:cloudflare:955xa7dtx0ca,2026-11-27T14:59:20Z
