@@ -1,0 +1,40 @@
+endpoint,authored,first_snapshot,last_snapshot,n_snapshots,status,ids,title
+m365Consumer,0001-01-01T00:00:00+00:00,20250612152321,20250612152321,1,Service restored,,Users may be unable to start a chat with a distribution group within Microsoft Teams
+m365Consumer,0001-01-01T00:00:00+00:00,20250620090926,20250620090926,1,Service degradation,,Some users on build 25137.403.3671.1395 may experience intermittent crashes of the Microsoft Teams desktop app
+m365Consumer,0001-01-01T00:00:00+00:00,20250709211449,20250709211449,1,Service restored,,Users may experience issues with chat and image upload in Microsoft Copilot (Microsoft 365)
+m365Consumer,0001-01-01T00:00:00+00:00,20250908220206,20250908220206,1,Service degradation,,"Users may be unable to access files, applications, or services, which leverage Microsoft OneDrive"
+m365Consumer,0001-01-01T00:00:00+00:00,20251021024305,20251021134434,2,Service degradation,,Some users can't access content shared from other users' iOS devices due to permission errors in Microsoft Teams Free
+m365Consumer,0001-01-01T00:00:00+00:00,20260115185245,20260115185245,1,Service restored,,Some users' chat messages may not be visible in Microsoft Teams Free when returning from being offline
+m365Consumer,0001-01-01T00:00:00+00:00,20260124104055,20260125225055,2,Service degradation,,"Some users are unable to share or view screen shares, meeting stage, and video in Microsoft Teams desktop"
+m365Consumer,0001-01-01T00:00:00+00:00,20260206210940,20260206210940,1,Service degradation,,Some Mac users can't download the Microsoft Teams Free desktop client through the Join Launcher
+m365Consumer,0001-01-01T00:00:00+00:00,20260319172531,20260319172531,1,Service degradation,,Users may intermittently be unable to join meetings or access Microsoft Teams Free for Windows
+m365Consumer,0001-01-01T00:00:00+00:00,20260428202058,20260506124845,3,Service degradation,,"Some users are unable to search, chat or call users in Microsoft Teams Free"
+m365Consumer,0001-01-01T00:00:00+00:00,20260428202058,20260428202058,1,Service degradation,,Users may experience issues accessing Outlook.com
+m365Consumer,0001-01-01T00:00:00+00:00,20260505013707,20260506124845,2,Service degradation,,"iOS, iPadOS, and iPad users may experience issues accessing Outlook and Hotmail from the iOS default Mail app"
+m365Consumer,0001-01-01T00:00:00+00:00,20260506124845,20260506124845,1,Service restored,,"Some users may be unable to select ""Allow editing"" when using Microsoft 365 Copilot through Word or Excel"
+m365Consumer,0001-01-01T00:00:00+00:00,20260601174408,20260601174408,1,Service degradation,,Users may be unable to access the Microsoft Copilot desktop or web app
+m365Consumer,0001-01-01T00:00:00+00:00,20260908085519,20260908085519,1,Service restored,,Some users may experience intermittent failures when searching in Exchange Online and Microsoft OneDrive
+m365Consumer,0001-01-01T00:00:00+00:00,20261027190611,20261027190611,1,Service restored,,Users may be unable to access Microsoft Copilot in Microsoft 365
+m365Consumer,0001-01-01T00:00:00+00:00,20261113005152,20261114194515,5,Service degradation,,Users may be unable to access or perform several actions in Microsoft 365 services
+mac,2024-03-14T14:41:23+00:00,20240314144628,20240314144628,1,Service Degradation,,Title: Users in Africa may be unable to access multiple Microsoft 365 services or f
+mac,2024-03-14T22:01:11+00:00,20240314233636,20240314233636,1,Service Degradation,,Title: Users in Africa may be unable to access multiple Microsoft 365 services or feature
+mac,2024-07-18T23:45:28+00:00,20240719001919,20240719001919,1,Service Degradation,,"Title: Users may be unable to access various Microsoft 365
+apps and services&nbsp;   Us"
+mac,2024-07-19T06:34:12+00:00,20240719070442,20240719070442,1,Service Degradation,,"Title:  Users may be unable to access various
+Microsoft 365 apps and services
+
+&nbsp;"
+mac,2024-07-19T10:25:25+00:00,20240719120513,20240719120513,1,Service Degradation,,Title: Users may be unable to access various Microsoft 365 apps and services    User impa
+mac,2025-07-25T17:30:07+00:00,20250725212849,20250725212849,1,Service degradation,,Microsoft is investigating a potential issue that may be preventing administrators from
+mac,2025-07-26T11:46:10+00:00,20250726184112,20250726184112,1,Service degradation,,Microsoft is investigating a potential issue that may be preventing administrators from
+mac,2025-10-09T10:54:56+00:00,20251009112345,20251009112345,1,Service degradation,,Users may be unable to access the admin center or leverage Microsoft Entra to access other Microsoft 365 services
+mac,2026-01-23T00:00:29+00:00,20260123013943,20260123013943,1,Service degradation,,Users may be seeing degraded service functionality or be unable to access multiple Microsoft 365 services
+mac,2026-06-11T21:29:58+00:00,20260611214821,20260611214821,1,Service degradation,,Users are unable to access Microsoft 365 Copilot Chat or portal.office.com
+mac,2026-09-01T06:39:55+00:00,20260901071606,20260901071606,1,Service degradation,,Users may experience issues when utilizing multiple Microsoft 365 services.
+mac,2026-09-01T16:59:31+00:00,20260901174159,20260901174159,1,Service degradation,,Users may experience issues when utilizing multiple Microsoft 365 services
+mac,2026-09-02T06:45:13+00:00,20260902125501,20260902125501,1,Service degradation,,Users may experience issues when utilizing multiple Microsoft 365 services.
+mac,2026-10-13T15:24:51+00:00,20261013161024,20261013161024,1,Service degradation,,Users may be unable to access multiple Microsoft 365 services using Global Secure Access (GSA)
+mac,2026-11-12T19:30:36+00:00,20261112194743,20261112194743,1,Service degradation,,User impact: Users may be unable to connect to multiple Microsoft 365 services.&nbsp;
+mac,2026-11-13T06:57:32+00:00,20261113070045,20261113070045,1,Service degradation,,Users may be unable to connect to multiple Microsoft 365 services
+mac,2026-11-13T07:29:09+00:00,20261113081348,20261113081348,1,Service degradation,,Users may be unable to connect to multiple Microsoft 365 services
+mac,2026-11-13T22:00:36+00:00,20261114000123,20261114000123,1,Service degradation,,Users may be unable to connect to multiple Microsoft 365 services
