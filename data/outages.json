@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T15:10Z",
+ "checked": "2026-11-28T18:12Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -55,6 +55,30 @@
  ],
  "incidents": [
   {
+   "key": "sp:twilio:g6dk8jxfs0y0",
+   "first_seen": "2026-11-28T17:26:20Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "MMS Delivery Status From Twilio Short-Codes to US/CA Carriers",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-28T17:15Z",
+   "url": "https://stspg.io/t7ccw4n8px5w",
+   "text": "Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Short-Codes. Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - DLR Delayed)\nVeriz"
+  },
+  {
+   "key": "sp:twilio:028bbnwt1p52",
+   "first_seen": "2026-11-28T15:40:17Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Delays from Twilio to MTN Yemen",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-28T15:30Z",
+   "url": "https://stspg.io/8gnhykvbr6sg",
+   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to MTN network subscribers in Yemen. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+  },
+  {
    "key": "sp:twilio:r6rwrspv15yg",
    "first_seen": "2026-11-28T15:10:17Z",
    "source": "Twilio",
@@ -64,19 +88,19 @@
    "status": "investigating",
    "started": "2026-11-28T15:08Z",
    "url": "https://stspg.io/c31gg6w2lqzz",
-   "text": "Twilio customers may be experiencing SMS delivery receipt delays from Twilio to Safaricom network subscribers in Kenya. Our team is actively investigating this issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+   "text": "Twilio customers may be experiencing SMS delivery receipt delays from Twilio to Safaricom network subscribers in Kenya. Our team is actively investigating this issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 4 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:6gdf6jpstjp8",
    "first_seen": "2026-11-28T14:54:20Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "SMS Delivery Delays from Twilio to ETH-MTN Ethiopia",
+   "title": "SMS Delivery Delays from Twilio to MTN Ethiopia",
    "impact": "minor",
-   "status": "investigating",
+   "status": "monitoring",
    "started": "2026-11-28T14:40Z",
    "url": "https://stspg.io/ynhyryz1z671",
-   "text": "Twilio customers may be experiencing SMS delivery delays from Twilio to ETH-MTN network subscribers in Ethiopia. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+   "text": "We have observed a recovery in SMS delivery from Twilio to MTN network subscribers in Ethiopia and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:cloudflare:gi1o8ptw764t",
@@ -130,7 +154,9 @@
    "status": "identified",
    "started": "2026-11-28T04:11Z",
    "url": "https://stspg.io/t6wqb6v4410n",
-   "text": "We have identified an issue with Email due to a third-party provider. Users may experience delays in message delivery to Apple Private Relay addresses. Messages will continue to be retried for up to 72 hours."
+   "text": "We have identified an issue with Email due to a third-party provider. Users may experience delays in message delivery to Apple Private Relay addresses. Messages will continue to be retried for up to 72 hours.",
+   "ended": "2026-11-28T17:11Z",
+   "hours": 13.0
   },
   {
    "key": "sp:twilio:gz4f90dym5mg",
