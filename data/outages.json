@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T03:12Z",
+ "checked": "2026-11-28T06:14Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,6 +54,44 @@
  ],
  "incidents": [
   {
+   "key": "sp:cloudflare:j7ihgms4mvhb",
+   "first_seen": "2026-11-28T04:58:20Z",
+   "source": "Cloudflare",
+   "sector": "cloud",
+   "title": "Elevated Errors for Cloudflare Workers Subrequests",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-28T04:45Z",
+   "url": "https://www.cloudflarestatus.com/incidents/j7ihgms4mvhb",
+   "text": "The issue has been identified and a fix is being implemented.",
+   "ended": "2026-11-28T05:43Z",
+   "hours": 1.0
+  },
+  {
+   "key": "sp:twilio:lj4tfg6b7lrx",
+   "first_seen": "2026-11-28T04:12:19Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "Email Delivery Delays to Apple Private Relay Addresses",
+   "impact": "minor",
+   "status": "identified",
+   "started": "2026-11-28T04:11Z",
+   "url": "https://stspg.io/t6wqb6v4410n",
+   "text": "We have identified an issue with Email due to a third-party provider. Users may experience delays in message delivery to Apple Private Relay addresses. Messages will continue to be retried for up to 72 hours."
+  },
+  {
+   "key": "sp:twilio:gz4f90dym5mg",
+   "first_seen": "2026-11-28T03:57:18Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "SMS Delivery Status From Twilio Toll-Free to US/CA Carriers",
+   "impact": "minor",
+   "status": "monitoring",
+   "started": "2026-11-28T03:53Z",
+   "url": "https://stspg.io/lpls35w8mbw6",
+   "text": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Operational)\n\nCanada:\nBell Mobility - (status - Operational)\nVideotron in Canada  (status - Operational)\nCogeco - (status - Operational)\n\nWe are actively working with our ca"
+  },
+  {
    "key": "sp:twilio:qy6bq086wp3b",
    "first_seen": "2026-11-28T02:41:24Z",
    "source": "Twilio",
@@ -91,7 +129,9 @@
    "status": "monitoring",
    "started": "2026-11-27T19:11Z",
    "url": "https://stspg.io/vmh0kp4xg1kq",
-   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Sort-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Sort-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-28T04:58Z",
+   "hours": 9.8
   },
   {
    "key": "sp:twilio:8s075bl36dqp",
@@ -103,7 +143,9 @@
    "status": "monitoring",
    "started": "2026-11-27T18:30Z",
    "url": "https://stspg.io/3wycnywz5m3h",
-   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Long-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Long-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-28T04:42Z",
+   "hours": 10.2
   },
   {
    "key": "sp:twilio:17kswrnt7km6",
@@ -1546,12 +1588,12 @@
    "first_seen": "2026-11-18T16:05:17Z",
    "source": "Twilio",
    "sector": "comms",
-   "title": "Voice Call Silent and One-Way Audio Between a Subset of Twilio Phone Numbers and Multiple Networks in Colombia",
+   "title": "Voice Call Silent and One-Way Audio between a Subset of Twilio Phone Numbers and Multiple Networks in Colombia",
    "impact": "minor",
    "status": "monitoring",
    "started": "2026-11-18T15:56Z",
    "url": "https://stspg.io/kckjlns5dw48",
-   "text": "We have observed a recovery in voice calls between a subset of Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 16 hours or as soon as more information becomes available."
+   "text": "We have observed a recovery in voice calls between a subset of Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 24 hours or as soon as more information becomes available."
   },
   {
    "key": "sp:twilio:9dxlwgdlxlww",
