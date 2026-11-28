@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T09:17Z",
+ "checked": "2026-11-28T12:20Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -63,7 +63,9 @@
    "status": "identified",
    "started": "2026-11-28T07:21Z",
    "url": "https://www.cloudflarestatus.com/incidents/27xnfvjy0n6j",
-   "text": "The issue has been identified and a fix is being implemented."
+   "text": "The issue has been identified and a fix is being implemented.",
+   "ended": "2026-11-28T09:32Z",
+   "hours": 2.2
   },
   {
    "key": "sp:cloudflare:j7ihgms4mvhb",
