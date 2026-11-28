@@ -1,0 +1,3103 @@
+[
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Phone Inbound Calls for Subset of Jio subscribers in India",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom AI Companion Web in US Region",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "AI"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Phone tab on desktop clients",
+"imp": "minor",
+"h": 2.566666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation for a subset of users affecting outbound Zoom Phone calls in Australia.",
+"imp": "none",
+"h": 0.2,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service degradation affecting multiple services in the US region",
+"imp": "none",
+"h": 0.6333333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom MyNotes in the US region.",
+"imp": "none",
+"h": 1.4333333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Subset of Users using Zoom Phone Calls in Europe Region.",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service degradation affected a subset of users attempting to approve attendees for Webinar Registrations in the North America region.",
+"imp": "none",
+"h": 0.25,
+"p": "Events/Webinars"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Phone Inbound Calls for Subset of Jio subscribers in India",
+"imp": "minor",
+"h": 5.5,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting My Files Functionality in Zoom Hub in US Region",
+"imp": "minor",
+"h": 1.55,
+"p": "Other"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Outbound SMS due to an underlying carrier issue in the Australia region.",
+"imp": "minor",
+"h": 1.3666666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service degradation affecting Zoom Calendar service in US and Europe region",
+"imp": "minor",
+"h": 0.36666666666666664,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Events custom domain",
+"imp": "minor",
+"h": 0.38333333333333336,
+"p": "Events/Webinars"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Workflow Service",
+"imp": "minor",
+"h": 2.8333333333333335,
+"p": "Other"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Microsoft Integrations due to an underlying vendor issue.",
+"imp": "minor",
+"h": 37.8,
+"p": "Other"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Phone Calls in China Region",
+"imp": "minor",
+"h": 7.133333333333334,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Outbound SMS Messages for a subset of users in the US region",
+"imp": "minor",
+"h": 2.4,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Conference Room Connector Services Endpoints in the AMS region.",
+"imp": "minor",
+"h": 2.5833333333333335,
+"p": "Rooms"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting a subset of users with ZVA and ZoomMate",
+"imp": "none",
+"h": 0.0,
+"p": "AI"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Inbound SMS Service in the AU region",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Phone"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Zoom Mail, Calendar and Scheduler.",
+"imp": "minor",
+"h": 1.6166666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-11",
+"name": "Service Degradation Affecting Outbound MMS Services in the US region",
+"imp": "minor",
+"h": 7.866666666666666,
+"p": "Phone"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting the Evaluations Acknowledge Button in Zoom Quality Management in the US Region",
+"imp": "minor",
+"h": 16.583333333333332,
+"p": "Other"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Meetings Services in the US.",
+"imp": "minor",
+"h": 22.316666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Multiple Zoom Services",
+"imp": "minor",
+"h": 0.7833333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Learning Webpage",
+"imp": "minor",
+"h": 1.7,
+"p": "Web/Account"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Meeting Summaries Via Email.",
+"imp": "minor",
+"h": 1.85,
+"p": "Meetings"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Website in UK region",
+"imp": "minor",
+"h": 9.983333333333333,
+"p": "Web/Account"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting ZP SMS Australia Mobile Numbers",
+"imp": "none",
+"h": 0.2833333333333333,
+"p": "Phone"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Chat Compose and SMS Summarisation with AI Companion",
+"imp": "minor",
+"h": 0.7666666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Clips",
+"imp": "minor",
+"h": 19.633333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-10",
+"name": "Service degradation affected Zoom AI Companion in US region",
+"imp": "none",
+"h": 0.26666666666666666,
+"p": "AI"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affected Sandbox Creation in ZoomMate",
+"imp": "none",
+"h": 0.08333333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-10",
+"name": "Service degradation affecting Zoom Meeting API in US region",
+"imp": "none",
+"h": 6.833333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2026-10",
+"name": "Service degradation affecting Zoom AI Companion in US region",
+"imp": "none",
+"h": 0.18333333333333332,
+"p": "AI"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Scheduler.",
+"imp": "minor",
+"h": 2.216666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting File Uploads and Downloads in Zoom Chat",
+"imp": "none",
+"h": 0.26666666666666666,
+"p": "Chat"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Customer Using Polycom Devices Going Offline",
+"imp": "minor",
+"h": 346.93333333333334,
+"p": "Rooms"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Phone and Zoom Contact Center PCI Integration in North America",
+"imp": "none",
+"h": 0.2,
+"p": "Contact Center"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Slides Generation in US Region",
+"imp": "minor",
+"h": 2.65,
+"p": "Other"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Calendar",
+"imp": "minor",
+"h": 1.2833333333333334,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affected Inbound and Outbound Calls for Zoom Contact Center",
+"imp": "none",
+"h": 0.2,
+"p": "Contact Center"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting ZoomMate",
+"imp": "minor",
+"h": 0.4,
+"p": "AI"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom Rooms Management and Workspaces Management in SA01.",
+"imp": "minor",
+"h": 1.3666666666666667,
+"p": "Rooms"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affected Inbound and Outbound Calls of Zoom Phone and Contact Center in North America Region",
+"imp": "none",
+"h": 0.25,
+"p": "Contact Center"
+},
+{
+"ym": "2026-10",
+"name": "Service degradation affecting Developer Documentation Website",
+"imp": "minor",
+"h": 1.9,
+"p": "Web/Account"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affected Incoming and Outgoing Calls of Zoom Contact Center, Virtual Agents, Mail, Calendar, Meetings, Cloud Meeting Recordings, Webinars and Events",
+"imp": "none",
+"h": 1.75,
+"p": "Contact Center"
+},
+{
+"ym": "2026-10",
+"name": "Service Degradation Affecting Zoom for Google Workspace Add-On",
+"imp": "minor",
+"h": 4.483333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Canvas, My Notes, Sheets, In App Purchases, Billing Hub, and Clips.",
+"imp": "minor",
+"h": 1.3333333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-09",
+"name": "An unintended pop-up message appear for users in US and Europe regions during initial invocation of Zoom AI\u2019s Catch Me Up feature",
+"imp": "none",
+"h": 21.716666666666665,
+"p": "AI"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Live Transcription Services.",
+"imp": "minor",
+"h": 6.166666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Phone and Zoom Contact Center Inbound calls in India",
+"imp": "minor",
+"h": 2.3833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Live Transcription Services.",
+"imp": "minor",
+"h": 2.066666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Tasks in US Region.",
+"imp": "none",
+"h": 0.35,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Apple Login for Zoom Sign-in.",
+"imp": "minor",
+"h": 23.666666666666668,
+"p": "Web/Account"
+},
+{
+"ym": "2026-09",
+"name": "Service degradation affecting comment and attachment features in Zoom Canvas in US region.",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Virtual Agent and Zoom Contact Center in US region",
+"imp": "minor",
+"h": 0.8,
+"p": "Contact Center"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting ZoomMate",
+"imp": "none",
+"h": 0.3,
+"p": "AI"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Phone Outbound Calls in China Region",
+"imp": "minor",
+"h": 0.5833333333333334,
+"p": "Phone"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Whiteboard",
+"imp": "none",
+"h": 0.23333333333333334,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Phone, Zoom Contact Center and Zoom Meetings in Europe",
+"imp": "none",
+"h": 12.25,
+"p": "Contact Center"
+},
+{
+"ym": "2026-09",
+"name": "Service degradation affecting Zoom Meeting summary, and Phone call summary in the US region.",
+"imp": "none",
+"h": 0.26666666666666666,
+"p": "Phone"
+},
+{
+"ym": "2026-09",
+"name": "Service degradation affecting subset of live online meeting translation in Canada region.",
+"imp": "none",
+"h": 0.15,
+"p": "Meetings"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Services",
+"imp": "none",
+"h": 23.05,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom AI Companion in US Region",
+"imp": "minor",
+"h": 1.3833333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Email in Zoom Contact Center Services in North America",
+"imp": "none",
+"h": 0.15,
+"p": "Contact Center"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Phone Audio in Japan",
+"imp": "none",
+"h": 0.2,
+"p": "Phone"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom SMS delays in North America.",
+"imp": "none",
+"h": 0.13333333333333333,
+"p": "Phone"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Phone and Contact Center Audio in US Region",
+"imp": "none",
+"h": 0.3,
+"p": "Contact Center"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Phone and Contact Center Audio in Europe Region",
+"imp": "none",
+"h": 0.3333333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-09",
+"name": "Service degradation with In-Meeting summary for Indonesian language in the Singapore region",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom for Google Workspace add-on",
+"imp": "minor",
+"h": 1.9833333333333334,
+"p": "Other"
+},
+{
+"ym": "2026-09",
+"name": "Service Degradation Affecting Zoom Node.",
+"imp": "minor",
+"h": 11.916666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Zoom Contact Center Billing and Reporting Service in EU",
+"imp": "minor",
+"h": 1.55,
+"p": "Contact Center"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Zoom Services in Hong Kong",
+"imp": "minor",
+"h": 3.1333333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Subset of Users using Zoom AI API Service in US Region",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "AI"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Meeting Chat Services",
+"imp": "minor",
+"h": 0.6833333333333333,
+"p": "Chat"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting File Search in Zoom Hub",
+"imp": "minor",
+"h": 0.8,
+"p": "Other"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Meta integration for Zoom.",
+"imp": "minor",
+"h": 8.95,
+"p": "Other"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Zoom Canvas in US Region.",
+"imp": "none",
+"h": 0.45,
+"p": "Other"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting File Uploads In Zoom Chat",
+"imp": "none",
+"h": 0.016666666666666666,
+"p": "Chat"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Zoom Virtual Agent",
+"imp": "none",
+"h": 1.1666666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-08",
+"name": "A subset of Zoom Phone and Zoom Contact Center users experienced outbound MMS failures in the US region",
+"imp": "none",
+"h": 0.15,
+"p": "Contact Center"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting CX Analytics",
+"imp": "minor",
+"h": 0.45,
+"p": "Other"
+},
+{
+"ym": "2026-08",
+"name": "Service degradation with Zoom Contact Center smart note generation impacting a subset of users.",
+"imp": "none",
+"h": 0.4166666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-08",
+"name": "Service degradation affecting Contact Center Analytics Dashboard for Voice Engagements in US Region.",
+"imp": "minor",
+"h": 0.9833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-08",
+"name": "Service degradation affected Zoom Rooms and Zoom Marketplace Apps in US region",
+"imp": "none",
+"h": 0.2,
+"p": "Rooms"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Zoom Meeting Quality in the US Region",
+"imp": "none",
+"h": 0.2,
+"p": "Meetings"
+},
+{
+"ym": "2026-08",
+"name": "Service Degradation Affecting Zoom Marketplace and AI Companion Services",
+"imp": "none",
+"h": 0.26666666666666666,
+"p": "AI"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom Whiteboard and Task Services in US Region.",
+"imp": "minor",
+"h": 2.9833333333333334,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom MCP Claude Marketplace Integration",
+"imp": "none",
+"h": 23.683333333333334,
+"p": "Web/Account"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Offline Meeting transcription in US Region.",
+"imp": "minor",
+"h": 8.45,
+"p": "Meetings"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Subset of Users using Zoom Mail and Calendar Services in US Region.",
+"imp": "none",
+"h": 0.45,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Multiple Zoom Services in Europe and India Region.",
+"imp": "none",
+"h": 0.6333333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom Healthcare Integration services in US Region",
+"imp": "minor",
+"h": 2.6166666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affected Zoom Blog Website",
+"imp": "none",
+"h": 1.2833333333333334,
+"p": "Web/Account"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Multiple Services in US and Europe",
+"imp": "none",
+"h": 0.18333333333333332,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting functionality in Zoom Canvas, Clips, Slides, Sheets, Paper, and Hub.",
+"imp": "minor",
+"h": 0.8166666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom AI Expert Assist in US Region.",
+"imp": "none",
+"h": 0.3333333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Audio Quality of Outbound Calls of Zoom Revenue Accelerator's Auto-Dialer in Japan Region",
+"imp": "minor",
+"h": 5.65,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-07",
+"name": "Service degradation affecting both inbound and outbound calls for a single Provider Exchange partner in the Japan region.",
+"imp": "minor",
+"h": 1.1333333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting My Notes for Third-Party Meetings in Europe and US Region.",
+"imp": "minor",
+"h": 2.95,
+"p": "AI"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom Meeting Summaries for Hebrew language in Europe and US Region",
+"imp": "minor",
+"h": 0.5166666666666667,
+"p": "Meetings"
+},
+{
+"ym": "2026-07",
+"name": "Subset of users might have experienced a delay with Zoom Phone Voicemail/Recording/Call Log and Live meeting dashboard in Europe region",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom Healthcare Integration services in US Region",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Live Streaming in Singapore Region.",
+"imp": "minor",
+"h": 25.316666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom Phone and Zoom Contact Center Inbound calls in India",
+"imp": "minor",
+"h": 20.983333333333334,
+"p": "Contact Center"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Real Time Media Streams (RTMS)",
+"imp": "minor",
+"h": 3.816666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Intermittent Service Degradation Affecting My Notes for 3rd party.",
+"imp": "none",
+"h": 0.0,
+"p": "AI"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Meta integration for Zoom.",
+"imp": "minor",
+"h": 19.916666666666668,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Zoom AI Services in Japan.",
+"imp": "minor",
+"h": 0.8666666666666667,
+"p": "AI"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting Meta integration for Zoom.",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-07",
+"name": "Service Degradation Affecting ZoomMate Schedule Task",
+"imp": "minor",
+"h": 0.2833333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-06",
+"name": "intermittent Service Degradation Affecting ZoomMate in the US Region.",
+"imp": "minor",
+"h": 0.95,
+"p": "AI"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Voice Agent Service.",
+"imp": "minor",
+"h": 2.2333333333333334,
+"p": "Other"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Phone Inbound calls in US Region",
+"imp": "minor",
+"h": 0.5,
+"p": "Phone"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Web Service in Philippines.",
+"imp": "minor",
+"h": 5.083333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Contact Center Services and Incorrect Offline Status Display for Zoom Rooms Scheduling in U.S Region.",
+"imp": "minor",
+"h": 8.8,
+"p": "Contact Center"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affected Zoom Contact Center in the US Region.",
+"imp": "none",
+"h": 0.2833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting ZoomMate and Zoom AI services in US Region.",
+"imp": "minor",
+"h": 1.0333333333333334,
+"p": "AI"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Meetings in US Region",
+"imp": "minor",
+"h": 0.85,
+"p": "Meetings"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Mail, Calendar and Scheduler services in US Region.",
+"imp": "minor",
+"h": 8.2,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Mail, Calendar and Scheduler services in US Region",
+"imp": "minor",
+"h": 0.9833333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Meeting Recordings",
+"imp": "minor",
+"h": 108.58333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2026-06",
+"name": "Incorrect offline status display for Zoom Rooms Scheduling Displays",
+"imp": "minor",
+"h": 7.983333333333333,
+"p": "Rooms"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Web AIC Docs creation.",
+"imp": "minor",
+"h": 2.066666666666667,
+"p": "AI"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting My Notes",
+"imp": "minor",
+"h": 2.066666666666667,
+"p": "AI"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affected Zoom Contact Center\u2019s Agent Experience.",
+"imp": "none",
+"h": 0.2833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Whiteboard and Notes in Saudi Arabia.",
+"imp": "minor",
+"h": 0.5333333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-06",
+"name": "Service degradation affecting Learning Center Webpages",
+"imp": "minor",
+"h": 0.5833333333333334,
+"p": "Web/Account"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Zoom Meeting Recordings in Australia and Japan",
+"imp": "minor",
+"h": 1.2,
+"p": "Meetings"
+},
+{
+"ym": "2026-06",
+"name": "A Subset of users experiencing Issues with Inbound and Outbound Calls for Zoom Phone and Zoom Contact Center in Singapore region",
+"imp": "minor",
+"h": 0.8166666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-06",
+"name": "A small subset of ZCC customers may have experienced inbound call failures in Unites States",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Giphy In Zoom Chat and Zoom In-Meeting Chat.",
+"imp": "minor",
+"h": 224.36666666666667,
+"p": "Chat"
+},
+{
+"ym": "2026-06",
+"name": "Service Degradation Affecting Slides and Sheets",
+"imp": "minor",
+"h": 0.9333333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-06",
+"name": "Intermittent Service Degradation Affecting submitting inquiries through our Contact Sales pages",
+"imp": "none",
+"h": 0.95,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Support Website",
+"imp": "minor",
+"h": 1.4,
+"p": "Web/Account"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation with Live Transcription and Call Summary in the Australia Region",
+"imp": "none",
+"h": 0.18333333333333332,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom AI Companion in United States",
+"imp": "none",
+"h": 3.4166666666666665,
+"p": "AI"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Support Website",
+"imp": "minor",
+"h": 1.5666666666666667,
+"p": "Web/Account"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Contact Center\u2019s AI Companion, Zoom Virtual Agent's Chat and Voice AI Engagements.",
+"imp": "minor",
+"h": 4.916666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Translations and Transcriptions of Zoom Rooms in Japan Region.",
+"imp": "minor",
+"h": 0.7666666666666667,
+"p": "Rooms"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affected Zoom Revenue Accelerator's Outbound Calls in Japan Region.",
+"imp": "minor",
+"h": 0.21666666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Web Zoom Mail and Web Calendar Services.",
+"imp": "minor",
+"h": 126.0,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation affecting Presence Interoperability Feature for a subset of users in North America region",
+"imp": "minor",
+"h": 8.733333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Intermittent Issue Affecting MMS Inbound and Outbound Service with Zoom Phone and Zoom Contact Center in United States and Canada Regions.",
+"imp": "minor",
+"h": 91.51666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-05",
+"name": "Issue Affected Inbound and Outbound Calls with Zoom Contact Center in North America Region.",
+"imp": "none",
+"h": 0.2,
+"p": "Contact Center"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Contact Center SMS in US Region",
+"imp": "minor",
+"h": 0.18333333333333332,
+"p": "Contact Center"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation affecting multiple Services in the North America region",
+"imp": "minor",
+"h": 1.2,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting a Subset of Users in Web Mail and Calendar",
+"imp": "minor",
+"h": 105.63333333333334,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Mail, Scheduler and Calendar Services.",
+"imp": "minor",
+"h": 1.65,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-05",
+"name": "Users may have experienced intermittent issues with accessing the zoom.com homepage.",
+"imp": "none",
+"h": 0.26666666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Inbound and Outbound SMS Messages for a Subset of users in Australia",
+"imp": "minor",
+"h": 1.4833333333333334,
+"p": "Phone"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Phone and Zoom Contact Center Inbound calls in India",
+"imp": "minor",
+"h": 0.6833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Healthcare Integration in North America Region.",
+"imp": "minor",
+"h": 10.283333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Service Degradation Affecting Zoom Doc Services in United States",
+"imp": "minor",
+"h": 1.7,
+"p": "Other"
+},
+{
+"ym": "2026-05",
+"name": "Zoom Rooms incorrectly showing as offline in dashboard.",
+"imp": "none",
+"h": 0.38333333333333336,
+"p": "Rooms"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Clinical Notes in United States",
+"imp": "minor",
+"h": 3.183333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Services in Canada.",
+"imp": "none",
+"h": 1.2166666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Contact Center in Europe region",
+"imp": "none",
+"h": 0.48333333333333334,
+"p": "Contact Center"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation in Zoom Virtual Agent - Voice bot in North America region",
+"imp": "none",
+"h": 0.45,
+"p": "Contact Center"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Phone Services in North America.",
+"imp": "minor",
+"h": 0.5166666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Live Transcriptions in Zoom Client 7.0.0 and Above",
+"imp": "minor",
+"h": 4.016666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting SMS Delivery in North America Region.",
+"imp": "minor",
+"h": 4.883333333333334,
+"p": "Phone"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Rooms Microsoft Teams Meeting Direct Guest join feature.",
+"imp": "minor",
+"h": 4.5,
+"p": "Rooms"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Meeting Joins for Users with WEBRTC 2.0 feature in Amsterdam and Germany.",
+"imp": "minor",
+"h": 4.416666666666667,
+"p": "Meetings"
+},
+{
+"ym": "2026-04",
+"name": "Service degradation affecting Trimming Meeting Recording in Europe Region",
+"imp": "minor",
+"h": 2.1333333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Blog and Contact Us Webpages.",
+"imp": "minor",
+"h": 0.8333333333333334,
+"p": "Web/Account"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Meetings via Web Client in Saudi Arabia.",
+"imp": "minor",
+"h": 0.7666666666666667,
+"p": "Meetings"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Phone and Zoom Contact Center in the Singapore Region",
+"imp": "none",
+"h": 0.18333333333333332,
+"p": "Contact Center"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation of Zoom Phone Calls Affected a Subset of Users in North America Region.",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Phone"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting A Subset of Users with Zoom Chat in the North America Region",
+"imp": "minor",
+"h": 55.95,
+"p": "Chat"
+},
+{
+"ym": "2026-04",
+"name": "Service Degradation Affecting Zoom Contact Center in North America Region",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Sign In and Joining Meetings",
+"imp": "none",
+"h": 0.0,
+"p": "Meetings"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom Phone Outbound Calls in India.",
+"imp": "minor",
+"h": 2.3,
+"p": "Phone"
+},
+{
+"ym": "2026-03",
+"name": "Issue affecting Zoom Phone Outbound calls in Hyderabad Region",
+"imp": "none",
+"h": 0.25,
+"p": "Phone"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom Phone and Zoom Contact Center PCI Integration",
+"imp": "minor",
+"h": 1.0,
+"p": "Contact Center"
+},
+{
+"ym": "2026-03",
+"name": "Service degradation affecting a subset of admins using Workspace Reservation Dashboard",
+"imp": "minor",
+"h": 6.7,
+"p": "Other"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom Virtual Agent - Voice bot  in North America",
+"imp": "minor",
+"h": 0.9833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation with Meeting Conversations Missing in ZRA (Zoom Revenue Accelerator) Conversation List Across US Regions",
+"imp": "minor",
+"h": 0.5333333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Webpages of zoom.us, Zoom Rooms, Zoom Contact Center Analytics.",
+"imp": "none",
+"h": 0.36666666666666664,
+"p": "Contact Center"
+},
+{
+"ym": "2026-03",
+"name": "Service degradation affecting Zoom phone outbound calls to Australia and New Zealand impacting a subset of users.",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Phone"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom AIC and Zoom Virtual Agent in US region.",
+"imp": "minor",
+"h": 5.633333333333334,
+"p": "AI"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Real Time Media Streams (RTMS)",
+"imp": "minor",
+"h": 2.316666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom Services in Saudi Arabia",
+"imp": "minor",
+"h": 0.4666666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting 3rd Party Integration with Zoom AI Companion.",
+"imp": "minor",
+"h": 1.05,
+"p": "AI"
+},
+{
+"ym": "2026-03",
+"name": "Issues Affecting Zoom Phone and Zoom Contact Center Inbound and Outbound SMS in Australia",
+"imp": "minor",
+"h": 3.0,
+"p": "Contact Center"
+},
+{
+"ym": "2026-03",
+"name": "A subset of users experienced issues with inbound and outbound PSTN one way audio calls in Japan region.",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-03",
+"name": "Issue where Zoom Rooms are not able to join Microsoft Teams Meetings.",
+"imp": "minor",
+"h": 17.7,
+"p": "Rooms"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation for a Subset of Users Affecting the Offline Status in Zoom Rooms",
+"imp": "minor",
+"h": 1.8833333333333333,
+"p": "Rooms"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom Billing and Payments Web Pages.",
+"imp": "minor",
+"h": 6.05,
+"p": "Other"
+},
+{
+"ym": "2026-03",
+"name": "A subset of customers globally are observing messages being delayed for delivery.",
+"imp": "minor",
+"h": 1.1166666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-03",
+"name": "Service Degradation Affecting Zoom Meeting SDK",
+"imp": "minor",
+"h": 0.9833333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2026-03",
+"name": "Subset of users might have experienced a delay with Zoom Phone Voicemail/Recording/Call Log and Live meeting dashboard.",
+"imp": "none",
+"h": 0.75,
+"p": "Phone"
+},
+{
+"ym": "2026-02",
+"name": "Service degradation affecting report generation on the Zoom Dashboard.",
+"imp": "minor",
+"h": 13.566666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "A subset of customers experiencing search delay for Zoom Docs/Zoom Hub/Zmail/File Service/Whiteboard Services/Zoom Marketplace/Shared Notes/Zoom Rooms/Zoom Workspace Reservation",
+"imp": "minor",
+"h": 24.066666666666666,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-02",
+"name": "Service degradation with Hebrew offline transcription for ZRA and Zoom Phone",
+"imp": "minor",
+"h": 18.033333333333335,
+"p": "Phone"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation with Zoom Virtual Agent.",
+"imp": "minor",
+"h": 5.1,
+"p": "Contact Center"
+},
+{
+"ym": "2026-02",
+"name": "Zoom Contact Center Service Degradation in the North America Region",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Contact Center"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation Affecting Zoom Services in Sao Paulo",
+"imp": "minor",
+"h": 1.5166666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation Affecting AIC Web Search for a subset of users in US Region",
+"imp": "minor",
+"h": 0.65,
+"p": "AI"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation Affecting Zoom Virtual Agent for a Subset of users in North America",
+"imp": "none",
+"h": 0.08333333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation Affecting Zoom SMS Service in US and Canada Region",
+"imp": "none",
+"h": 0.5833333333333334,
+"p": "Phone"
+},
+{
+"ym": "2026-02",
+"name": "Zoom.us was inaccessible for a subset of users in the Ohio region in North America",
+"imp": "none",
+"h": 0.1,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "Service degradation with clinical notes service.",
+"imp": "minor",
+"h": 5.25,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "A subset of users are experiencing a glitch in sharing Zoom Docs via Zoom Meetings in USA, Canada and Singapore regions.",
+"imp": "minor",
+"h": 1.8666666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-02",
+"name": "A subset of users might have experienced an issue with Microsoft OneDrive for Organizations App.",
+"imp": "none",
+"h": 0.35,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "Outbound call issue with particular Provider Exchange Partners in the Australia Region.",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "A subset of users in Australia experienced issues with Inbound and Outbound SMS.",
+"imp": "none",
+"h": 0.3,
+"p": "Phone"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation Affecting Zoom Virtual Agent in Saudi Arabia region",
+"imp": "minor",
+"h": 0.6,
+"p": "Contact Center"
+},
+{
+"ym": "2026-02",
+"name": "A subset of users in Jeddah may have experienced call disconnections.",
+"imp": "none",
+"h": 0.38333333333333336,
+"p": "Other"
+},
+{
+"ym": "2026-02",
+"name": "Service Degradation affecting some Inbound and Outbound calls for Zoom Phone and Zoom Contact Center in the Japan Region",
+"imp": "minor",
+"h": 1.8166666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2026-02",
+"name": "Service degradation affected Zoom Phone\u2019s Outbound, Inbound Calls, and Cloud Recordings in Frankfurt, Germany region.",
+"imp": "none",
+"h": 0.8166666666666667,
+"p": "Phone"
+},
+{
+"ym": "2026-01",
+"name": "Issue with Zoom Whiteboard Engagement Service for free users in US region.",
+"imp": "none",
+"h": 0.4666666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-01",
+"name": "Issue affecting a subset of Zoom Phone outbound calls in United Kingdom.",
+"imp": "minor",
+"h": 17.833333333333332,
+"p": "Phone"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Pardot Integration",
+"imp": "minor",
+"h": 3.183333333333333,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Zoom Contact Center in the Saudi Arabia region.",
+"imp": "minor",
+"h": 0.8833333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2026-01",
+"name": "Partial Outage Affecting WhatsApp Integration",
+"imp": "major",
+"h": 3.55,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Intermittent service degradation impacting Zoom AI Companion meeting summaries in the India region.",
+"imp": "minor",
+"h": 0.9333333333333333,
+"p": "AI"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Zoom Services",
+"imp": "minor",
+"h": 0.55,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Service degradation affecting Conference Room Connector SIP calls in Tian Jin Data Center.",
+"imp": "none",
+"h": 0.08333333333333333,
+"p": "Rooms"
+},
+{
+"ym": "2026-01",
+"name": "Intermittent issue affecting Zoom AI Companion in US and AU region",
+"imp": "minor",
+"h": 0.4666666666666667,
+"p": "AI"
+},
+{
+"ym": "2026-01",
+"name": "Zoom Phone Service Degradation in Japan",
+"imp": "minor",
+"h": 1.7833333333333334,
+"p": "Phone"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting MeetingAIC and Transcript failures in the UK Region",
+"imp": "minor",
+"h": 1.7166666666666666,
+"p": "AI"
+},
+{
+"ym": "2026-01",
+"name": "A subset of users may have experienced issues with Zoom Meetings in Singapore Region",
+"imp": "none",
+"h": 0.6666666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Zoom App Integration",
+"imp": "minor",
+"h": 0.25,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Zoom AI service degradation impacting Image generation in the US region.",
+"imp": "none",
+"h": 0.23333333333333334,
+"p": "AI"
+},
+{
+"ym": "2026-01",
+"name": "A subset of users may experience short delay in email delivery in US region.",
+"imp": "minor",
+"h": 22.466666666666665,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Zoom Meeting Recording transcript for Hebrew language in US and Europe Region.",
+"imp": "minor",
+"h": 0.31666666666666665,
+"p": "Meetings"
+},
+{
+"ym": "2026-01",
+"name": "A subset of users might have experienced an issue with Zoom Conference Room Connector in APAC Region",
+"imp": "none",
+"h": 0.5333333333333333,
+"p": "Rooms"
+},
+{
+"ym": "2026-01",
+"name": "A subset of users may experience an issue with sharing feature for Zoom Web Clips and Notes in Europe Region.",
+"imp": "minor",
+"h": 0.7,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-01",
+"name": "A subset of users experienced Dial-in/Dial-out in US East Region",
+"imp": "none",
+"h": 0.21666666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Zoom Phone - North America",
+"imp": "minor",
+"h": 0.18333333333333332,
+"p": "Phone"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting outbound SMS service in Australia Region.",
+"imp": "minor",
+"h": 1.8,
+"p": "Phone"
+},
+{
+"ym": "2026-01",
+"name": "Service degradation affecting Zoom integration for the Google Workspace add-on",
+"imp": "minor",
+"h": 1.3166666666666667,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Service degradation affecting Zoom Services in Saudi Arabia",
+"imp": "none",
+"h": 0.2,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "A subset of users are experiencing intermittent Zoom Phone and Zoom Contact Center Inbound and Outbound call service degradation in South Africa region.",
+"imp": "minor",
+"h": 3.6,
+"p": "Contact Center"
+},
+{
+"ym": "2026-01",
+"name": "Service Degradation Affecting Zoom Whiteboard and Notes in Europe Region.",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Workplace apps"
+},
+{
+"ym": "2026-01",
+"name": "Service degradation with Continuous Meeting Chat Service in Saudi Arabia region impacting a subset of users.",
+"imp": "minor",
+"h": 1.2166666666666666,
+"p": "Chat"
+},
+{
+"ym": "2026-01",
+"name": "Issue with Zoom Virtual Voice Agent",
+"imp": "none",
+"h": 1.0166666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Service degradation affecting Zoom Services in Saudi Arabia.",
+"imp": "minor",
+"h": 4.566666666666666,
+"p": "Other"
+},
+{
+"ym": "2026-01",
+"name": "Zoom Push Notification Service\u2019s transcription is experiencing timeouts for Zoom Contact Center and Zoom Phone.",
+"imp": "minor",
+"h": 28.166666666666668,
+"p": "Contact Center"
+},
+{
+"ym": "2025-12",
+"name": "Service Degradation Affecting Zoom Outbound SMS in the Australia Region",
+"imp": "minor",
+"h": 1.8,
+"p": "Phone"
+},
+{
+"ym": "2025-12",
+"name": "Service Degradation Affecting Zoom Docs Gallery",
+"imp": "minor",
+"h": 0.16666666666666666,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-12",
+"name": "Service Degradation with Notes, Tasks and Whiteboard in the Saudi Arabia Region",
+"imp": "none",
+"h": 0.18333333333333332,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-12",
+"name": "Degraded experience in processing Meeting Recording Transcriptions of Zoom Revenue Accelerator.",
+"imp": "minor",
+"h": 7.783333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2025-12",
+"name": "Service Degradation Affecting Zoom Clips in the US Region",
+"imp": "minor",
+"h": 0.8833333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-12",
+"name": "Issue with Zoom Client 6.7 on iOS for subset of Users",
+"imp": "major",
+"h": 25.233333333333334,
+"p": "Other"
+},
+{
+"ym": "2025-12",
+"name": "Issue with multiple Zoom Services in multiple regions",
+"imp": "major",
+"h": 4.316666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-12",
+"name": "Service Degradation Affecting Zoom Outbound SMS in the AU Region",
+"imp": "major",
+"h": 1.05,
+"p": "Phone"
+},
+{
+"ym": "2025-12",
+"name": "Issue with Zoom Room Health Dashboard in US region.",
+"imp": "minor",
+"h": 4.583333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-12",
+"name": "Inbound Call service degradation in Zoom Contact Center",
+"imp": "none",
+"h": 1.1333333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2025-12",
+"name": "Service Degradation Affecting ZVA Voice Agent for Non-English languages",
+"imp": "minor",
+"h": 6.0,
+"p": "Other"
+},
+{
+"ym": "2025-12",
+"name": "A subset of users experienced issues with sign-in option with SSO Services.",
+"imp": "none",
+"h": 0.23333333333333334,
+"p": "Web/Account"
+},
+{
+"ym": "2025-12",
+"name": "Issue with Quality Management interaction services",
+"imp": "minor",
+"h": 1.5333333333333334,
+"p": "Other"
+},
+{
+"ym": "2025-12",
+"name": "Issue with multiple Zoom Services",
+"imp": "minor",
+"h": 0.6666666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-12",
+"name": "Issues with Zoom Phone functionality impacting a subset of users in Japan.",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Phone"
+},
+{
+"ym": "2025-12",
+"name": "A subset of users are experiencing intermittent audio issues on PSTN calls for Zoom Phone and Zoom Contact Center in Singapore region.",
+"imp": "minor",
+"h": 2.4166666666666665,
+"p": "Contact Center"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users are experiencing audio issues on PSTN calls for Zoom Phone and Zoom Contact Center in Asia Pacific region.",
+"imp": "minor",
+"h": 3.7,
+"p": "Contact Center"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users might have experienced audio issues on PSTN calls for Zoom Phone and Zoom Contact Center in Europe region.",
+"imp": "none",
+"h": 0.2,
+"p": "Contact Center"
+},
+{
+"ym": "2025-11",
+"name": "Issues with Zoom Clips and Surveys in Singapore region.",
+"imp": "none",
+"h": 0.13333333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-11",
+"name": "Issues Affecting Zoom Phone Outbound Calls in EU region",
+"imp": "minor",
+"h": 12.1,
+"p": "Phone"
+},
+{
+"ym": "2025-11",
+"name": "Issue with accessing the webpages of Zoom website.",
+"imp": "minor",
+"h": 0.6833333333333333,
+"p": "Web/Account"
+},
+{
+"ym": "2025-11",
+"name": "Issue joining meetings using the newest Apple Safari 26.1 along with \"iCloud Private Relay\" feature enabled",
+"imp": "none",
+"h": 0.0,
+"p": "Meetings"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users are experiencing delay and issue with joining Zoom Meetings, Rooms, Webinars, Live Streaming, Contact Center's Video Engagement.",
+"imp": "minor",
+"h": 11.55,
+"p": "Contact Center"
+},
+{
+"ym": "2025-11",
+"name": "Subset of users might have experienced issue with Zoom Contact Center.",
+"imp": "none",
+"h": 0.5666666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users may experience issues with opening Whiteboard, Notes and Tasks in US Region.",
+"imp": "none",
+"h": 0.3333333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users may experience issues with Meetings PSTN Call out feature.",
+"imp": "minor",
+"h": 0.7166666666666667,
+"p": "Meetings"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users may have experienced issues with Zoom Meetings for Recording and Webinar services in the US region",
+"imp": "none",
+"h": 0.03333333333333333,
+"p": "Events/Webinars"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users are experiencing an issue with Zoom Phone and Zoom Contact Center MMS service in the US region.",
+"imp": "minor",
+"h": 7.783333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2025-11",
+"name": "A subset of users may experience issues with Inbound and Outbound calls in China region.",
+"imp": "minor",
+"h": 75.26666666666667,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users may have experienced issues with Team chat and Email compose in Europe region",
+"imp": "minor",
+"h": 0.95,
+"p": "Chat"
+},
+{
+"ym": "2025-10",
+"name": "Issue with multiple Zoom services in the Saudi Arabia region.",
+"imp": "minor",
+"h": 2.066666666666667,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "Microsoft Outage causing scheduling issues through Outlook",
+"imp": "minor",
+"h": 8.383333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "Issue with Zoom Webinars",
+"imp": "none",
+"h": 0.03333333333333333,
+"p": "Events/Webinars"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users may experience issues with Sign in and Zoom Meetings in Europe region.",
+"imp": "minor",
+"h": 1.1,
+"p": "Meetings"
+},
+{
+"ym": "2025-10",
+"name": "Issue with 403 errors for multiple services",
+"imp": "minor",
+"h": 2.533333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users may experience issues with inbound calls in South Africa region",
+"imp": "minor",
+"h": 9.416666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users are experiencing issues with Inbound and Outbound calls in Israel region.",
+"imp": "minor",
+"h": 1.7166666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users are experiencing intermittent issues with inbound and outbound PSTN one way audio calls in Singapore region.",
+"imp": "minor",
+"h": 6.15,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "Some meeting summaries that were captured during the October 20 outage may be delayed in their delivery",
+"imp": "minor",
+"h": 52.9,
+"p": "Meetings"
+},
+{
+"ym": "2025-10",
+"name": "Issue with Zoom AIC, Zoom Learning Center & push notifications services",
+"imp": "minor",
+"h": 10.283333333333333,
+"p": "AI"
+},
+{
+"ym": "2025-10",
+"name": "Issue with Zoom Services",
+"imp": "minor",
+"h": 14.783333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users are experiencing issues with Workforce Management in certain US regions.",
+"imp": "minor",
+"h": 0.3,
+"p": "Contact Center"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users experiencing issues while sending emails through Zoom Mail.",
+"imp": "minor",
+"h": 1.3666666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users are experiencing delays in sending and receiving Zoom messages.",
+"imp": "minor",
+"h": 0.6666666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users may experience issues with Zoom Phone inbound calls in South Africa region",
+"imp": "minor",
+"h": 7.45,
+"p": "Phone"
+},
+{
+"ym": "2025-10",
+"name": "Issues with Zoom Meeting AIC services in North America and Europe region.",
+"imp": "minor",
+"h": 0.95,
+"p": "AI"
+},
+{
+"ym": "2025-10",
+"name": "Users experiencing login delays through Zoom Client and Web Client on Saudi Arabia, Europe, India regions.",
+"imp": "minor",
+"h": 0.7833333333333333,
+"p": "Web/Account"
+},
+{
+"ym": "2025-10",
+"name": "Service degradation with AIC chat compose",
+"imp": "minor",
+"h": 1.05,
+"p": "AI"
+},
+{
+"ym": "2025-10",
+"name": "A subset of users may experience issues with inbound calls in UK Region",
+"imp": "minor",
+"h": 0.8333333333333334,
+"p": "Other"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users may experienced issues with Multiple Zoom Services such as Marketplace and AI",
+"imp": "none",
+"h": 2.1333333333333333,
+"p": "Web/Account"
+},
+{
+"ym": "2025-09",
+"name": "Intermittent issues with Zoom Virtual Agent in Jeddah, Saudi Arabia.",
+"imp": "minor",
+"h": 0.7166666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users may have experienced intermittent issues with Zoom website.",
+"imp": "none",
+"h": 3.033333333333333,
+"p": "Web/Account"
+},
+{
+"ym": "2025-09",
+"name": "Intermittent Issue with Zoom\u00a0File Service.",
+"imp": "none",
+"h": 2.45,
+"p": "Other"
+},
+{
+"ym": "2025-09",
+"name": "Issue with Zoom\u2019s external app integration services.",
+"imp": "minor",
+"h": 1.5166666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-09",
+"name": "Outbound SMS Delay for Zoom Phone and Zoom Contact Center",
+"imp": "none",
+"h": 0.03333333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users might have experienced intermittent failures while accessing Zoom Meeting Summaries' webpages and using Zoom Docs.",
+"imp": "none",
+"h": 0.23333333333333334,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-09",
+"name": "Users in Hong Kong may be experiencing issues with outbound calls.",
+"imp": "minor",
+"h": 2.9166666666666665,
+"p": "Other"
+},
+{
+"ym": "2025-09",
+"name": "Outbound SMS Delay for Zoom Phone and Zoom Contact Center",
+"imp": "none",
+"h": 0.16666666666666666,
+"p": "Contact Center"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users may experience issues with our underlying carrier in Europe.",
+"imp": "minor",
+"h": 792.2,
+"p": "Other"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users may have experienced issues with Zoom Phone's and Zoom Contact Center's inbound and outbound calls in Australia region.",
+"imp": "none",
+"h": 0.38333333333333336,
+"p": "Contact Center"
+},
+{
+"ym": "2025-09",
+"name": "A small subset of users may experience issues with SMS(outbound) service in US Region while using Zoom Phone and Zoom Contact Center.",
+"imp": "minor",
+"h": 1.3166666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2025-09",
+"name": "Users of Google Chrome 140 browser may not hear audio in a meeting",
+"imp": "minor",
+"h": 30.45,
+"p": "Meetings"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users experiencing connectivity issues with Zoom meetings in the Istanbul region.",
+"imp": "minor",
+"h": 2.85,
+"p": "Meetings"
+},
+{
+"ym": "2025-09",
+"name": "Zoom Phone Services were affected in Hong Kong, China",
+"imp": "none",
+"h": 0.4,
+"p": "Phone"
+},
+{
+"ym": "2025-09",
+"name": "A subset of users experiencing SMS delivery issues with Zoom Phone in US.",
+"imp": "minor",
+"h": 1.1833333333333333,
+"p": "Phone"
+},
+{
+"ym": "2025-09",
+"name": "Issue with Zoom AI services in Singapore region.",
+"imp": "minor",
+"h": 1.25,
+"p": "AI"
+},
+{
+"ym": "2025-09",
+"name": "Issue with Zoom Virtual Agent in North America",
+"imp": "none",
+"h": 0.3333333333333333,
+"p": "Contact Center"
+},
+{
+"ym": "2025-08",
+"name": "A subset of users may not receive e-mail notifications for Whiteboard, Notes and Webinar.",
+"imp": "minor",
+"h": 95.93333333333334,
+"p": "Events/Webinars"
+},
+{
+"ym": "2025-08",
+"name": "Cloud Recording Processing Delays",
+"imp": "minor",
+"h": 17.933333333333334,
+"p": "Meetings"
+},
+{
+"ym": "2025-08",
+"name": "Issue with Web Mail",
+"imp": "minor",
+"h": 4.866666666666666,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-08",
+"name": "Intermitent Issue with Zoom Developers Document Web Page",
+"imp": "minor",
+"h": 4.45,
+"p": "Other"
+},
+{
+"ym": "2025-08",
+"name": "Issue with Zoom Services",
+"imp": "minor",
+"h": 1.7833333333333334,
+"p": "Other"
+},
+{
+"ym": "2025-08",
+"name": "Zoom Phone inbound calls may be failing in Argentina",
+"imp": "minor",
+"h": 2.4,
+"p": "Phone"
+},
+{
+"ym": "2025-08",
+"name": "Issue with Create Clips using AI Companion and Zoom Virtual Agent calls.",
+"imp": "none",
+"h": 0.18333333333333332,
+"p": "AI"
+},
+{
+"ym": "2025-08",
+"name": "Cloud Recording Processing Delays",
+"imp": "minor",
+"h": 3.5166666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2025-08",
+"name": "A subset of users may experience issues with meetings in Frankfurt region for archiving service",
+"imp": "minor",
+"h": 1.5166666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2025-08",
+"name": "Issues for a subset of users in China",
+"imp": "none",
+"h": 0.43333333333333335,
+"p": "Other"
+},
+{
+"ym": "2025-08",
+"name": "A subset of users may experience delays or failures with AI Companion meeting summary, Team Chat and Zoom Docs compose",
+"imp": "minor",
+"h": 0.8333333333333334,
+"p": "AI"
+},
+{
+"ym": "2025-08",
+"name": "Issue with WFM",
+"imp": "minor",
+"h": 0.8833333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-08",
+"name": "A subset of users may have experienced issues with ZVA Chat & Voice Agent.",
+"imp": "minor",
+"h": 0.26666666666666666,
+"p": "Chat"
+},
+{
+"ym": "2025-08",
+"name": "Intermittent Zoom Phone issues for non peer-to-peer calls in Saudi Arabia region.",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-08",
+"name": "A subset of users in the Japan region may experience issues when attempting to connect to the Zoom Technical Support number.",
+"imp": "minor",
+"h": 3.65,
+"p": "Other"
+},
+{
+"ym": "2025-08",
+"name": "Issue with Zoom Phone inbound calls and outbound affecting a subset of users in Colombia",
+"imp": "minor",
+"h": 32.833333333333336,
+"p": "Phone"
+},
+{
+"ym": "2025-08",
+"name": "Latency and issue with Sharing Clips in Saudi Arabia",
+"imp": "minor",
+"h": 1.95,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-08",
+"name": "Issue with SMS 2FA messages impacting a subset of users in United States",
+"imp": "minor",
+"h": 2.0833333333333335,
+"p": "Phone"
+},
+{
+"ym": "2025-08",
+"name": "A subset of users experiencing call failures with phone numbers in Guangzhou (area code 20) and Shenzhen (area code 755) in China.",
+"imp": "minor",
+"h": 106.43333333333334,
+"p": "Phone"
+},
+{
+"ym": "2025-08",
+"name": "Issue with file playback for Zoom Clips, Voicemail and Recording",
+"imp": "minor",
+"h": 4.266666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users may experience issues with Meeting Dashboards.",
+"imp": "minor",
+"h": 5.383333333333334,
+"p": "Meetings"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users are experiencing an issue with Zoom Meetings' Dial-In and Dial-Out features in New York and San Jose regions.",
+"imp": "minor",
+"h": 3.533333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2025-07",
+"name": "Issue with Push notifications in Saudi Arabia",
+"imp": "none",
+"h": 1.8166666666666667,
+"p": "Other"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users may experience issues with multiple services in Saudi Arabia",
+"imp": "minor",
+"h": 0.9333333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users are experiencing intermittent connectivity issues with Zoom Phone inbound and outbound calling in the Sydney region.",
+"imp": "major",
+"h": 1.5,
+"p": "Phone"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users in Australia experienced issues with Zoom Phone's inbound and outbound calls.",
+"imp": "minor",
+"h": 0.55,
+"p": "Phone"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users in Saudi Arabia is currently experiencing issues with Zoom services.",
+"imp": "minor",
+"h": 3.6333333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-07",
+"name": "A subset of users in Saudi Arabia may experience issues with voicemail feature is missing from agent\u2019s inbox",
+"imp": "minor",
+"h": 0.36666666666666664,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-07",
+"name": "Issue with Zoom Phone and Zoom Contact Center in Japan region",
+"imp": "none",
+"h": 0.0,
+"p": "Contact Center"
+},
+{
+"ym": "2025-06",
+"name": "A subset of users may have experienced issues accessing the Support Center page.",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-06",
+"name": "Issue with Zoom Phone Integration delays",
+"imp": "minor",
+"h": 0.6833333333333333,
+"p": "Phone"
+},
+{
+"ym": "2025-06",
+"name": "Zoom Phone Call Recording Delay",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-06",
+"name": "A subset of users in Europe may have experienced inbound call failures",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-06",
+"name": "Issue with Clinical Notes",
+"imp": "minor",
+"h": 1.0833333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-06",
+"name": "Issue with Zoom Contact Center service",
+"imp": "minor",
+"h": 0.5666666666666667,
+"p": "Contact Center"
+},
+{
+"ym": "2025-06",
+"name": "Multiple Zoom services impacted by cloud provider incident",
+"imp": "minor",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-06",
+"name": "A subset of users may have experienced issues with File server, Call recording and Mail services.",
+"imp": "minor",
+"h": 3.2333333333333334,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-06",
+"name": "A subset of customers in Europe experienced issue with live transcription and call summary in ZCC",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-06",
+"name": "Issue with Push notifications for Zoom Phone on Android devices",
+"imp": "minor",
+"h": 3.6,
+"p": "Phone"
+},
+{
+"ym": "2025-06",
+"name": "Zoom Workforce Management access issue.",
+"imp": "none",
+"h": 0.0,
+"p": "Contact Center"
+},
+{
+"ym": "2025-06",
+"name": "Intermittent Login Issues for Zoom Users in the Saudi Arabia Region.",
+"imp": "none",
+"h": 0.0,
+"p": "Web/Account"
+},
+{
+"ym": "2025-06",
+"name": "A subset of users may have experienced issue with simulive webinars.",
+"imp": "none",
+"h": 0.0,
+"p": "Events/Webinars"
+},
+{
+"ym": "2025-05",
+"name": "A subset of users in US may have experienced Inbound & Outbound call failures with Zoom Phone.",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-05",
+"name": "A subset of users might have experienced intermittent timeouts in some of the Zoom AI Companion\u2019s services in Japan region.",
+"imp": "minor",
+"h": 0.0,
+"p": "AI"
+},
+{
+"ym": "2025-05",
+"name": "Issue with Zoom Support Ticketing",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-05",
+"name": "Errors with YouTube Live Streaming",
+"imp": "minor",
+"h": 11.483333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-05",
+"name": "A subset of users experiencing issues with multiple Zoom services in Saudi Arabia.",
+"imp": "minor",
+"h": 3.3833333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-05",
+"name": "Service degradation in China region",
+"imp": "minor",
+"h": 1.9166666666666667,
+"p": "Other"
+},
+{
+"ym": "2025-05",
+"name": "Issue with Zoom Phone call history display",
+"imp": "minor",
+"h": 0.2833333333333333,
+"p": "Phone"
+},
+{
+"ym": "2025-05",
+"name": "Issue with Inbound SMS in Australia",
+"imp": "major",
+"h": 2.0,
+"p": "Phone"
+},
+{
+"ym": "2025-05",
+"name": "Issue with outbound SMS",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-05",
+"name": "Issue with accessing zoom.com and zoom.us websites",
+"imp": "none",
+"h": 27.85,
+"p": "Web/Account"
+},
+{
+"ym": "2025-05",
+"name": "Intermittent Zoom AI Companion transcript failures for Korean language in Japan region.",
+"imp": "none",
+"h": 0.0,
+"p": "AI"
+},
+{
+"ym": "2025-05",
+"name": "Issue with AI companion that requires web search functionality.",
+"imp": "minor",
+"h": 1.8666666666666667,
+"p": "AI"
+},
+{
+"ym": "2025-05",
+"name": "Service degradation with Zoom's services",
+"imp": "minor",
+"h": 4.5,
+"p": "Other"
+},
+{
+"ym": "2025-04",
+"name": "Intermittent timeouts with the \"Ask AIC\" function within AI Companion",
+"imp": "minor",
+"h": 5.833333333333333,
+"p": "AI"
+},
+{
+"ym": "2025-04",
+"name": "Issue with AI Companion in EU",
+"imp": "minor",
+"h": 1.1,
+"p": "AI"
+},
+{
+"ym": "2025-04",
+"name": "Some customers may have experienced slow loading pages in several Zoom services",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-04",
+"name": "A subset of users experiencing connectivity issues with Zoom meetings",
+"imp": "minor",
+"h": 0.85,
+"p": "Meetings"
+},
+{
+"ym": "2025-04",
+"name": "A subset of customers experiencing issues with AIC service, Live Transcription and Voice Recognition",
+"imp": "minor",
+"h": 1.0833333333333333,
+"p": "AI"
+},
+{
+"ym": "2025-04",
+"name": "A subset of users experiencing issues in compose and chat summary with Zoom Team Chat using AI Companion.",
+"imp": "minor",
+"h": 1.8666666666666667,
+"p": "AI"
+},
+{
+"ym": "2025-04",
+"name": "A subset of users experiencing issues with inbound and outbound Zoom Phone calls in China.",
+"imp": "minor",
+"h": 69.16666666666667,
+"p": "Phone"
+},
+{
+"ym": "2025-04",
+"name": "Issue with multiple Zoom Services",
+"imp": "critical",
+"h": 4.983333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-04",
+"name": "A subset of users experiencing connectivity issues with international dial in numbers from Japan.",
+"imp": "minor",
+"h": 3.5166666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-04",
+"name": "Issue with Zoom Interop for Microsoft Teams",
+"imp": "minor",
+"h": 10.916666666666666,
+"p": "Other"
+},
+{
+"ym": "2025-04",
+"name": "A subset of users would be experiencing connectivity issues with Zoom Rooms.",
+"imp": "minor",
+"h": 1.6,
+"p": "Rooms"
+},
+{
+"ym": "2025-04",
+"name": "Issue with Zoom Rooms, Workspace and Calendar",
+"imp": "minor",
+"h": 1.2,
+"p": "Rooms"
+},
+{
+"ym": "2025-03",
+"name": "A subset of users were unable to perform Zoom Phone outbound calls in Singapore.",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-03",
+"name": "Connection issue in Melbourne",
+"imp": "minor",
+"h": 3.9166666666666665,
+"p": "Other"
+},
+{
+"ym": "2025-03",
+"name": "Issue with Zoom Rooms Web Controller in Germany.",
+"imp": "none",
+"h": 0.0,
+"p": "Rooms"
+},
+{
+"ym": "2025-03",
+"name": "Issue with inbound SMS & MMS traffic",
+"imp": "minor",
+"h": 50.2,
+"p": "Phone"
+},
+{
+"ym": "2025-03",
+"name": "Outbound reachability issue in Australia",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-03",
+"name": "Issue with English live transcription and translation service in Australia.",
+"imp": "minor",
+"h": 0.6,
+"p": "Other"
+},
+{
+"ym": "2025-03",
+"name": "A subset of users experiencing issue with Zoom Surveys and Zoom Clips in Australia region.",
+"imp": "minor",
+"h": 1.1,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-03",
+"name": "A subset of users may experience issues with Zoom Phone inbound and outbound calls.",
+"imp": "minor",
+"h": 0.5833333333333334,
+"p": "Phone"
+},
+{
+"ym": "2025-03",
+"name": "Issue accessing Zoom from Hong Kong",
+"imp": "minor",
+"h": 2.0,
+"p": "Other"
+},
+{
+"ym": "2025-03",
+"name": "A subset of users would be experiencing slowness when accessing our Web pages in Ohio region.",
+"imp": "minor",
+"h": 1.15,
+"p": "Other"
+},
+{
+"ym": "2025-03",
+"name": "Issue with Voicemail Recording delays in Zoom Phone and Zoom Contact Center",
+"imp": "minor",
+"h": 0.5,
+"p": "Contact Center"
+},
+{
+"ym": "2025-03",
+"name": "A subset of users experienced issue with Zoom Meetings and Zoom Phone for Sydney region.",
+"imp": "major",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-02",
+"name": "Issue with Zoom Phone in North America",
+"imp": "minor",
+"h": 1.1333333333333333,
+"p": "Phone"
+},
+{
+"ym": "2025-02",
+"name": "Issue with Zoom Meetings and Room Connector in Singapore",
+"imp": "minor",
+"h": 0.4,
+"p": "Rooms"
+},
+{
+"ym": "2025-02",
+"name": "A subset of users would be experiencing issues with Zoom meetings in China.",
+"imp": "minor",
+"h": 1.4666666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2025-02",
+"name": "Users are unable to add Zoom meeting through the Zoom add-in for Outlook",
+"imp": "minor",
+"h": 1.2166666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2025-02",
+"name": "Issue with Zoom CRC in Australia",
+"imp": "minor",
+"h": 3.7,
+"p": "Other"
+},
+{
+"ym": "2025-02",
+"name": "Issue with email delivery and flagged as spam impacting a subset of users",
+"imp": "minor",
+"h": 14.383333333333333,
+"p": "Workplace apps"
+},
+{
+"ym": "2025-02",
+"name": "Issue with Meeting Chat in EU",
+"imp": "minor",
+"h": 0.75,
+"p": "Chat"
+},
+{
+"ym": "2025-02",
+"name": "Intermittent latency issues with some Zoom services",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-02",
+"name": "Issue with Zoom Services in Hyderabad",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-02",
+"name": "Zoom Intermittent Service Degradation in Saudi Arabia Region",
+"imp": "minor",
+"h": 2.6333333333333333,
+"p": "Other"
+},
+{
+"ym": "2025-02",
+"name": "Issue with live meeting dashboard in Saudi Arabia region",
+"imp": "minor",
+"h": 0.9,
+"p": "Meetings"
+},
+{
+"ym": "2025-02",
+"name": "Issue with Live Streaming",
+"imp": "minor",
+"h": 0.5,
+"p": "Other"
+},
+{
+"ym": "2025-02",
+"name": "Issue with search and dashboard related services.",
+"imp": "minor",
+"h": 0.8333333333333334,
+"p": "Other"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Zoom Support Website",
+"imp": "none",
+"h": 0.0,
+"p": "Web/Account"
+},
+{
+"ym": "2025-01",
+"name": "A subset of users would be experiencing issues with Inbound / Outbound calls in UK.",
+"imp": "minor",
+"h": 1.6,
+"p": "Other"
+},
+{
+"ym": "2025-01",
+"name": "Issue with inbound call failures for US region",
+"imp": "minor",
+"h": 3.3,
+"p": "Other"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Zoom Phone One Way Audio Outbound Call Quality in LATAM",
+"imp": "minor",
+"h": 3.216666666666667,
+"p": "Phone"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Zoom Phone outbound calls in Europe.",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Enable Nested app authentication for Outlook Add-in SSO",
+"imp": "minor",
+"h": 10.65,
+"p": "Other"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Zoom Phone inbound calls for Mexico and Panama numbers",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2025-01",
+"name": "Issues with Zoom services in S\u00e3o Paulo",
+"imp": "none",
+"h": 0.0,
+"p": "Other"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Live Meeting Dashboard",
+"imp": "minor",
+"h": 2.3833333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Live Meeting Dashboard and Webhooks",
+"imp": "minor",
+"h": 4.583333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2025-01",
+"name": "Users in India & Canada may have experienced issues accessing AIC services",
+"imp": "none",
+"h": 0.0,
+"p": "AI"
+},
+{
+"ym": "2025-01",
+"name": "Issue with Zoom Contact Center",
+"imp": "minor",
+"h": 0.6,
+"p": "Contact Center"
+},
+{
+"ym": "2024-12",
+"name": "Zoom Phone maintenance rollback",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2024-12",
+"name": "Issue creating Zoom Whiteboards and Zoom Notes",
+"imp": "minor",
+"h": 1.3666666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2024-12",
+"name": "Issue with incoming calls in Zoom Phone",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2024-12",
+"name": "Issues with call and agent status for Zoom Contact Center",
+"imp": "none",
+"h": 0.0,
+"p": "Contact Center"
+},
+{
+"ym": "2024-12",
+"name": "Issue with Zoom Portal sign-in and live streaming",
+"imp": "minor",
+"h": 3.5833333333333335,
+"p": "Web/Account"
+},
+{
+"ym": "2024-12",
+"name": "Issue with message delivery for Zoom Contact Center",
+"imp": "none",
+"h": 0.0,
+"p": "Contact Center"
+},
+{
+"ym": "2024-11",
+"name": "Issue with the Zoom Billing",
+"imp": "minor",
+"h": 0.7833333333333333,
+"p": "Other"
+},
+{
+"ym": "2024-11",
+"name": "Login issues with Ellkay Integration Services",
+"imp": "minor",
+"h": 4.483333333333333,
+"p": "Web/Account"
+},
+{
+"ym": "2024-11",
+"name": "Issue with live meeting dashboard",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Meetings"
+},
+{
+"ym": "2024-11",
+"name": "Issue with Zoom AIC",
+"imp": "minor",
+"h": 1.05,
+"p": "AI"
+},
+{
+"ym": "2024-11",
+"name": "Issue with Zoom Virtual Agent",
+"imp": "minor",
+"h": 1.0166666666666666,
+"p": "Contact Center"
+},
+{
+"ym": "2024-11",
+"name": "Issue with Workforce Management",
+"imp": "none",
+"h": 0.0,
+"p": "Contact Center"
+},
+{
+"ym": "2024-11",
+"name": "Service degradation with Zoom's services in Saudi Arabia",
+"imp": "minor",
+"h": 3.5,
+"p": "Other"
+},
+{
+"ym": "2024-11",
+"name": "Issue with Zoom Rooms management page, Device Management and  Workspace Reservation",
+"imp": "minor",
+"h": 2.25,
+"p": "Rooms"
+},
+{
+"ym": "2024-11",
+"name": "Issue with Zoom Phone Devices",
+"imp": "none",
+"h": 0.0,
+"p": "Phone"
+},
+{
+"ym": "2024-10",
+"name": "Issue with Zoom Phone Inbound and Outbound calls in LATAM",
+"imp": "minor",
+"h": 0.7,
+"p": "Phone"
+},
+{
+"ym": "2024-10",
+"name": "Issue with Zoom Phone Voicemail and SMS message delays in the US region",
+"imp": "minor",
+"h": 5.383333333333334,
+"p": "Phone"
+},
+{
+"ym": "2024-10",
+"name": "Issue with Zoom Clips",
+"imp": "minor",
+"h": 0.4666666666666667,
+"p": "Workplace apps"
+},
+{
+"ym": "2024-10",
+"name": "Issue with Zoom billing portal (refund)",
+"imp": "minor",
+"h": 3.3833333333333333,
+"p": "Other"
+},
+{
+"ym": "2024-10",
+"name": "A subset of users would be experiencing issues with Customer Dashboards & delay in joining meetings",
+"imp": "minor",
+"h": 1.9333333333333333,
+"p": "Meetings"
+},
+{
+"ym": "2024-09",
+"name": "Issue with outbound SMS/MMS messages",
+"imp": "minor",
+"h": 1.1166666666666667,
+"p": "Phone"
+},
+{
+"ym": "2024-09",
+"name": "A subset of users experiencing issues with AI Chat compose service",
+"imp": "minor",
+"h": 1.5166666666666666,
+"p": "Chat"
+},
+{
+"ym": "2024-09",
+"name": "Issue with Zoom AIC impacting email compose and virtual background",
+"imp": "minor",
+"h": 2.0166666666666666,
+"p": "AI"
+},
+{
+"ym": "2024-09",
+"name": "A subset of users are experiencing issues with Cloud Meetings Recording service in APAC region.",
+"imp": "minor",
+"h": 2.4833333333333334,
+"p": "Meetings"
+},
+{
+"ym": "2024-09",
+"name": "Issue with AI Companion's Team chat compose and thread summary in USA",
+"imp": "minor",
+"h": 2.65,
+"p": "AI"
+},
+{
+"ym": "2024-09",
+"name": "Issue with Zoom CRC and Zoom Phone recordings/call logs in Brazil",
+"imp": "minor",
+"h": 1.4833333333333334,
+"p": "Phone"
+},
+{
+"ym": "2024-09",
+"name": "Issue with Zoom Recordings",
+"imp": "none",
+"h": 0.0,
+"p": "Meetings"
+},
+{
+"ym": "2024-09",
+"name": "A subset of customers experiencing an issue with Zoom chat and notification service in APAC region",
+"imp": "minor",
+"h": 1.75,
+"p": "Chat"
+},
+{
+"ym": "2024-09",
+"name": "Issue with delayed push notifications",
+"imp": "minor",
+"h": 2.1166666666666667,
+"p": "Other"
+},
+{
+"ym": "2024-09",
+"name": "Issue with Zoom's billing and payment pages",
+"imp": "minor",
+"h": 1.6833333333333333,
+"p": "Other"
+}
+]

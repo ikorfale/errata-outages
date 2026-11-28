@@ -1,0 +1,78 @@
+entries without an end time (skipped): 10
+incidents (no maintenance): 443 Counter({'minor': 293, 'none': 142, 'major': 7, 'critical': 1})
+A 2024-09..2025-08: months 12  per month 11.2  major+critical/month 0.33  median h 1.14  Meetings/month 1.25  impact-none share 0.26  >4h share 0.16
+    by product /month: Other 3.5, Phone 2.5, Meetings 1.2, AI 1.1, Workplace apps 0.8, Contact Center 0.8, Web/Account 0.4, Rooms 0.4, Chat 0.3, Events/Webinars 0.2
+B 2025-09..2026-08: months 12  per month 19.7  major+critical/month 0.33  median h 1.02  Meetings/month 1.75  impact-none share 0.32  >4h share 0.23
+    by product /month: Other 5.8, Contact Center 3.8, Phone 2.1, Workplace apps 2.0, AI 1.9, Meetings 1.8, Web/Account 0.9, Rooms 0.8, Chat 0.5, Events/Webinars 0.2
+C 2026-09..11: months 3  per month 24.3  major+critical/month 0.00  median h 1.33  Meetings/month 1.67  impact-none share 0.44  >4h share 0.23
+    by product /month: Phone 5.3, Other 5.0, AI 3.7, Contact Center 3.3, Workplace apps 2.0, Meetings 1.7, Web/Account 1.3, Rooms 1.0, Events/Webinars 0.7, Chat 0.3
+Other names sample: ['Service degradation affecting multiple services in the US re', 'Service Degradation Affecting My Files Functionality in Zoom', 'Service Degradation Affecting Zoom Workflow Service', 'Service Degradation Affecting Microsoft Integrations due to ', 'Service Degradation Affecting the Evaluations Acknowledge Bu', 'Service Degradation Affecting Multiple Zoom Services', 'Service Degradation Affecting Zoom Slides Generation in US R', 'Service Degradation Affecting Zoom for Google Workspace Add-', 'Service Degradation Affecting Live Transcription Services.', 'Service Degradation Affecting Live Transcription Services.', 'Service Degradation Affecting Zoom Tasks in US Region.', 'Service degradation affecting comment and attachment feature']
+major/critical list:
+   2026-01 major 3.5h Partial Outage Affecting WhatsApp Integration
+   2025-12 major 25.2h Issue with Zoom Client 6.7 on iOS for subset of Users
+   2025-12 major 4.3h Issue with multiple Zoom Services in multiple regions
+   2025-12 major 1.1h Service Degradation Affecting Zoom Outbound SMS in the AU Region
+   2025-07 major 1.5h A subset of users are experiencing intermittent connectivity issues with Zoom Ph
+   2025-05 major 2.0h Issue with Inbound SMS in Australia
+   2025-04 critical 5.0h Issue with multiple Zoom Services
+   2025-03 major 0.0h A subset of users experienced issue with Zoom Meetings and Zoom Phone for Sydney
+negative/zero durations: 38  >24h: 22
+zero durations: 38
+>24h:
+   2026-11 38h Service Degradation Affecting Microsoft Integrations due to an underly
+   2026-10 347h Service Degradation Affecting Customer Using Polycom Devices Going Off
+   2026-07 25h Service Degradation Affecting Live Streaming in Singapore Region.
+   2026-06 109h Service Degradation Affecting Zoom Meeting Recordings
+   2026-06 224h Service Degradation Affecting Giphy In Zoom Chat and Zoom In-Meeting C
+   2026-05 126h Service Degradation Affecting Web Zoom Mail and Web Calendar Services.
+   2026-05 92h Intermittent Issue Affecting MMS Inbound and Outbound Service with Zoo
+   2026-05 106h Service Degradation Affecting a Subset of Users in Web Mail and Calend
+   2026-04 56h Service Degradation Affecting A Subset of Users with Zoom Chat in the 
+   2026-02 24h A subset of customers experiencing search delay for Zoom Docs/Zoom Hub
+   2026-01 28h Zoom Push Notification Service’s transcription is experiencing timeout
+   2025-12 25h Issue with Zoom Client 6.7 on iOS for subset of Users
+   2025-11 75h A subset of users may experience issues with Inbound and Outbound call
+   2025-10 53h Some meeting summaries that were captured during the October 20 outage
+   2025-09 792h A subset of users may experience issues with our underlying carrier in
+   2025-09 30h Users of Google Chrome 140 browser may not hear audio in a meeting
+   2025-08 96h A subset of users may not receive e-mail notifications for Whiteboard,
+   2025-08 33h Issue with Zoom Phone inbound calls and outbound affecting a subset of
+   2025-08 106h A subset of users experiencing call failures with phone numbers in Gua
+   2025-05 28h Issue with accessing zoom.com and zoom.us websites
+   2025-04 69h A subset of users experiencing issues with inbound and outbound Zoom P
+   2025-03 50h Issue with inbound SMS & MMS traffic
+per month: 2024-09:10 2024-10:5 2024-11:9 2024-12:6 2025-01:12 2025-02:13 2025-03:12 2025-04:12 2025-05:13 2025-06:13 2025-07:9 2025-08:20 2025-09:18 2025-10:20 2025-11:13 2025-12:16 2026-01:29 2026-02:19 2026-03:21 2026-04:16 2026-05:21 2026-06:23 2026-07:24 2026-08:16 2026-09:25 2026-10:26 2026-11:22
+last 12 months (2025-12..2026-11): 258
+   Other            n= 71  median 1.55 h  >4h 22
+   Contact Center   n= 43  median 0.80 h  >4h 7
+   Phone            n= 37  median 0.77 h  >4h 6
+   AI               n= 30  median 0.76 h  >4h 2
+   Workplace apps   n= 26  median 1.15 h  >4h 7
+   Meetings         n= 20  median 0.92 h  >4h 6
+   Rooms            n= 12  median 1.62 h  >4h 4
+   Web/Account      n= 11  median 1.57 h  >4h 3
+   Chat             n=  6  median 0.95 h  >4h 2
+   Events/Webinars  n=  2  median 0.32 h  >4h 0
+names that name a region or "region": 193 of 443
+history entries incl. maintenance: 835  maintenance+no-end: 392
+Meetings-named last 12 months:
+   2026-10 minor 22.3h Service Degradation Affecting Zoom Meetings Services in the US.
+   2026-10 minor 1.9h Service Degradation Affecting Meeting Summaries Via Email.
+   2026-10 none 6.8h Service degradation affecting Zoom Meeting API in US region
+   2026-09 none 0.1h Service degradation affecting subset of live online meeting translation in Canad
+   2026-09 none 0.2h Service degradation with In-Meeting summary for Indonesian language in the Singa
+   2026-08 none 0.2h Service Degradation Affecting Zoom Meeting Quality in the US Region
+   2026-07 minor 8.4h Service Degradation Affecting Offline Meeting transcription in US Region.
+   2026-07 minor 0.5h Service Degradation Affecting Zoom Meeting Summaries for Hebrew language in Euro
+   2026-06 minor 0.8h Service Degradation Affecting Zoom Meetings in US Region
+   2026-06 minor 108.6h Service Degradation Affecting Zoom Meeting Recordings
+   2026-06 minor 1.2h Service Degradation Affecting Zoom Meeting Recordings in Australia and Japan
+   2026-04 minor 4.4h Service Degradation Affecting Meeting Joins for Users with WEBRTC 2.0 feature in
+   2026-04 minor 2.1h Service degradation affecting Trimming Meeting Recording in Europe Region
+   2026-04 minor 0.8h Service Degradation Affecting Zoom Meetings via Web Client in Saudi Arabia.
+   2026-03 none 0.0h Service Degradation Affecting Sign In and Joining Meetings
+   2026-03 minor 0.5h Service Degradation with Meeting Conversations Missing in ZRA (Zoom Revenue Acce
+   2026-03 minor 1.0h Service Degradation Affecting Zoom Meeting SDK
+   2026-01 none 0.7h A subset of users may have experienced issues with Zoom Meetings in Singapore Re
+   2026-01 minor 0.3h Service Degradation Affecting Zoom Meeting Recording transcript for Hebrew langu
+   2025-12 minor 7.8h Degraded experience in processing Meeting Recording Transcriptions of Zoom Reven
