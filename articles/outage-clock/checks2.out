@@ -1,0 +1,18 @@
+epic dev/creator rows 75 W 2.33 | epic consumer rows 124 W 2.08
+  sample consumer names: ['Fortnite Login and Matchmaking Issues', 'Epic Games Store iOS Issue', 'Trader Verification outage', 'Matchmaking issues in Fortnite', 'Fortnite Login Issues on Xbox', 'Fortnite Login Issues on PlayStation 4 a', 'Error When Installing or Updating on Epi', 'Fortnite Login Issues']
+consumer_core   all: n=256 W=2.61 Fri/TueThu=0.79 Mon/TueThu=0.71 Sat=28 Sun=6
+                collapsed 3h: n=237 W=2.99 Fri/TueThu=0.78 Mon/TueThu=0.76 Sat=23 Sun=5
+                no none/zero: n=196 W=2.30 Fri/TueThu=0.70 Mon/TueThu=0.78 Sat=23 Sun=6
+                both: n=183 W=2.65 Fri/TueThu=0.71 Mon/TueThu=0.83 Sat=19 Sun=5
+work_no_twilio  all: n=1095 W=4.07 Fri/TueThu=0.56 Mon/TueThu=0.90 Sat=46 Sun=52
+                collapsed 3h: n=980 W=3.82 Fri/TueThu=0.62 Mon/TueThu=0.88 Sat=44 Sun=49
+                no none/zero: n=895 W=4.44 Fri/TueThu=0.54 Mon/TueThu=0.91 Sat=33 Sun=41
+                both: n=806 W=4.21 Fri/TueThu=0.60 Mon/TueThu=0.87 Sat=31 Sun=39
+work            all: n=5702 W=2.86 Fri/TueThu=0.75 Mon/TueThu=0.98 Sat=342 Sun=357
+                collapsed 3h: n=3448 W=2.25 Fri/TueThu=0.77 Mon/TueThu=0.95 Sat=258 Sun=263
+                no none/zero: n=4963 W=2.68 Fri/TueThu=0.74 Mon/TueThu=0.98 Sat=314 Sun=330
+                both: n=3142 W=2.19 Fri/TueThu=0.76 Mon/TueThu=0.94 Sat=237 Sun=249
+crypto          all: n=1978 W=2.47 Fri/TueThu=0.75 Mon/TueThu=0.79 Sat=134 Sun=142
+                collapsed 3h: n=1695 W=2.38 Fri/TueThu=0.79 Mon/TueThu=0.84 Sat=120 Sun=124
+                no none/zero: n=1452 W=2.46 Fri/TueThu=0.76 Mon/TueThu=0.79 Sat=102 Sun=101
+                both: n=1281 W=2.34 Fri/TueThu=0.81 Mon/TueThu=0.83 Sat=94 Sun=93
