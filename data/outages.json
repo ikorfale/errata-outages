@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T12:20Z",
+ "checked": "2026-11-28T14:25Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -45,6 +45,7 @@
   "Epic Games",
   "Gemini (exchange)",
   "GitHub",
+  "Klarna",
   "Kraken",
   "OpenAI",
   "Shopify",
@@ -386,6 +387,20 @@
    "hours": 3.8
   },
   {
+   "key": "sp:cloudflare:6crqy1zulybd",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "Cloudflare",
+   "sector": "cloud",
+   "title": "Workers AI - Deepseek Flash increased errors",
+   "impact": "minor",
+   "status": "resolved",
+   "started": "2026-11-26T14:41Z",
+   "url": "https://www.cloudflarestatus.com/incidents/6crqy1zulybd",
+   "text": "Cloudflare is investigating an increased amount of errors from Deepseek Flash on Workers AI.",
+   "ended": "2026-11-26T14:42Z",
+   "hours": 0.0
+  },
+  {
    "key": "sp:kraken:1n8qtknpxrd7",
    "first_seen": "2026-11-26T19:22:47Z",
    "source": "Kraken",
@@ -412,6 +427,20 @@
    "text": "A fix has been implemented and we are monitoring the results.",
    "ended": "2026-11-26T18:18Z",
    "hours": 4.0
+  },
+  {
+   "key": "sp:cloudflare:qlwszxx4667e",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "Cloudflare",
+   "sector": "cloud",
+   "title": "Cloudflare Billing Issues",
+   "impact": "minor",
+   "status": "resolved",
+   "started": "2026-11-26T09:28Z",
+   "url": "https://www.cloudflarestatus.com/incidents/qlwszxx4667e",
+   "text": "Cloudflare is experiencing problems in processing changes through our billing subscription service for R2. All other services are operating normally. We will provide an update once billing subscription services return to normal.",
+   "ended": "2026-11-26T09:37Z",
+   "hours": 0.1
   },
   {
    "key": "sp:cloudflare:mkudgr09g9ax",
@@ -582,6 +611,20 @@
    "hours": 7.0
   },
   {
+   "key": "sp:github:189rrqcfhc75",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "GitHub",
+   "sector": "dev",
+   "title": "MAI Code 2 Degredation",
+   "impact": "minor",
+   "status": "resolved",
+   "started": "2026-11-25T11:58Z",
+   "url": "https://stspg.io/djn1brd9cmzj",
+   "text": "We are investigating reports of degraded performance for Copilot AI Model Providers",
+   "ended": "2026-11-25T12:03Z",
+   "hours": 0.1
+  },
+  {
    "key": "sp:openai:01M898HVZGXFV2XC4775CG9GF8",
    "first_seen": "2026-11-25T11:50:17Z",
    "source": "OpenAI",
@@ -652,6 +695,20 @@
    "hours": 57.2
   },
   {
+   "key": "sp:kraken:91v7w0wckz6g",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "Kraken",
+   "sector": "crypto",
+   "title": "Interac e-Transfer (CAD) Withdrawal Delays",
+   "impact": "minor",
+   "status": "resolved",
+   "started": "2026-11-25T06:30Z",
+   "url": "https://stspg.io/ql36rr6g5bw8",
+   "text": "We're investigating an issue with the Interac e-Transfer (CAD) funding gateway. Withdrawals may be delayed at this time. All other funding methods are operating normally. We are working diligently to resolve the issue and will keep you updated.",
+   "ended": "2026-11-26T04:44Z",
+   "hours": 22.2
+  },
+  {
    "key": "sp:linode:qmwj3pny6r6t",
    "first_seen": "2026-11-25T03:55:20Z",
    "source": "Akamai Linode",
@@ -664,6 +721,20 @@
    "text": "Our investigation has identified that the intermittent connectivity issues in the Newark data center are caused by recurring, high-volume traffic surges targeting specific workloads hosted in this data center. Our network operations team is actively applying mitigations to reduce impact and closely monitoring network stability as we work toward a full resolution. If you are experiencing issues and",
    "ended": "2026-11-25T19:00Z",
    "hours": 15.3
+  },
+  {
+   "key": "sp:cloudflare:lqojvojhdcjv",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "Cloudflare",
+   "sector": "cloud",
+   "title": "Elevated number of 5xx errors in Frankfurt",
+   "impact": "minor",
+   "status": "resolved",
+   "started": "2026-11-25T02:35Z",
+   "url": "https://www.cloudflarestatus.com/incidents/lqojvojhdcjv",
+   "text": "Between 02:35-02:45 UTC customers reaching Frankfurt, DE, may have experienced an elevated number of 5xx errors.",
+   "ended": "2026-11-25T02:45Z",
+   "hours": 0.2
   },
   {
    "key": "sp:github:m0wx9qml7yjh",
@@ -916,6 +987,20 @@
    "hours": 1.1
   },
   {
+   "key": "sp:shopify:m1grsygpsdbb",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "Shopify",
+   "sector": "payments",
+   "title": "Errors at Online Store Checkout and Point Of Sale Checkout",
+   "impact": "major",
+   "status": "resolved",
+   "started": "2026-11-23T17:54Z",
+   "url": "https://stspg.io/3hqwrkt6w96w",
+   "text": "Merchants and buyers may see errors completing checkouts for Online Store and Point Of Sale",
+   "ended": "2026-11-23T18:47Z",
+   "hours": 0.9
+  },
+  {
    "key": "sp:twilio:40yqdkh8kxj6",
    "first_seen": "2026-11-23T17:40:19Z",
    "source": "Twilio",
@@ -928,6 +1013,20 @@
    "text": "We have observed a recovery in SMS delivery from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available.",
    "ended": "2026-11-24T14:38Z",
    "hours": 21.0
+  },
+  {
+   "key": "sp:klarna:db98dgfd7xlm",
+   "first_seen": "2026-11-28T14:23:54Z",
+   "source": "Klarna",
+   "sector": "payments",
+   "title": "On-site messaging disruption – Recovery",
+   "impact": "minor",
+   "status": "resolved",
+   "started": "2026-11-23T17:09Z",
+   "url": "https://stspg.io/r906yzw00sdb",
+   "text": "Some merchants using our On-site Messaging integration, in the US region, experienced errors that prevented Klarna promotional messaging from displaying on their websites. This disruption occurred 16:20 CET. \n\nOn-site Messaging integration is operational and monitoring continues with recovery of this service.",
+   "ended": "2026-11-23T17:20Z",
+   "hours": 0.2
   },
   {
    "key": "sp:twilio:llqf69fxcqvm",
