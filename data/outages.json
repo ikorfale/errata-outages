@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T06:14Z",
+ "checked": "2026-11-28T09:17Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,6 +54,18 @@
  ],
  "incidents": [
   {
+   "key": "sp:cloudflare:27xnfvjy0n6j",
+   "first_seen": "2026-11-28T07:30:20Z",
+   "source": "Cloudflare",
+   "sector": "cloud",
+   "title": "Email Delivery Delays",
+   "impact": "critical",
+   "status": "identified",
+   "started": "2026-11-28T07:21Z",
+   "url": "https://www.cloudflarestatus.com/incidents/27xnfvjy0n6j",
+   "text": "The issue has been identified and a fix is being implemented."
+  },
+  {
    "key": "sp:cloudflare:j7ihgms4mvhb",
    "first_seen": "2026-11-28T04:58:20Z",
    "source": "Cloudflare",
@@ -89,7 +101,9 @@
    "status": "monitoring",
    "started": "2026-11-28T03:53Z",
    "url": "https://stspg.io/lpls35w8mbw6",
-   "text": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Operational)\n\nCanada:\nBell Mobility - (status - Operational)\nVideotron in Canada  (status - Operational)\nCogeco - (status - Operational)\n\nWe are actively working with our ca"
+   "text": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Operational)\n\nCanada:\nBell Mobility - (status - Operational)\nVideotron in Canada  (status - Operational)\nCogeco - (status - Operational)\n\nWe are actively working with our ca",
+   "ended": "2026-11-28T06:45Z",
+   "hours": 2.9
   },
   {
    "key": "sp:twilio:qy6bq086wp3b",
