@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T00:22Z",
+ "checked": "2026-11-28T03:12Z",
  "since": "2026-11-17",
  "sources": [
   "AWS",
@@ -54,6 +54,20 @@
  ],
  "incidents": [
   {
+   "key": "sp:twilio:qy6bq086wp3b",
+   "first_seen": "2026-11-28T02:41:24Z",
+   "source": "Twilio",
+   "sector": "comms",
+   "title": "Zipwhip Wholesale SMS Delivery Failures in Canada",
+   "impact": "minor",
+   "status": "investigating",
+   "started": "2026-11-28T02:29Z",
+   "url": "https://stspg.io/13zldnp4xc89",
+   "text": "We are investigating an issue with Zipwhip Wholesale. Users may experience messages not being delivered to recipients in Canada when sending SMS through the Zipwhip Toll-Free SMPP API. We will provide another update in 1 hour or as soon as more information becomes available.",
+   "ended": "2026-11-28T02:56Z",
+   "hours": 0.4
+  },
+  {
    "key": "sp:twilio:hh13jhqgnmzh",
    "first_seen": "2026-11-27T21:20:19Z",
    "source": "Twilio",
@@ -63,7 +77,9 @@
    "status": "monitoring",
    "started": "2026-11-27T21:11Z",
    "url": "https://stspg.io/z6kc8xc5l037",
-   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Long-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Long-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-28T02:11Z",
+   "hours": 5.0
   },
   {
    "key": "sp:twilio:2yzm68jqtl5q",
@@ -113,7 +129,9 @@
    "status": "monitoring",
    "started": "2026-11-27T17:40Z",
    "url": "https://stspg.io/gyrgw2z3kzpz",
-   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant SMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-28T01:55Z",
+   "hours": 8.2
   },
   {
    "key": "sp:twilio:wr55v3qb6hjp",
@@ -139,7 +157,9 @@
    "status": "monitoring",
    "started": "2026-11-27T16:57Z",
    "url": "https://stspg.io/4ytn0nz8xcgp",
-   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Short-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Short-Code to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-28T01:40Z",
+   "hours": 8.7
   },
   {
    "key": "sp:twilio:93c38rcb25dz",
@@ -151,7 +171,9 @@
    "status": "monitoring",
    "started": "2026-11-27T16:53Z",
    "url": "https://stspg.io/jbf2vqmwn628",
-   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available."
+   "text": "Our monitoring shows overall improvement in carrier-side traffic congestion, and we are observing instant MMS delivery from Twilio Toll-Free to US/CA Carriers at this time. We will continue monitoring the overall carrier networks to ensure a full recovery. We will provide another update in 4 hours or as soon as more information becomes available.",
+   "ended": "2026-11-28T00:54Z",
+   "hours": 8.0
   },
   {
    "key": "sp:kraken:fj8rtq8hh1cz",
