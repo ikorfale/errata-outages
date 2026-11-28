@@ -1,0 +1,21 @@
+all       shift  +0  ev  754 sp  47  ctl  6042 sp 228  lift 1.65
+all       shift -14  ev  738 sp  42  ctl  6161 sp 235  lift 1.49
+all       shift  -7  ev  743 sp  45  ctl  6112 sp 229  lift 1.62
+all       shift  +7  ev  749 sp  31  ctl  6076 sp 250  lift 1.01
+all       shift +14  ev  740 sp  34  ctl  6160 sp 264  lift 1.07
+anthropic shift  +0  ev  222 sp  24  ctl   130 sp   2  lift 7.03
+anthropic shift -14  ev  215 sp  13  ctl   140 sp  11  lift 0.77
+anthropic shift  -7  ev  218 sp  14  ctl   135 sp   5  lift 1.73
+anthropic shift  +7  ev  219 sp  11  ctl   135 sp  11  lift 0.62
+anthropic shift +14  ev  215 sp  12  ctl   142 sp  14  lift 0.57
+github    shift  +0  ev  110 sp   7  ctl   187 sp   2  lift 5.95
+github    shift -14  ev  109 sp   4  ctl   195 sp   6  lift 1.19
+github    shift  -7  ev  110 sp   1  ctl   189 sp   5  lift 0.34
+github    shift  +7  ev  109 sp   2  ctl   190 sp   0  lift nan
+github    shift +14  ev  109 sp   5  ctl   197 sp   0  lift nan
+rest      shift  +0  ev  422 sp  16  ctl  5725 sp 224  lift 0.97
+rest      shift -14  ev  414 sp  25  ctl  5826 sp 218  lift 1.61
+rest      shift  -7  ev  415 sp  30  ctl  5788 sp 219  lift 1.91
+rest      shift  +7  ev  421 sp  18  ctl  5751 sp 239  lift 1.03
+rest      shift +14  ev  416 sp  17  ctl  5821 sp 250  lift 0.95
+{'short<2h': 442, 'short<2h_sp': 23, 'long>=2h': 312, 'long>=2h_sp': 24} long 0.077 short 0.052

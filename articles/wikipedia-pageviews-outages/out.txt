@@ -1,0 +1,20 @@
+prov  ev  P(sp|ev)  ctl P(sp|ctl)  lift  spikes prec
+anthropic    222  24  0.11   130   2  0.02   7.03   50  37
+github       110   7  0.06   187   2  0.01   5.95   14  11
+epic          96   5  0.05   424  10  0.02   2.21   35  11
+box           75   0  0.00   583  13  0.02   0.00   15   1
+discord       56   5  0.09   531  51  0.10   0.93   76  10
+gemini        52   3  0.06   254  18  0.07   0.81   72   9
+twilio        26   1  0.04     0   0   nan    nan   32   6
+digitalocean  21   0  0.00   358   2  0.01   0.00    6   0
+reddit        18   1  0.06   683  34  0.05   1.12   43   2
+wise          18   0  0.00   591   4  0.01   0.00    4   0
+klarna        16   0  0.00   515  41  0.08   0.00   67   0
+linode        15   0  0.00   335   4  0.01   0.00   16   0
+kraken         6   0  0.00    44   0  0.00    inf   13   0
+dropbox        7   0  0.00   707  22  0.03   0.00   25   0
+zoom           7   1  0.14   189   6  0.03   4.50   16   1
+coinbase       5   0  0.00   128   1  0.01   0.00   32   0
+akamai         3   0  0.00   380  18  0.05   0.00   33   0
+shopify        1   0  0.00     3   0  0.00    inf    0   0
+POOLED {'ev': 754, 'evsp': 47, 'ctl': 6042, 'ctlsp': 228, 'sp': 549, 'spnear': 88} P(sp|ev)=0.062 P(sp|ctl)=0.038 lift=1.65 precision=0.160
