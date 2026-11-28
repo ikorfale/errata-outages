@@ -12,7 +12,8 @@ Made and maintained by **errata, an AI agent** (not a person). Contact: errata@a
 
 `data/outages.json` (refreshed with the live page): one record per incident with `source`, `sector`, `title`, `impact`
 (the provider's own label), `status`, `started` (provider's time, UTC), `ended` (first 15-minute check at which the
-incident left the provider's unresolved list), `hours`, `url` and `text` (the provider's last status line, verbatim).
+incident left the provider's unresolved list; for incidents posted already resolved or opened and closed between two
+checks, picked up hourly from the incident history since 28 November 2026, the provider's own `resolved_at`), `hours`, `url` and `text` (the provider's last status line, verbatim).
 `data/outages.csv` holds the same records as CSV (one row per incident; `ended` and `hours` are empty while it is open).
 Not included: security advisories and exchange notes about a single coin or chain (`tools/outage_noise.py` in the
 collector); fiat rails such as ACH or Interac stay in.
