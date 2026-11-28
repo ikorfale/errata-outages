@@ -1,0 +1,10 @@
+incidents per weekday 2.94, per weekend day 1.22
+BTC range weekday median 3.30%, weekend 1.77%
+within month             platform                 volatile 1.41/day calm 0.61/day ratio 2.31 p=0.0003  (days 139/139)
+within month             funding                  volatile 1.69/day calm 0.62/day ratio 2.73 p=0.0003  (days 139/139)
+within month             load/connectivity words  volatile 0.69/day calm 0.22/day ratio 3.20 p=0.0003  (days 139/139)
+within month x weekend   platform                 volatile 1.40/day calm 1.20/day ratio 1.16 p=0.1120  (days 124/124)
+within month x weekend   funding                  volatile 1.55/day calm 1.32/day ratio 1.17 p=0.0823  (days 124/124)
+within month x weekend   load/connectivity words  volatile 0.69/day calm 0.48/day ratio 1.46 p=0.0213  (days 124/124)
+weekdays, range >= 7.6% (26 days) platform: 1.77/day vs 1.34/day other weekdays, ratio 1.32
+weekdays, range >= 7.6% (26 days) load/connectivity words: 1.00/day vs 0.61/day other weekdays, ratio 1.65

@@ -1,0 +1,22 @@
+days 720 2024-12-08 2026-11-27 unscheduled incidents 1764
+Counter({('Kraken', 'funding'): 509, ('Coinbase', 'platform'): 309, ('Kraken', 'platform'): 299, ('Coinbase', 'funding'): 284, ('Gemini', 'platform'): 205, ('Gemini', 'funding'): 158})
+BTC daily range median 2.94%, quintile cut 1.79% / 4.65%
+Kraken   platform n= 299  per day: volatile 0.611  calm 0.193  ratio 3.16  p(one-sided)=0.000
+Kraken   funding  n= 509  per day: volatile 0.806  calm 0.400  ratio 2.01  p(one-sided)=0.003
+Coinbase platform n= 309  per day: volatile 0.465  calm 0.241  ratio 1.93  p(one-sided)=0.011
+Coinbase funding  n= 284  per day: volatile 0.556  calm 0.214  ratio 2.60  p(one-sided)=0.000
+Gemini   platform n= 205  per day: volatile 0.312  calm 0.200  ratio 1.56  p(one-sided)=0.119
+Gemini   funding  n= 158  per day: volatile 0.299  calm 0.159  ratio 1.88  p(one-sided)=0.051
+all      platform n= 813  per day: volatile 1.389  calm 0.634  ratio 2.19  p(one-sided)=0.000
+all      funding  n= 951  per day: volatile 1.660  calm 0.772  ratio 2.15  p(one-sided)=0.000
+10 widest-range days:
+  2025-10-10 18.5% [('Kraken', 'Connectivity Issues - Web & Mobile - Heavy Load'), ('Kraken', 'Connectivity Issues - Derivatives'), ('Coinbase', 'Degraded performance - Crypto-Backed Loans'), ('Coinbase', 'Degraded performance')]
+  2026-02-06 17.8% [('Kraken', 'Degraded performance on iOS during 3DS authenticat'), ('Kraken', 'Krak Card Ordering/Unfreezing/Activation Issues.')]
+  2026-02-05 14.9% [('Kraken', 'Kraken Derivatives Unscheduled Downtime')]
+  2025-03-02 12.2% [('Kraken', 'Connectivity Issues - Web & Mobile')]
+  2025-02-03 11.8% [('Kraken', 'Wrong confirmation screen - Mobile'), ('Kraken', 'Connectivity Issues - Websocket API'), ('Coinbase', 'Degraded Perfomance Due to Paypal outage'), ('Gemini', 'Gemini Credit Card customers currently unable to u')]
+  2025-04-09 11.8% [('Kraken', 'Account transaction history unavailable'), ('Kraken', 'Connectivity Issues - Web & Mobile')]
+  2026-01-31 10.1% [('Coinbase', 'Delayed Sends and Receives - ZKsync'), ('Gemini', 'Service Degradation - /v1/mytrades REST API Timeou')]
+  2025-03-03 9.9% [('Gemini', 'Singapore BTC Whitelisted Addresses Verification D')]
+  2025-02-26 9.9% [('Coinbase', 'Delayed Transactions'), ('Coinbase', 'Degraded performance - Crypto-Backed Loans')]
+  2026-11-21 9.8% []
